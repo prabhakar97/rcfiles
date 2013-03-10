@@ -1,0 +1,24 @@
+# 
+# /etc/fstab: static file system information
+#
+# <file system>	<dir>	<type>	<options>	<dump>	<pass>
+# /dev/sda5
+UUID=43384961-3345-40bc-9350-0039546d13eb	/         	ext4      	rw,relatime,data=ordered	0 1
+
+# /dev/sda6
+UUID=c1c76cda-c580-4245-b931-ff2a6d0cc48d	/home     	ext4      	rw,relatime,data=ordered	0 2
+
+# /dev/sda8
+UUID=5fab230f-67b4-403a-8b80-e453d9c88e92	none      	swap      	defaults  	0 0
+
+/dev/sda7	/media/Disk-1	btrfs	rw	0	0
+/dev/sda9	/media/Disk-2	reiserfs	rw	0	0
+/dev/sda1	/media/Windows	ntfs	rw	0	0
+10.6.9.113:/media/Disk-1        /media/Remote1  nfs4    noauto,rsize=8192,wsize=8192,timeo=14,intr,_netdev,user     0       0
+10.6.9.113:/media/Disk-2        /media/Remote2  nfs4    noauto,rsize=8192,wsize=8192,timeo=14,intr,_netdev,user     0       0
+10.6.9.113:/media/Disk-3        /media/Remote3  nfs4    noauto,rsize=8192,wsize=8192,timeo=14,intr,_netdev,user     0       0
+10.6.9.113:/home/prabhakar      /media/RemoteHome  nfs4    noauto,rsize=8192,wsize=8192,timeo=14,intr,_netdev,user     0       0
+10.6.9.113:/srv/http            /media/RemoteHTTP  nfs4    noauto,rsize=8192,wsize=8192,timeo=14,intr,_netdev,user     0       0
+https://webdav.yandex.ru:443    /media/Yandex   davfs   user,noauto,uid=prabhakar,file_mode=600,dir_mode=700    0       1
+https://webdav.mydrive.ch    /media/MyDrive   davfs   noauto,defaults,user    0       0
+https://www.box.net/dav    /media/Box   davfs   noauto,defaults,user    0       0
