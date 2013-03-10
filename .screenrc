@@ -11,4 +11,5 @@ screen -t Bash bash
 screen -t Web elinks google.com
 screen -t Music ncmpcpp
 screen -t DCPP ncdc
+screen -t FileManager vifm
 select Bash
