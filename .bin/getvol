@@ -1,0 +1,4 @@
+#!/bin/bash
+
+output=`amixer get Master | tail -1 | awk '{print $5}' | sed s/[%\]]// | cut -b 2-4`
+echo $output

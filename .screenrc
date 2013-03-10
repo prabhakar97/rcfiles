@@ -1,0 +1,14 @@
+startup_message off
+defscrollback 5000
+autodetach on
+backtick 1 60 60 /home/prabhakar/Documents/System/get_uptime
+backtick 2 60 60 /home/prabhakar/Documents/System/get_cputemp Core
+backtick 3 60 60 /home/prabhakar/Documents/System/get_freemem
+backtick 4 60 60 /home/prabhakar/Documents/System/volnoti/getvol.sh
+hardstatus alwayslastline
+hardstatus string '%{= kG}%-Lw%{= kW}%50> %n*%f %t%{= kG}%+Lw%< %{= kG}%-= Uptime: %1`min Temp: %2` MemFree: %3` Vol: %4` | %D %d/%m/%y %C:%s %A'
+screen -t Bash bash
+screen -t Web w3m google.com
+screen -t FileManager vifm
+screen -t Music ncmpcpp
+select Bash

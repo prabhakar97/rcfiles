@@ -1,0 +1,5862 @@
+info_begin
+format: 1
+mpd_version: 0.17.3
+fs_charset: UTF-8
+tag: Artist
+tag: ArtistSort
+tag: Album
+tag: AlbumArtist
+tag: AlbumArtistSort
+tag: Title
+tag: Track
+tag: Name
+tag: Genre
+tag: Date
+tag: Composer
+tag: Performer
+tag: Disc
+tag: MUSICBRAINZ_ARTISTID
+tag: MUSICBRAINZ_ALBUMID
+tag: MUSICBRAINZ_ALBUMARTISTID
+tag: MUSICBRAINZ_TRACKID
+info_end
+directory: DJ Songs
+mtime: 1341744849
+begin: DJ Songs
+directory: Desi-Funk-Harry-Anand-2011-320Kbps(Songs.PK)
+mtime: 1341744836
+begin: DJ Songs/Desi-Funk-Harry-Anand-2011-320Kbps(Songs.PK)
+song_begin: [Songs.PK] Desi Funk - 01 - Sun Kudiye.mp3
+Time: 222
+Artist: Harry Anand
+AlbumArtist: www.Songs.PK
+Title: Sun Kudiye - www.Songs.PK
+Album: Desi Funk (Harry Anand)
+Track: 1
+Date: 2011
+Genre: Indipop
+Composer: Harry Anand
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+mtime: 1319038446
+song_end
+song_begin: [Songs.PK] Desi Funk - 02 - U Drive Me Crazy.mp3
+Time: 259
+Artist: Harry Anand
+AlbumArtist: www.Songs.PK
+Title: U Drive Me Crazy - www.Songs.PK
+Album: Desi Funk (Harry Anand)
+Track: 2
+Date: 2011
+Genre: Indipop
+Composer: Harry Anand
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+mtime: 1319038446
+song_end
+song_begin: [Songs.PK] Desi Funk - 03 - Bhoole Na Bhoolaye.mp3
+Time: 294
+Artist: Harry Anand
+AlbumArtist: www.Songs.PK
+Title: Bhoole Na Bhoolaye - www.Songs.PK
+Album: Desi Funk (Harry Anand)
+Track: 3
+Date: 2011
+Genre: Indipop
+Composer: Harry Anand
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+mtime: 1319038448
+song_end
+song_begin: [Songs.PK] Desi Funk - 04 - Ye Raat.mp3
+Time: 259
+Artist: Harry Anand
+AlbumArtist: www.Songs.PK
+Title: Ye Raat - www.Songs.PK
+Album: Desi Funk (Harry Anand)
+Track: 4
+Date: 2011
+Genre: Indipop
+Composer: Harry Anand
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+mtime: 1319038450
+song_end
+song_begin: [Songs.PK] Desi Funk - 05 - Sun Kudiye (Remix).mp3
+Time: 219
+Artist: Harry Anand
+AlbumArtist: www.Songs.PK
+Title: Sun Kudiye (Remix) - www.Songs.PK
+Album: Desi Funk (Harry Anand)
+Track: 5
+Date: 2011
+Genre: Indipop
+Composer: Harry Anand
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+mtime: 1319038450
+song_end
+song_begin: [Songs.PK] Desi Funk - 06 - U Drive Me Crazy (Remix).mp3
+Time: 230
+Artist: Harry Anand
+AlbumArtist: www.Songs.PK
+Title: U Drive Me Crazy (Remix) - www.Songs.PK
+Album: Desi Funk (Harry Anand)
+Track: 6
+Date: 2011
+Genre: Indipop
+Composer: Harry Anand
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+mtime: 1319038452
+song_end
+end: DJ Songs/Desi-Funk-Harry-Anand-2011-320Kbps(Songs.PK)
+directory: Dj-Dance-Remixes-Vol2-128Kbps(Songs.PK)
+mtime: 1341744845
+begin: DJ Songs/Dj-Dance-Remixes-Vol2-128Kbps(Songs.PK)
+song_begin: 01 - Le Ja Tu Mujhe (Progressive Electro Mix).mp3
+Time: 232
+Artist: DJ MHA feat. Atif Aslam
+AlbumArtist: www.Songs.PK
+Title: Le Ja Tu Mujhe (Progressive Electro Mix) - www.Songs.PK
+Album: Dj Dance Remixes Vol.2
+Track: 01
+Date: 2011
+Genre: Bollywood Remixes
+Composer: www.Songs.PK
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+Disc: 1
+mtime: 1299710290
+song_end
+song_begin: 02 - Darling (Josh Mix).mp3
+Time: 250
+Artist: DJ Josh
+AlbumArtist: www.Songs.PK
+Title: Darling (Josh Mix) - www.Songs.PK
+Album: Dj Dance Remixes Vol.2
+Track: 02
+Date: 2011
+Genre: Bollywood Remixes
+Composer: www.Songs.PK
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+Disc: 1
+mtime: 1299710290
+song_end
+song_begin: 03 - Nain Nashiley (Dj A.Sen Smuggler Mix).mp3
+Time: 246
+Artist: Dj A.Sen
+AlbumArtist: www.Songs.PK
+Title: Nain Nashiley (Dj A.Sen Smuggler Mix) - www.Songs.PK
+Album: Dj Dance Remixes Vol.2
+Track: 03
+Date: 2011
+Genre: Bollywood Remixes
+Composer: www.Songs.PK
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+Disc: 1
+mtime: 1299710290
+song_end
+song_begin: 04 - Tu Hi Meri Shab Hai (Remix).mp3
+Time: 307
+Artist: Dj Chirag & Dj Rahul Vaidya
+AlbumArtist: www.Songs.PK
+Title: Tu Hi Meri Sab (Club Mix) - www.Songs.PK
+Album: Dj Dance Remixes Vol.2
+Track: 04
+Date: 2011
+Genre: Bollywood Remixes
+Composer: www.Songs.PK
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+Disc: 1
+mtime: 1299710290
+song_end
+song_begin: 05 - Laung Da Lashkara (Dhol 2011 Mix).mp3
+Time: 277
+Artist: DJ Navi
+AlbumArtist: www.Songs.PK
+Title: Laung Da Lashkara (Dhol 2011 Mix) - www.Songs.PK
+Album: Dj Dance Remixes Vol.2
+Track: 05
+Date: 2011
+Genre: Bollywood Remixes
+Composer: www.Songs.PK
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+Disc: 1
+mtime: 1299710290
+song_end
+song_begin: 06 - Yaamla Paagla Deewana (New Version).mp3
+Time: 258
+Artist: Nouman Javaid
+AlbumArtist: www.Songs.PK
+Title: Yaamla Paagla Deewana (New Version) - www.Songs.PK
+Album: Dj Dance Remixes Vol.2
+Track: 06
+Date: 2011
+Genre: Bollywood Remixes
+Composer: www.Songs.PK
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+Disc: 1
+mtime: 1299710290
+song_end
+song_begin: 07 - Pehla Nasha (Ribin Mix).mp3
+Time: 484
+Artist: Ribin Richard
+AlbumArtist: www.Songs.PK
+Title: Pehla Nasha (Ribin Mix) - www.Songs.PK
+Album: Dj Dance Remixes Vol.2
+Track: 07
+Date: 2011
+Genre: Bollywood Remixes
+Composer: www.Songs.PK
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+Disc: 1
+mtime: 1299710290
+song_end
+song_begin: 08 - Zara Zara (Remix).mp3
+Time: 371
+Artist: Mandro & Dj Soul
+AlbumArtist: www.Songs.PK
+Title: Zara Zara (Mandro vs Dj Soul Remix) - www.Songs.PK
+Album: Dj Dance Remixes Vol.2
+Track: 08
+Date: 2011
+Genre: Bollywood Remixes
+Composer: www.Songs.PK
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+Disc: 1
+mtime: 1299710290
+song_end
+song_begin: 09 - Toh Phir Aao (Love In Da Bass Rmx).mp3
+Time: 284
+Artist: DJ Bapu
+AlbumArtist: www.Songs.PK
+Title: Toh Phir Aao (Love In Da Bass Rmx) - www.Songs.PK
+Album: Dj Dance Remixes Vol.2
+Track: 09
+Date: 2011
+Genre: Bollywood Remixes
+Composer: www.Songs.PK
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+Disc: 1
+mtime: 1299710290
+song_end
+song_begin: 10 - Mere Bina (Lijo's Remix).mp3
+Time: 351
+Artist: DJ Lijo
+AlbumArtist: www.Songs.PK
+Title: Mere Bina (Lijo's Remix) - www.Songs.PK
+Album: Dj Dance Remixes Vol.2
+Track: 10
+Date: 2011
+Genre: Bollywood Remixes
+Composer: www.Songs.PK
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+Disc: 1
+mtime: 1299710290
+song_end
+song_begin: 11 - Tere Liye (Remix).mp3
+Time: 266
+Artist: Saching Gupta Ft Ramji Gulati
+AlbumArtist: www.Songs.PK
+Title: Tere Liye (Remix) - www.Songs.PK
+Album: Dj Dance Remixes Vol.2
+Track: 11
+Date: 2011
+Genre: Bollywood Remixes
+Composer: www.Songs.PK
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+Disc: 1
+mtime: 1299710290
+song_end
+song_begin: 12 - Sadi Gali (Kilohertz 2011 Re-Edit).mp3
+Time: 349
+Artist: DJ Kilohertz
+AlbumArtist: www.Songs.PK
+Title: Sadi Gali (Kilohertz 2011 Re-Edit) - www.Songs.PK
+Album: Dj Dance Remixes Vol.2
+Track: 12
+Date: 2011
+Genre: Bollywood Remixes
+Composer: www.Songs.PK
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+Disc: 1
+mtime: 1299710290
+song_end
+song_begin: 13 - Tinku Jiya (Club Mix).mp3
+Time: 340
+Artist: DJette Smita
+AlbumArtist: www.Songs.PK
+Title: Tinku Jiya (Club Mix) - www.Songs.PK
+Album: Dj Dance Remixes Vol.2
+Track: 13
+Date: 2011
+Genre: Bollywood Remixes
+Composer: www.Songs.PK
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+Disc: 1
+mtime: 1299710290
+song_end
+song_begin: 14 - Sadi Gali (Progressive Electro Remix).mp3
+Time: 408
+Artist: DJ Kaustabh
+AlbumArtist: www.Songs.PK
+Title: Sadi Gali (Progressive Electro Remix) - www.Songs.PK
+Album: Dj Dance Remixes Vol.2
+Track: 14
+Date: 2011
+Genre: Bollywood Remixes
+Composer: www.Songs.PK
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+Disc: 1
+mtime: 1299710290
+song_end
+song_begin: 15 - Jaane Jaan (Underground Mix).mp3
+Time: 336
+Artist: DJ Anshul
+AlbumArtist: www.Songs.PK
+Title: Jaane Jaan (Underground Mix) - www.Songs.PK
+Album: Dj Dance Remixes Vol.2
+Track: 15
+Date: 2011
+Genre: Bollywood Remixes
+Composer: www.Songs.PK
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+Disc: 1
+mtime: 1299710290
+song_end
+song_begin: 16 - Oh Oh Jaane Jaana (Remix) - DJ U.D.mp3
+Time: 248
+Artist: DJ .U.D.& Jowin
+AlbumArtist: www.Songs.PK
+Title: Oh Oh Jaane Jaana (UD Mix) - www.Songs.PK
+Album: Dj Dance Remixes Vol.2
+Track: 16
+Date: 2011
+Genre: Bollywood Remixes
+Composer: www.Songs.PK
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+Disc: 1
+mtime: 1299710290
+song_end
+song_begin: 17 - Doorie (Atif Aslam) (Remix)].mp3
+Time: 264
+Artist: Sachin Gupta & Ramji Gulati
+AlbumArtist: www.Songs.PK
+Title: Doorie (Atif Aslam) (Remix) - www.Songs.PK
+Album: Dj Dance Remixes Vol.2
+Track: 17
+Date: 2011
+Genre: Bollywood Remixes
+Composer: www.Songs.PK
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+Disc: 1
+mtime: 1299710290
+song_end
+song_begin: 18 - Laung Da Lashkara (Desi Dutch Remix).mp3
+Time: 274
+Artist: DJ Harsh
+AlbumArtist: www.Songs.PK
+Title: Laung Da Lashkara (Desi Dutch Remix) - www.Songs.PK
+Album: Dj Dance Remixes Vol.2
+Track: 18
+Date: 2011
+Genre: Bollywood Remixes
+Composer: www.Songs.PK
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+Disc: 1
+mtime: 1299710290
+song_end
+song_begin: 19 - Koi Na Koi Chahiye (DJ Bapu Remix).mp3
+Time: 260
+Artist: DJ Bapu
+AlbumArtist: www.Songs.PK
+Title: Koi Na Koi Chahiye (DJ Bapu Remix) - www.Songs.PK
+Album: Dj Dance Remixes Vol.2
+Track: 19
+Date: 2011
+Genre: Bollywood Remixes
+Composer: www.Songs.PK
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+Disc: 1
+mtime: 1299710290
+song_end
+song_begin: 20 - Sau Baar (Love Hip Hop Mix).mp3
+Time: 254
+Artist: DJ Aviek
+AlbumArtist: www.Songs.PK
+Title: Sau Baar (Love Hip Hop Mix) - www.Songs.PK
+Album: Dj Dance Remixes Vol.2
+Track: 20
+Date: 2011
+Genre: Bollywood Remixes
+Composer: www.Songs.PK
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+Disc: 1
+mtime: 1299710290
+song_end
+song_begin: 21 - Tuhe Bhula Diya (Remix).mp3
+Time: 365
+Artist: Deejay VikasJ
+AlbumArtist: www.Songs.PK
+Title: Tuhe Bhula Diya (Remix) - www.Songs.PK
+Album: Dj Dance Remixes Vol.2
+Track: 21
+Date: 2011
+Genre: Bollywood Remixes
+Composer: www.Songs.PK
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+Disc: 1
+mtime: 1299710290
+song_end
+song_begin: 22 - Dil Ka Diya (House Remix).mp3
+Time: 267
+Artist: DJ Yawar & DJ ZEB
+AlbumArtist: www.Songs.PK
+Title: Dil Ka Diya (House Remix) - www.Songs.PK
+Album: Dj Dance Remixes Vol.2
+Track: 22
+Date: 2011
+Genre: Bollywood Remixes
+Composer: www.Songs.PK
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+Disc: 1
+mtime: 1299710290
+song_end
+song_begin: 23 - Yamla Pagla Deewana (Jat Mix).mp3
+Time: 284
+Artist: Dj Ibbi
+AlbumArtist: www.Songs.PK
+Title: Yamla Pagla Deewana (Jat Mix) - www.Songs.PK
+Album: Dj Dance Remixes Vol.2
+Track: 23
+Date: 2011
+Genre: Bollywood Remixes
+Composer: www.Songs.PK
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+Disc: 1
+mtime: 1299710290
+song_end
+song_begin: 24 - Sadi Gali (Shadow Mix).mp3
+Time: 420
+Artist: DJ 91.Feat.Dj Shadow
+AlbumArtist: www.Songs.PK
+Title: Sadi Gali (Shadow Mix) - www.Songs.PK
+Album: Dj Dance Remixes Vol.2
+Track: 24
+Date: 2011
+Genre: Bollywood Remixes
+Composer: www.Songs.PK
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+Disc: 1
+mtime: 1299710290
+song_end
+end: DJ Songs/Dj-Dance-Remixes-Vol2-128Kbps(Songs.PK)
+directory: Dj-Dance-Remixes-Vol3-128Kbps(Songs.PK)
+mtime: 1341744855
+begin: DJ Songs/Dj-Dance-Remixes-Vol3-128Kbps(Songs.PK)
+song_begin: 01 - Teri Meri (Remix) - DJ Zedi.mp3
+Time: 310
+Artist: DJ Zedi
+AlbumArtist: www.Songs.PK
+Title: Teri Meri (Remix) - www.Songs.PK
+Album: DJ Dance Remixes Vol.3
+Track: 01
+Date: 2011
+Genre: Bollywood Remixes
+Composer: Songs.PK - Remixes (Various DJ's)
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+mtime: 1316818334
+song_end
+song_begin: 02 - Phir Mohabbat (Remix) - DJ Nawed & Zohaib Khan.mp3
+Time: 377
+Artist: Nawed & Zoheb Khan Bootleg
+AlbumArtist: www.Songs.PK
+Title: Phir Mohabbat (Remix) - www.Songs.PK
+Album: DJ Dance Remixes Vol.3
+Track: 02
+Genre: Bollywood Remixes
+Composer: Songs.PK - Remixes (Various DJ's)
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+mtime: 1316818334
+song_end
+song_begin: 03 - I Hate You (Like I Love You) - DJ Akhil Talreja.mp3
+Time: 321
+Artist: Dj Akhil Talreja
+AlbumArtist: www.Songs.PK
+Title: I Hate You (Like I Love You - Remix) - www.Songs.PK
+Album: DJ Dance Remixes Vol.3
+Track: 03
+Genre: Bollywood Remixes
+Composer: Songs.PK - Remixes (Various DJ's)
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+mtime: 1316818334
+song_end
+song_begin: 04 - Jalebi Bai (Funky Mix) - DJ A Sen.mp3
+Time: 238
+Artist: DJ A Sen
+AlbumArtist: www.Songs.PK
+Title: Jalebi Bai (Funky Mix) - www.Songs.PK
+Album: DJ Dance Remixes Vol.3
+Track: 04
+Date: 2011
+Genre: Bollywood Remixes
+Composer: Songs.PK - Remixes (Various DJ's)
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+mtime: 1316818334
+song_end
+song_begin: 05 - Chammak Challo - DJ Vaggy Stash & Hani TG.mp3
+Time: 335
+Artist: DJ Vaggy Stash & Hani TG
+AlbumArtist: www.Songs.PK
+Title: Chammak Challo (Remix) - www.Songs.PK
+Album: DJ Dance Remixes Vol.3
+Track: 05
+Date: 2011
+Genre: Bollywood Remixes
+Composer: Songs.PK - Remixes (Various DJ's)
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+mtime: 1316818334
+song_end
+song_begin: 06 - Shera Di Khom (Remix) - Dj Nishant & Sahil Joshi.mp3
+Time: 228
+Artist: DJ Nishant & Sahil Joshi
+AlbumArtist: www.Songs.PK
+Title: Shera Di Khom (Remix) - www.Songs.PK
+Album: DJ Dance Remixes Vol.3
+Track: 06
+Date: 2011
+Genre: Bollywood Remixes
+Composer: Songs.PK - Remixes (Various DJ's)
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+mtime: 1316818334
+song_end
+song_begin: 07 - Switty Switty (Remix) - Dj Kawal.mp3
+Time: 235
+Artist: Dj Kawal
+AlbumArtist: www.Songs.PK
+Title: Switty Switty (Remix) - www.Songs.PK
+Album: DJ Dance Remixes Vol.3
+Track: 07
+Date: 2011
+Genre: Bollywood Remixes
+Composer: Songs.PK - Remixes (Various DJ's)
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+mtime: 1316818334
+song_end
+song_begin: 08 - Mere Brother Ki Dulhan (Funked Up Mix) - Dj Ravish & Dj Chico.mp3
+Time: 295
+Artist: DJ Ravish & Dj Chico
+AlbumArtist: www.Songs.PK
+Title: Mere Brother Ki Dulhan (Funked Up Mix) - www.Songs.PK
+Album: DJ Dance Remixes Vol.3
+Track: 08
+Date: 2011
+Genre: Bollywood Remixes
+Composer: Songs.PK - Remixes (Various DJ's)
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+mtime: 1316818334
+song_end
+song_begin: 09 - Aye Khuda (Fantasy Mix) - Dj Rohan.mp3
+Time: 325
+Artist: DJ Rohan
+AlbumArtist: www.Songs.PK
+Title: Aye Khuda (Fantasy Mix) - www.Songs.PK
+Album: DJ Dance Remixes Vol.3
+Track: 09
+Date: 2011
+Genre: Bollywood Remixes
+Composer: Songs.PK - Remixes (Various DJ's)
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+mtime: 1316818334
+song_end
+song_begin: 10 - Tera Hi Bas Hona Chahoon (Remix) - DJ Lemon.mp3
+Time: 351
+Artist: DJ Lemon
+AlbumArtist: www.Songs.PK
+Title: Tera Hi Bas Hona Chahoon (Remix) - www.Songs.PK
+Album: DJ Dance Remixes Vol.3
+Track: 10
+Date: 2011
+Genre: Bollywood Remixes
+Composer: Songs.PK - Remixes (Various DJ's)
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+mtime: 1316818334
+song_end
+song_begin: 11 - Haal-E-Dil (Remix) - DJ Lemon.mp3
+Time: 332
+Artist: Dj Lemon
+AlbumArtist: www.Songs.PK
+Title: Haal-E-Dil (Remix) - www.Songs.PK
+Album: DJ Dance Remixes Vol.3
+Track: 11
+Date: 2011
+Genre: Bollywood Remixes
+Composer: Songs.PK - Remixes (Various DJ's)
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+mtime: 1316818334
+song_end
+song_begin: 12 - Oye Oye (Remix) - Sanj Deora.mp3
+Time: 259
+Artist: Sanj Deora
+AlbumArtist: www.Songs.PK
+Title: Oye Oye (Remix) - www.Songs.PK
+Album: DJ Dance Remixes Vol.3
+Track: 12
+Date: 2011
+Genre: Bollywood Remixes
+Composer: Songs.PK - Remixes (Various DJ's)
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+mtime: 1316818334
+song_end
+song_begin: 13 - Haal E Dil (Flutone Mix) - Dj Tejas.mp3
+Time: 424
+Artist: DJ Tejas
+AlbumArtist: www.Songs.PK
+Title: Haal E Dil (Flutone Mix) - www.Songs.PK
+Album: DJ Dance Remixes Vol.3
+Track: 13
+Date: 2011
+Genre: Bollywood Remixes
+Composer: Songs.PK - Remixes (Various DJ's)
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+mtime: 1316818334
+song_end
+song_begin: 14 - Phir Mohabbat (Remix) - Dj Lemon.mp3
+Time: 283
+Artist: DJ Lemon
+AlbumArtist: www.Songs.PK
+Title: Phir Mohabbat (Remix) - www.Songs.PK
+Album: DJ Dance Remixes Vol.3
+Track: 14
+Date: 2011
+Genre: Bollywood Remixes
+Composer: Songs.PK - Remixes (Various DJ's)
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+mtime: 1316818334
+song_end
+song_begin: 15 - Ik Junoon (Dirtyloud Trash Edit) - Dj Sitanshu.mp3
+Time: 275
+Artist: DJ Sitanshu
+AlbumArtist: www.Songs.PK
+Title: Ik Junoon (Dirtyloud Trash Edit) - www.Songs.PK
+Album: DJ Dance Remixes Vol.3
+Track: 15
+Date: 2011
+Genre: Bollywood Remixes
+Composer: Songs.PK - Remixes (Various DJ's)
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+mtime: 1316818334
+song_end
+song_begin: 16 - Teri Meri (Remix) - Dj Lijo.mp3
+Time: 276
+Artist: DJ Lijo
+AlbumArtist: www.Songs.PK
+Title: Teri Meri (Remix) - www.Songs.PK
+Album: DJ Dance Remixes Vol.3
+Track: 16
+Date: 2011
+Genre: Bollywood Remixes
+Composer: Songs.PK - Remixes (Various DJ's)
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+mtime: 1316818334
+song_end
+song_begin: 17 - Aa Zara (Remix) - Dj Zedi.mp3
+Time: 228
+Artist: DJ Zedi Feat. Leaf & Sky Blu
+AlbumArtist: www.Songs.PK
+Title: Aa Zara (Remix) - www.Songs.PK
+Album: DJ Dance Remixes Vol.3
+Track: 17
+Date: 2011
+Genre: Bollywood Remixes
+Composer: Songs.PK - Remixes (Various DJ's)
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+mtime: 1316818334
+song_end
+song_begin: 18 - Intezaar (Remix) - Dj Lemon.mp3
+Time: 284
+Artist: Dj Lemon
+AlbumArtist: www.Songs.PK
+Title: Intezaar (Remix) - www.Songs.PK
+Album: DJ Dance Remixes Vol.3
+Track: 18
+Date: 2011
+Genre: Bollywood Remixes
+Composer: Songs.PK - Remixes (Various DJ's)
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+mtime: 1316818334
+song_end
+song_begin: 19 - Desi Beat (Remix) - Dj SRK & O2.mp3
+Time: 235
+Artist: DJ O2 & Dj Srk
+AlbumArtist: www.Songs.PK
+Title: Desi Beat (Remix) - www.Songs.PK
+Album: DJ Dance Remixes Vol.3
+Track: 19
+Date: 2011
+Genre: Bollywood Remixes
+Composer: Songs.PK - Remixes (Various DJ's)
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+mtime: 1316818334
+song_end
+end: DJ Songs/Dj-Dance-Remixes-Vol3-128Kbps(Songs.PK)
+song_begin: 40.Rapture-Dhol Mix.mp3
+Time: 376
+Artist: 40.Rapture
+Title: Dhol Mix
+Genre: Blues
+mtime: 1047441736
+song_end
+song_begin: Why This Kolaveri Di.mp3
+Time: 261
+Artist: Dhanush
+AlbumArtist: Songs.PK
+Title: Why This Kolaveri Di - www.Songs.PK
+Album: 3 - Why This Kolaveri Di ?
+Track: 1
+Date: 2011
+Genre: Tamil
+Composer: Music: Anirudh Ravichander | Dhanush & Aishwarya Dhanush
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+mtime: 1325446017
+song_end
+song_begin: Why This Kolaveri Di (The Tiger Style Bhangra Mix).mp3
+Time: 202
+Artist: Dhanush
+AlbumArtist: Songs.PK
+Title: Why This Kolaveri Di (The Tiger Style Bhangra Mix) - www.Songs.PK
+Album: 3 - Why This Kolaveri Di ?
+Track: 4
+Date: 2011
+Genre: Tamil
+Composer: Music: Anirudh Ravichander | Dhanush & Aishwarya Dhanush
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+mtime: 1325446007
+song_end
+song_begin: Why This Kolaveri Di (The DJ Suketu House Mix).mp3
+Time: 327
+Artist: Dhanush
+AlbumArtist: Songs.PK
+Title: Why This Kolaveri Di (The DJ Suketu House Mix) - www.Songs.PK
+Album: 3 - Why This Kolaveri Di ?
+Track: 12
+Date: 2011
+Genre: Tamil
+Composer: Music: Anirudh Ravichander | Dhanush & Aishwarya Dhanush
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+mtime: 1325446030
+song_end
+song_begin: Are you Ready.mp3
+Time: 380
+Artist: Anti-Funk
+Title: Are you Ready
+Album: Welcome Dance 99
+Genre: Rave
+mtime: 937197284
+song_end
+song_begin: brazil.mp3
+Time: 187
+Title: Track 07
+Album: vengaboys the party album
+Track: 7
+Genre: genre
+mtime: 915150438
+song_end
+end: DJ Songs
+directory: English
+mtime: 1358447734
+begin: English
+song_begin: From The Inside.mp3
+Time: 176
+Artist: wap.jule4ka.com
+Title: From The Inside
+Genre: Blues
+mtime: 1357215585
+song_end
+song_begin: I wanna.mp3
+Time: 202
+Artist: Akon
+Title: I wanna
+Date: 2006
+mtime: 1357215577
+song_end
+song_begin: One Night Man.mp3
+Time: 229
+Title: One Night Man
+Genre: Blues
+mtime: 1357215582
+song_end
+song_begin: Rhythm Divine.mp3
+Time: 212
+Title: 01 - Rhythm Divine
+Genre: Blues
+mtime: 1357215581
+song_end
+song_begin: Be Careful.mp3
+Time: 242
+Artist: Ricky Martin
+Title: Be Careful
+Track: 14
+Genre: genre
+mtime: 1357215578
+song_end
+song_begin: Rihanna_-_Unfaithful.mp3
+Time: 231
+Artist: 03 Rihanna
+Title: Unfaithful
+Album: A Girl Like Me
+Genre: R&B
+mtime: 1357215572
+song_end
+song_begin: Linkinpark - In The End.mp3
+Time: 216
+Artist: [Linkin Park]
+AlbumArtist: Linkin Park
+Title: In The End
+Album: Hybrid Theory [Japan Bonus Tracks]
+Track: 8
+Genre: Other
+Composer: Linkin Park
+mtime: 1357215585
+song_end
+song_begin: Numb.mp3
+Time: 185
+Artist: Linkin Park
+Title: Numb
+Album: Meteora
+Track: 14
+Genre: Rock
+mtime: 1357215573
+song_end
+song_begin: Whenever.MP3
+Time: 197
+Artist: New Artist (5)
+Title: Whenever
+Album: SHAKIRA
+Track: 3
+Genre: default
+mtime: 1357215579
+song_end
+song_begin: Livin La Vida Loca.mp3
+Time: 245
+Artist: Ricky Martin
+Title: Livin La Vida Loca
+Album: The Best Of Ricky Martin
+Track: 1
+Genre: English
+mtime: 1357215584
+song_end
+song_begin: Maria.mp3
+Time: 271
+Artist: Ricky Martin
+Title: Maria
+Album: The Best Of Ricky Martin
+Track: 2
+Genre: English
+mtime: 1357215576
+song_end
+song_begin: She Bangs.mp3
+Time: 282
+Artist: Ricky Martin
+Title: She Bangs
+Album: The Best Of Ricky Martin
+Track: 3
+Genre: English
+mtime: 1357215571
+song_end
+song_begin: The Cup Of Life.mp3
+Time: 274
+Artist: Ricky Martin
+Title: The Cup Of Life
+Album: The Best Of Ricky Martin
+Track: 6
+Genre: English
+mtime: 1357215580
+song_end
+song_begin: Nobody Wants To Be Lonely.mp3
+Time: 253
+Artist: Ricky Martin
+Title: Nobody Wants To Be Lonely
+Album: The Best Of Ricky Martin
+Track: 7
+Date: 1999
+Genre: English
+mtime: 1357215574
+song_end
+song_begin: La Copa De La Vida.mp3
+Time: 273
+Artist: Ricky Martin
+Title: La Copa De La Vida
+Album: title
+Track: 19
+Genre: genre
+mtime: 1357215577
+song_end
+end: English
+directory: Hindi
+mtime: 1358618924
+begin: Hindi
+directory: Latest-0
+mtime: 1358447687
+begin: Hindi/Latest-0
+song_begin: Why This Kolaveri Di.mp3
+Time: 261
+Artist: Dhanush
+AlbumArtist: Songs.PK
+Title: Why This Kolaveri Di - www.Songs.PK
+Album: 3 - Why This Kolaveri Di ?
+Track: 1
+Date: 2011
+Genre: Tamil
+Composer: Music: Anirudh Ravichander | Dhanush & Aishwarya Dhanush
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+mtime: 1357216134
+song_end
+song_begin: SirOsthara.mp3
+Time: 237
+Artist: Suchitra, Thaman. S
+AlbumArtist: Mahesh Babu & Kajal Agarwal
+Title: Sir Osthara [www.AtoZmp3.net]
+Album: Business Man (2012)
+Track: 02
+Date: 2012
+Genre: www.AtoZmp3.net
+Composer: Music : Thaman S | Lyrics : Bhaskarabhatla Ravikumar
+Disc: 01
+mtime: 1357216125
+song_end
+song_begin: 02 - Cocktail - Daaru Desi [DM].mp3
+Time: 270
+Artist: Benny Dayal & Shalmali Kholgade
+AlbumArtist: Pritam
+Title: Daaru Desi - www.DJMaza.Com
+Album: Cocktail (2012)
+Track: 2/10
+Date: 2012
+Genre: Bollywood
+Composer: Music: Pritam | Lyricist:    Irshad Kamil
+Performer: www.DJMaza.Com
+Performer: www.DJMaza.Com
+Disc: 1/1
+mtime: 1357216152
+song_end
+song_begin: 04 - Cocktail - Second Hand Jawaani [DM].mp3
+Time: 242
+Artist: Miss Pooja, Neha Kakkar & Nakkash Aziz
+AlbumArtist: Pritam
+Title: Second Hand Jawaani - www.DJMaza.Com
+Album: Cocktail (2012)
+Track: 4/10
+Date: 2012
+Genre: Bollywood
+Composer: Music: Pritam | Lyricist:    Irshad Kamil
+Performer: www.DJMaza.Com
+Performer: www.DJMaza.Com
+Disc: 1/1
+mtime: 1357216151
+song_end
+song_begin: [Songs.PK] Desi Boyz - 01 - Make Some Noise For The Desi Boyz.mp3
+Time: 244
+Artist: K.K, Bob
+AlbumArtist: Desi Boyz [Songs.PK]
+Title: Make Some Noise For The Desi Boyz - www.Songs.PK
+Album: Desi Boyz
+Track: 1/10
+Date: 2001
+Genre: Bollywood Music
+Composer: Music: Pritam | Lyrics: Irshad Kamil, Kumaar & Amitabh Bhattacharya
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+Disc: 1/1
+mtime: 1357216132
+song_end
+song_begin: [Songs.PK] Desi Boyz - 04 - Allah Maaf Kare.mp3
+Time: 230
+Artist: Sonu Nigam, Shilpa Rao
+AlbumArtist: Desi Boyz [Songs.PK]
+Title: Allah Maaf Kare - www.Songs.PK
+Album: Desi Boyz
+Track: 4/10
+Date: 2001
+Genre: Bollywood Music
+Composer: Music: Pritam | Lyrics: Irshad Kamil, Kumaar & Amitabh Bhattacharya
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+Disc: 1/1
+mtime: 1357216129
+song_end
+song_begin: [Songs.PK] 01 - Jiya Tu.mp3
+Time: 322
+Artist: Majoj Tiwari
+AlbumArtist: www.Songs.PK
+Title: Jiya Tu - www.Songs.PK
+Album: Gangs of Wasseypur
+Track: 01
+Date: 2012
+Genre: Bollywood Music
+Composer: Music: Sneha Khanwalkar | Lyrics: Varun Grover, Piyush Mishra
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+Disc: 1
+mtime: 1357216149
+song_end
+song_begin: [Songs.PK] 02 - Hunter.mp3
+Time: 259
+Artist: Vedesh Sookoo, Rajneesh, Shyamoo & Munna
+AlbumArtist: www.Songs.PK
+Title: Hunter - www.Songs.PK
+Album: Gangs of Wasseypur
+Track: 02
+Date: 2012
+Genre: Bollywood Music
+Composer: Music: Sneha Khanwalkar | Lyrics: Varun Grover, Piyush Mishra
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+Disc: 1
+mtime: 1357216148
+song_end
+song_begin: [Songs.PK] 03 - O Womaniya Live.mp3
+Time: 292
+Artist: Khushboo Raaj, Rekha Jha
+AlbumArtist: www.Songs.PK
+Title: O Womaniya Live - www.Songs.PK
+Album: Gangs of Wasseypur
+Track: 03
+Date: 2012
+Genre: Bollywood Music
+Composer: Music: Sneha Khanwalkar | Lyrics: Varun Grover, Piyush Mishra
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+Disc: 1
+mtime: 1357216144
+song_end
+song_begin: [Songs.PK] 05 - Bhoos.mp3
+Time: 311
+Artist: Manish Tipu, Bhupesh Singh
+AlbumArtist: www.Songs.PK
+Title: Bhoos - www.Songs.PK
+Album: Gangs of Wasseypur
+Track: 05
+Date: 2012
+Genre: Bollywood Music
+Composer: Music: Sneha Khanwalkar | Lyrics: Varun Grover, Piyush Mishra
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+Disc: 1
+mtime: 1357216147
+song_end
+song_begin: [Songs.PK] 06 - Ik Bagal.mp3
+Time: 331
+Artist: Piyush Mishra
+AlbumArtist: www.Songs.PK
+Title: Ik Bagal - www.Songs.PK
+Album: Gangs of Wasseypur
+Track: 06
+Date: 2012
+Genre: Bollywood Music
+Composer: Music: Sneha Khanwalkar | Lyrics: Varun Grover, Piyush Mishra
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+Disc: 1
+mtime: 1357216142
+song_end
+song_begin: [Songs.PK] 08 - Tain Tain To To.mp3
+Time: 242
+Artist: Sneha Khanwalkar
+AlbumArtist: www.Songs.PK
+Title: Tain Tain To To - www.Songs.PK
+Album: Gangs of Wasseypur
+Track: 08
+Date: 2012
+Genre: Bollywood Music
+Composer: Music: Sneha Khanwalkar | Lyrics: Varun Grover, Piyush Mishra
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+Disc: 1
+mtime: 1357216141
+song_end
+song_begin: [Songs.PK] 09 - Soona Kar Ke Gharwa.mp3
+Time: 123
+Artist: Sujeet (Gaya)
+AlbumArtist: www.Songs.PK
+Title: Soona Kar Ke Gharwa - www.Songs.PK
+Album: Gangs of Wasseypur
+Track: 09
+Date: 2012
+Genre: Bollywood Music
+Composer: Music: Sneha Khanwalkar | Lyrics: Varun Grover, Piyush Mishra
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+Disc: 1
+mtime: 1357216140
+song_end
+song_begin: [Songs.PK] 11 - Womaniya.mp3
+Time: 325
+Artist: Khushboo Raaj & Rekha Jha
+AlbumArtist: www.Songs.PK
+Title: Womaniya - www.Songs.PK
+Album: Gangs of Wasseypur
+Track: 11
+Date: 2012
+Genre: Bollywood Music
+Composer: Music: Sneha Khanwalkar | Lyrics: Varun Grover, Piyush Mishra
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+Disc: 1
+mtime: 1357216139
+song_end
+song_begin: [Songs.PK] 12 - Manmauji.mp3
+Time: 175
+Artist: Usri Banerjee
+AlbumArtist: www.Songs.PK
+Title: Manmauji - www.Songs.PK
+Album: Gangs of Wasseypur
+Track: 12
+Date: 2012
+Genre: Bollywood Music
+Composer: Music: Sneha Khanwalkar | Lyrics: Varun Grover, Piyush Mishra
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+Disc: 1
+mtime: 1357216138
+song_end
+song_begin: [Songs.PK] 14 - Humni Ke Chhodi Ke.mp3
+Time: 257
+Artist: Deepak Kumar (Muzzafarpur)
+AlbumArtist: www.Songs.PK
+Title: Humni Ke Chhodi Ke - www.Songs.PK
+Album: Gangs of Wasseypur
+Track: 14
+Date: 2012
+Genre: Bollywood Music
+Composer: Music: Sneha Khanwalkar | Lyrics: Varun Grover, Piyush Mishra
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+Disc: 1
+mtime: 1357216137
+song_end
+song_begin: [Songs.PK] Housefull 2 - 01 - Papa Toh Band Bajaye.mp3
+Time: 254
+Artist: Neeraj Sridhar
+AlbumArtist: www.Songs.PK
+Title: Papa Toh Band Bajaye - www.Songs.PK
+Album: Housefull 2
+Track: 01
+Date: 2012
+Genre: Bollywood Music
+Composer: Music: Sajid-Wajid | Lyrics: Sameer Anjaan
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+Disc: 1/1
+mtime: 1357216136
+song_end
+song_begin: [Songs.PK] Housefull 2 - 02 - Anarkali Disco Chali.mp3
+Time: 294
+Artist: Mamta Sharma & Sukhwinder Singh
+AlbumArtist: www.Songs.PK
+Title: Anarkali Disco Chali - www.Songs.PK
+Album: Housefull 2
+Track: 02
+Date: 2012
+Genre: Bollywood Music
+Composer: Music: Sajid-Wajid | Lyrics: Sameer Anjaan
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+Disc: 1/1
+mtime: 1357216127
+song_end
+song_begin: [Songs.PK] Housefull 2 - 03 - Right Now Now.mp3
+Time: 246
+Artist: Wajid, Sunidhi Chauhan & Suzzane
+AlbumArtist: www.Songs.PK
+Title: Right Now Now - www.Songs.PK
+Album: Housefull 2
+Track: 03
+Date: 2012
+Genre: Bollywood Music
+Composer: Music: Sajid-Wajid | Lyrics: Sameer Anjaan
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+Disc: 1/1
+mtime: 1357216131
+song_end
+song_begin: [Songs.PK] Housefull 2 - 04 - Do U Know.mp3
+Time: 322
+Artist: Shaan & Shreya Ghoshal
+AlbumArtist: www.Songs.PK
+Title: Do U Know - www.Songs.PK
+Album: Housefull 2
+Track: 04
+Date: 2012
+Genre: Bollywood Music
+Composer: Music: Sajid-Wajid | Lyrics: Sameer Anjaan
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+Disc: 1/1
+mtime: 1357216122
+song_end
+song_begin: [Songs.PK] Ishaqzaade - 03 - Pareshaan.mp3
+Time: 294
+Artist: Shalmali Kholgade
+AlbumArtist: Amit Trivedi [Songs.PK]
+Title: Pareshaan - www.Songs.PK
+Album: Ishaqzaade
+Track: 3/7
+Date: 2012
+Genre: Bollywood Music
+Composer: Music: Amit Trivedi
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+Disc: 1/1
+mtime: 1357216120
+song_end
+song_begin: [Songs.PK] Ladies Vs Ricky Bahl - 04 - Jigar Da Tukda.mp3
+Time: 254
+Artist: Salim Merchant, Shraddha Pandit
+AlbumArtist: Ladies VS Ricky Bahl [Songs.PK]
+Title: Jigar Da Tukda - www.Songs.PK
+Album: Ladies V/s Ricky Bahl
+Track: 4/7
+Date: 2011
+Genre: Bollywood Music
+Composer: Music: Salim - Sulaiman
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+Disc: 1/1
+mtime: 1357216138
+song_end
+song_begin: [Songs.PK] Ra.One - 01 - Chammak Challo.mp3
+Time: 226
+Artist: Akon & Hamsika Iyer
+AlbumArtist: Vishal-Shekhar [Songs.PK]
+Title: Chammak Challo - www.Songs.PK
+Album: Ra.One
+Track: 1/15
+Date: 2011
+Genre: Bollywood Music
+Composer: Music: Vishal and Shekhar
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+Disc: 1/1
+mtime: 1357216145
+song_end
+song_begin: [Songs.PK] Rowdy Rathore - 01 - Dhadhang Dhang.mp3
+Time: 275
+Artist: Wajid & Shreya Ghoshal
+AlbumArtist: Sajid & Wajid
+Title: Dhadhang Dhang - www.Songs.PK
+Album: Rowdy Rathore
+Track: 01
+Date: 2012
+Genre: Bollywood Music
+Composer: Music: Sajid & Wajid
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+Disc: 1/1
+mtime: 1357216119
+song_end
+song_begin: [Songs.PK] Rowdy Rathore - 02 - Chinta Ta Ta Chita Chita.mp3
+Time: 261
+Artist: Mika Singh & Wajid
+AlbumArtist: Sajid & Wajid
+Title: Chinta Ta Ta Chita Chita - www.Songs.PK
+Album: Rowdy Rathore
+Track: 02
+Date: 2012
+Genre: Bollywood Music
+Composer: Music: Sajid & Wajid
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+Disc: 1/1
+mtime: 1357216117
+song_end
+song_begin: [Songs.PK] Rowdy Rathore - 03 - Aa Re Pritam Pyaare.mp3
+Time: 258
+Artist: Mamta Sharma & Sarosh Sami
+AlbumArtist: Sajid & Wajid
+Title: Aa Re Pritam Pyaare - www.Songs.PK
+Album: Rowdy Rathore
+Track: 03
+Date: 2012
+Genre: Bollywood Music
+Composer: Music: Sajid & Wajid
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+Disc: 1/1
+mtime: 1357216115
+song_end
+song_begin: [Songs.PK] Rowdy Rathore - 04 - Chamak Challo Chel Chabeli.mp3
+Time: 302
+Artist: Kumar Sanu & Shreya Ghoshal
+AlbumArtist: Sajid & Wajid
+Title: Chamak Challo Chel Chabeli - www.Songs.PK
+Album: Rowdy Rathore
+Track: 04
+Date: 2012
+Genre: Bollywood Music
+Composer: Music: Sajid & Wajid
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+Disc: 1/1
+mtime: 1357216113
+song_end
+song_begin: [Songs.PK] Rowdy Rathore - 05 - Tera Ishq Bada Teekha.mp3
+Time: 263
+Artist: Javed Ali & Shreya Ghoshal
+AlbumArtist: Sajid & Wajid
+Title: Tera Ishq Bada Teekha - www.Songs.PK
+Album: Rowdy Rathore
+Track: 05
+Date: 2012
+Genre: Bollywood Music
+Composer: Music: Sajid & Wajid
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+Disc: 1/1
+mtime: 1357216111
+song_end
+song_begin: [Songs.PK] Rowdy Rathore - 06 - Chandaniya (Lori Lori).mp3
+Time: 231
+Artist: Shreya Ghoshal
+AlbumArtist: Sajid & Wajid
+Title: Chandaniya (Lori Lori) - www.Songs.PK
+Album: Rowdy Rathore
+Track: 06
+Date: 2012
+Genre: Bollywood Music
+Composer: Music: Sajid & Wajid
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+Disc: 1/1
+mtime: 1357216109
+song_end
+song_begin: [Songs.PK] Rowdy Rathore - 07 - Rowdy Mix.mp3
+Time: 252
+Artist: Akshay Kumar & Sarosh Sami
+AlbumArtist: Sajid & Wajid
+Title: Rowdy Mix - www.Songs.PK
+Album: Rowdy Rathore
+Track: 07
+Date: 2012
+Genre: Bollywood Music
+Composer: Music: Sajid & Wajid
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+Disc: 1/1
+mtime: 1357216108
+song_end
+song_begin: [Songs.PK] Teri Meri Kahaani - 01 -Mukhtasar.mp3
+Time: 333
+Artist: Wajid
+AlbumArtist: Sajid Wajid [Songs.PK]
+Title:  Mukhtasar - www.Songs.PK
+Album: Teri Meri Kahaani
+Track: 01
+Date: 2012
+Genre: Bollywood Music
+Composer: Music: Sajid Wajid | Lyrics: Prasoon Joshi
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+Disc: 1/1
+mtime: 1357216106
+song_end
+song_begin: [Songs.PK] Vicky Donor - 01 - Rokda.mp3
+Time: 269
+Artist: Akshay Verma & Aditi Singh Sharma
+AlbumArtist: www.Songs.PK
+Title: Rokda - www.Songs.PK
+Album: Vicky Donor
+Track: 01/8
+Date: 2012
+Genre: Bollywood Music
+Composer: Music: Abhishek - Akshay
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+Disc: 1/1
+mtime: 1357216104
+song_end
+song_begin: [Songs.PK] Vicky Donor - 02 - Kho Jaane De.mp3
+Time: 297
+Artist: Clinton Cerejo & Aditi Singh Sharma
+AlbumArtist: www.Songs.PK
+Title: Kho Jaane De - www.Songs.PK
+Album: Vicky Donor
+Track: 02/8
+Date: 2012
+Genre: Bollywood Music
+Composer: Music: Abhishek - Akshay
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+Disc: 1/1
+mtime: 1357216103
+song_end
+song_begin: [Songs.PK] Vicky Donor - 03 - Rum & Whisky.mp3
+Time: 245
+Artist: Akshay Verma
+AlbumArtist: www.Songs.PK
+Title: Rum & Whisky - www.Songs.PK
+Album: Vicky Donor
+Track: 03/8
+Date: 2012
+Genre: Bollywood Music
+Composer: Music: Abhishek - Akshay
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+Disc: 1/1
+mtime: 1357216101
+song_end
+song_begin: [Songs.PK] Vicky Donor - 06 - Chaddha.mp3
+Time: 231
+Artist: Mika Singh
+AlbumArtist: www.Songs.PK
+Title: Chaddha - www.Songs.PK
+Album: Vicky Donor
+Track: 06/8
+Date: 2012
+Genre: Bollywood Music
+Composer: Music: Abhishek - Akshay
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+Disc: 1/1
+mtime: 1357216100
+song_end
+end: Hindi/Latest-0
+directory: Latest-1
+mtime: 1358447583
+begin: Hindi/Latest-1
+song_begin: [Songs.PK] A Trange Love Story - 01 - Nede Nede.mp3
+Time: 271
+Artist: Sukhwinder Singh
+AlbumArtist: www.Songs.PK
+Title: Nede Nede - www.Songs.PK
+Album: A Strange Love Story
+Track: 1
+Date: 2011
+Genre: Bollywood Music
+Composer: www.Songs.PK
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+mtime: 1357215649
+song_end
+song_begin: [Songs.PK] Aarakshan - 01 - Achha Lagta Hai.mp3
+Time: 236
+Artist: Mohit Chauhan, Shreya Ghoshal
+AlbumArtist: www.Songs.PK
+Title: Achha Lagta Hai - www.Songs.PK
+Album: Aarakshan
+Track: 01
+Date: 2011
+Genre: Bollywood Music
+Composer: Shankar Ehsaan Loy
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+Disc: 1/1
+mtime: 1357215648
+song_end
+song_begin: [Songs.PK] Agent Vinod - 02 - Pungi.mp3
+Time: 250
+Artist: Mika Singh, Amitabh Bhattacharya, Nakash, Pritam
+AlbumArtist: www.Songs.PK
+Title: Pungi - www.Songs.PK
+Album: Agent Vinod
+Track: 2/11
+Date: 2012
+Genre: Bollywood Music
+Composer: Music: Pritam | Lyrics: Amitabh Bhattacharya
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+Disc: 1/1
+mtime: 1357215605
+song_end
+song_begin: [Songs.PK] Agneepath - 01 - Chikni Chameli.mp3
+Time: 303
+Artist: Shreya Ghoshal
+AlbumArtist: Agneepath [Songs.PK]
+Title: Chikni Chameli - www.Songs.PK
+Album: Agneepath
+Track: 1
+Date: 2011
+Genre: Bollywood Music
+Composer: Music: Ajay-Atul | Lyrics: Amitabh Bhattacharya
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+Disc: 1
+mtime: 1357215604
+song_end
+song_begin: [Songs.PK] 02 - Antenna.mp3
+Time: 264
+Artist: Benny Dayal , Roshan Abbas & Apeksha Dandekar
+AlbumArtist: Pritam [Songs.PK]
+Title: Antenna - www.Songs.PK
+Album: Always Kabhi Kabhi
+Track: 2/10
+Date: 2011
+Genre: Bollywood Music
+Composer: www.Songs.PK
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+Disc: 1/1
+mtime: 1357215650
+song_end
+song_begin: [Songs.PK] Bodyguard - 04 - Teri Meri.mp3
+Time: 327
+Artist: Rahat Fateh Ali Khan & Shreya Ghoshal
+AlbumArtist: Rahat Fateh Ali Khan & Shreya Ghoshal
+Title: Teri Meri - www.Songs.PK
+Album: Bodyguard
+Track: 04
+Date: 2011
+Genre: Bollywood Music
+Composer: www.Songs.PK
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+mtime: 1357215602
+song_end
+song_begin: [Songs.PK] Chalo Dilli - 03 - Laila O Laila.mp3
+Time: 349
+Artist: June Banerjee
+AlbumArtist: www.Songs.PK
+Title: Laila O Laila - www.Songs.PK
+Album: Chalo Dilli
+Track: 3
+Date: 2011
+Genre: Bollywood Music
+Composer: www.Songs.PK
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+mtime: 1357215646
+song_end
+song_begin: [Songs.PK] Delhi Belly - 01 - Bhaag D.K. Bose, Aandhi Aayi.mp3
+Time: 242
+Artist: Ram Sampath
+AlbumArtist: Ram Sampath
+Title: Bhaag D.K. Bose, Aandhi Aayi - www.Songs.PK
+Album: Delhi Belly
+Track: 1
+Date: 2011
+Genre: Bollywood Music
+Composer: www.Songs.PK
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+mtime: 1357215644
+song_end
+song_begin: [Songs.PK] Delhi Belly - 02 - Nakkaddwaley Disco, Udhaarwaley Khisko.mp3
+Time: 238
+Artist: Keerthi Sagathia
+AlbumArtist: Ram Sampath
+Title: Nakkaddwaley Disco, Udhaarwaley Khisko - www.Songs.PK
+Album: Delhi Belly
+Track: 2
+Date: 2011
+Genre: Bollywood Music
+Composer: www.Songs.PK
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+mtime: 1357215642
+song_end
+song_begin: [Songs.PK] Delhi Belly - 07 - Switty Tera Pyaar Chaida.mp3
+Time: 173
+Artist: Keerthi Sagathia
+AlbumArtist: Ram Sampath
+Title: Switty Tera Pyaar Chaida - www.Songs.PK
+Album: Delhi Belly
+Track: 7
+Date: 2011
+Genre: Bollywood Music
+Composer: www.Songs.PK
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+mtime: 1357215641
+song_end
+song_begin: [Songs.PK] Desi Boyz - 02 - Subha Hone Na De.mp3
+Time: 289
+Artist: Mika Singh, Shefali Alvaris
+AlbumArtist: Desi Boyz [Songs.PK]
+Title: Subha Hone Na De - www.Songs.PK
+Album: Desi Boyz
+Track: 2/10
+Date: 2001
+Genre: Bollywood Music
+Composer: Music: Pritam | Lyrics: Irshad Kamil, Kumaar & Amitabh Bhattacharya
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+Disc: 1/1
+mtime: 1357215600
+song_end
+song_begin: [Songs.PK] Desi Boyz - 06 - Tu Mera Hero (Subha Hone Na De).mp3
+Time: 293
+Artist: Mika Singh, Shefali Alvaris
+AlbumArtist: Desi Boyz [Songs.PK]
+Title: Tu Mera Hero (Subha Hone Na De) - www.Songs.PK
+Album: Desi Boyz
+Track: 6/10
+Date: 2001
+Genre: Bollywood Music
+Composer: Music: Pritam | Lyrics: Irshad Kamil, Kumaar & Amitabh Bhattacharya
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+Disc: 1/1
+mtime: 1357215599
+song_end
+song_begin: [Songs.PK] The Dirty Picture - 01 - Ooh La La.mp3
+Time: 258
+Artist: Bappi Lahiri & Shreya Ghoshal
+AlbumArtist: The Dirty Picture [Songs.PK]
+Album: Dirty Picture
+Track: 1
+Date: 2011
+Genre: Bollywood Music
+Composer: Music: Vishal & Shekhar | Lyrics: Rajat Aroraa
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+mtime: 1357215588
+song_end
+song_begin: [Songs.PK] Double Dhamaal - 01 - Chal Kudie.mp3
+Time: 210
+Artist: Anand Raaj Anand, Mika Singh
+AlbumArtist: www.Songs.PK
+Title: Chal Kudie - www.Songs.PK
+Album: Double Dhamaal
+Track: 1
+Date: 2011
+Genre: Bollywood Music
+Composer: Anand Raaj Anand
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+mtime: 1357215639
+song_end
+song_begin: [Songs.PK] Double Dhamaal - 02 - Oye Oye.mp3
+Time: 251
+Artist: Sunidhi Chauhan & Chorus
+AlbumArtist: www.Songs.PK
+Title: Oye Oye - www.Songs.PK
+Album: Double Dhamaal
+Track: 2
+Date: 2011
+Genre: Bollywood Music
+Composer: Anand Raaj Anand
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+mtime: 1357215638
+song_end
+song_begin: [Songs.PK] Double Dhamaal - 03 - Jalebi Bai.mp3
+Time: 237
+Artist: Ritu Pathak
+AlbumArtist: www.Songs.PK
+Title: Jalebi Bai - www.Songs.PK
+Album: Double Dhamaal
+Track: 3
+Date: 2011
+Genre: Bollywood Music
+Composer: Anand Raaj Anand
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+mtime: 1357215636
+song_end
+song_begin: [Songs.PK] Ladies Vs Ricky Bahl - 01 - Aadat Se Majboor.mp3
+Time: 277
+Artist: Benny Dayal, Ranveer Singh
+AlbumArtist: Ladies VS Ricky Bahl [Songs.PK]
+Title: Aadat Se Majboor - www.Songs.PK
+Album: Ladies V/s Ricky Bahl
+Track: 1/7
+Date: 2011
+Genre: Bollywood Music
+Composer: Music: Salim - Sulaiman
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+Disc: 1/1
+mtime: 1357215598
+song_end
+song_begin: [Songs.PK] Ladies Vs Ricky Bahl - 02 - Jazba.mp3
+Time: 279
+Artist: Shilpa Rao
+AlbumArtist: Ladies VS Ricky Bahl [Songs.PK]
+Title: Jazba - www.Songs.PK
+Album: Ladies V/s Ricky Bahl
+Track: 2/7
+Date: 2011
+Genre: Bollywood Music
+Composer: Music: Salim - Sulaiman
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+Disc: 1/1
+mtime: 1357215624
+song_end
+song_begin: [Songs.PK] Ladies Vs Ricky Bahl - 03 - Thug Le.mp3
+Time: 219
+Artist: Vishal Dadlani, Shweta Pandit
+AlbumArtist: Ladies VS Ricky Bahl [Songs.PK]
+Title: Thug Le - www.Songs.PK
+Album: Ladies V/s Ricky Bahl
+Track: 3/7
+Date: 2011
+Genre: Bollywood Music
+Composer: Music: Salim - Sulaiman
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+Disc: 1/1
+mtime: 1357215597
+song_end
+song_begin: [Songs.PK] Ladies Vs Ricky Bahl - 05 - Fatal Attraction.mp3
+Time: 214
+Artist: Salim - Sulaiman
+AlbumArtist: Ladies VS Ricky Bahl [Songs.PK]
+Title: Fatal Attraction - www.Songs.PK
+Album: Ladies V/s Ricky Bahl
+Track: 5/7
+Date: 2011
+Genre: Bollywood Music
+Composer: Music: Salim - Sulaiman
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+Disc: 1/1
+mtime: 1357215595
+song_end
+song_begin: [Songs.PK] Ladies Vs Ricky Bahl - 06 - Aadat Se Majboor (Remix).mp3
+Time: 274
+Artist: Benny Dayal
+AlbumArtist: Ladies VS Ricky Bahl [Songs.PK]
+Title: Aadat Se Majboor (Remix) - www.Songs.PK
+Album: Ladies V/s Ricky Bahl
+Track: 6/7
+Date: 2011
+Genre: Bollywood Music
+Composer: Music: Salim - Sulaiman
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+Disc: 1/1
+mtime: 1357215595
+song_end
+song_begin: [Songs.PK] Ladies Vs Ricky Bahl - 07 - Jazba (Remix).mp3
+Time: 242
+Artist: Anushka Manchanda
+AlbumArtist: Ladies VS Ricky Bahl [Songs.PK]
+Title: Jazba (Remix) - www.Songs.PK
+Album: Ladies V/s Ricky Bahl
+Track: 7/7
+Date: 2011
+Genre: Bollywood Music
+Composer: Music: Salim - Sulaiman
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+Disc: 1/1
+mtime: 1357215622
+song_end
+song_begin: [Songs.PK] Mausam - 02 - Sajh Dhaj Ke.mp3
+Time: 294
+Artist: Mika Singh & Pankaj Kapur
+AlbumArtist: www.Songs.PK
+Title: Sajh Dhaj Ke - www.Songs.PK
+Album: Mausam
+Track: 02
+Date: 2011
+Genre: Bollywood Music
+Composer: www.Songs.PK
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+mtime: 1357215621
+song_end
+song_begin: [Songs.PK] Mausam - 03 - Ik Tu Hi Tu Hi.mp3
+Time: 433
+Artist: Hans Raj Hans
+AlbumArtist: www.Songs.PK
+Title: Ik Tu Hi Tu Hi - www.Songs.PK
+Album: Mausam
+Track: 03
+Date: 2011
+Genre: Bollywood Music
+Composer: www.Songs.PK
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+mtime: 1357215612
+song_end
+song_begin: [Songs.PK] Mausam - 06 - Mallo Malli.mp3
+Time: 222
+Artist: Tochi Raina
+AlbumArtist: www.Songs.PK
+Title: Mallo Malli - www.Songs.PK
+Album: Mausam
+Track: 06
+Date: 2011
+Genre: Bollywood Music
+Composer: www.Songs.PK
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+mtime: 1357215619
+song_end
+song_begin: [Songs.PK] Mere Brother Ki Dulhan - 01 - Mere Brother Ki Dulhan.mp3
+Time: 265
+Artist: K.K, Krishna Beura
+AlbumArtist: Mere Brother Ki Dulhan [Songs.PK]
+Title: Mere Brother Ki Dulhan - www.Songs.PK
+Album: Mere Brother Ki Dulhan
+Track: 01
+Date: 2011
+Genre: Bollywood Music
+Composer: Music: Sohail Sen
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+Disc: 1/1
+mtime: 1357215609
+song_end
+song_begin: [Songs.PK] Mere Brother Ki Dulhan - 02 - Dhunki.mp3
+Time: 257
+Artist: Neha Bhasin
+AlbumArtist: Mere Brother Ki Dulhan [Songs.PK]
+Title: Dhunki - www.Songs.PK
+Album: Mere Brother Ki Dulhan
+Track: 02
+Date: 2011
+Genre: Bollywood Music
+Composer: Music: Sohail Sen
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+Disc: 1/1
+mtime: 1357215608
+song_end
+song_begin: [Songs.PK] Mere Brother Ki Dulhan - 03 - Choomantar.mp3
+Time: 260
+Artist: Benny Dayal, Aditi Singh Sharma
+AlbumArtist: Mere Brother Ki Dulhan [Songs.PK]
+Title: Choomantar - www.Songs.PK
+Album: Mere Brother Ki Dulhan
+Track: 03
+Date: 2011
+Genre: Bollywood Music
+Composer: Music: Sohail Sen
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+Disc: 1/1
+mtime: 1357215617
+song_end
+song_begin: [Songs.PK] Mere Brother Ki Dulhan - 04 - Isq Risk.mp3
+Time: 295
+Artist: Rahat Fateh Ali Khan
+AlbumArtist: Mere Brother Ki Dulhan [Songs.PK]
+Title: Isq Risk - www.Songs.PK
+Album: Mere Brother Ki Dulhan
+Track: 04
+Date: 2011
+Genre: Bollywood Music
+Composer: Music: Sohail Sen
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+Disc: 1/1
+mtime: 1357215607
+song_end
+song_begin: [Songs.PK] Mere Brother Ki Dulhan - 05 - Madhubala.mp3
+Time: 263
+Artist: Ali Zafar, Shweta Pandit
+AlbumArtist: Mere Brother Ki Dulhan [Songs.PK]
+Title: Madhubala - www.Songs.PK
+Album: Mere Brother Ki Dulhan
+Track: 05
+Date: 2011
+Genre: Bollywood Music
+Composer: Music: Sohail Sen
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+Disc: 1/1
+mtime: 1357215615
+song_end
+song_begin: [Songs.PK] Mere Brother Ki Dulhan - 06 - Do Dhaari Talwaar.mp3
+Time: 300
+Artist: Shahid Mallya, Shweta Pandit
+AlbumArtist: Mere Brother Ki Dulhan [Songs.PK]
+Title: Do Dhaari Talwaar - www.Songs.PK
+Album: Mere Brother Ki Dulhan
+Track: 06
+Date: 2011
+Genre: Bollywood Music
+Composer: Music: Sohail Sen
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+Disc: 1/1
+mtime: 1357215614
+song_end
+song_begin: [Songs.PK] Players - 01 - Jis Jagah Pe Khatam.mp3
+Time: 250
+Artist: Neeraj Shridhar, Siddharth Basrur, Mauli Dave
+AlbumArtist: Players [Songs.PK]
+Title: Jis Jagah Pe Khatam - www.Songs.PK
+Album: Players
+Track: 01
+Date: 2011
+Genre: Bollywood Music
+Composer: Music: Pritam | Lyrics: Ashish Pandit
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+Disc: 1
+mtime: 1357215593
+song_end
+song_begin: [Songs.PK] Ragini MMS - 01 - Raat Akeli Hai.mp3
+Time: 318
+Artist: Asha Bhosle
+AlbumArtist: www.Songs.PK
+Title: Raat Akeli Hai - www.Songs.PK
+Album: Ragini MMS
+Track: 1
+Date: 2011
+Genre: Bollywood Music
+Composer: www.Songs.PK
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+mtime: 1357215635
+song_end
+song_begin: [Songs.PK] Ragini MMS - 05 - Liya Liya - Chura Liya.mp3
+Time: 215
+Artist: Anousha Manchandani
+AlbumArtist: www.Songs.PK
+Title: Liya Liya - Chura Liya - www.Songs.PK
+Album: Ragini MMS
+Track: 5
+Date: 2011
+Genre: Bollywood Music
+Composer: www.Songs.PK
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+mtime: 1357215633
+song_end
+song_begin: [Songs.PK] Ragini MMS - 06 - Dum Maro Dum.mp3
+Time: 330
+Artist: Anusha Mani
+AlbumArtist: www.Songs.PK
+Title: Dum Maro Dum - www.Songs.PK
+Album: Ragini MMS
+Track: 6
+Date: 2011
+Genre: Bollywood Music
+Composer: www.Songs.PK
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+mtime: 1357215631
+song_end
+song_begin: [Songs.PK] Ready - 01 - Character Dheela (Ishq Ke Naam).mp3
+Time: 227
+Artist: Pritam, Amrita Kak & Neeraj Shridhar
+AlbumArtist: Pritam
+Title: Character Dheela (Ishq Ke Naam) - www.Songs.PK
+Album: Ready
+Track: 1/8
+Date: 2011
+Genre: Bollywood Music
+Composer: www.Songs.PK
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+Disc: 1/1
+mtime: 1357215630
+song_end
+song_begin: [Songs.PK] Ready - 02 - Humko Pyar Hua (Chal Chale).mp3
+Time: 329
+Artist: Tulsi Kumar, Pritam & K.K.
+AlbumArtist: Pritam
+Title: Humko Pyar Hua (Chal Chale) - www.Songs.PK
+Album: Ready
+Track: 2/8
+Date: 2011
+Genre: Bollywood Music
+Composer: www.Songs.PK
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+Disc: 1/1
+mtime: 1357215628
+song_end
+song_begin: [Songs.PK] Rockstar - 03 - Katiya Karun.mp3
+Time: 240
+Artist: Harshdeep Kaur, Additional Vocals: Sapna Awasthi
+AlbumArtist: www.Songs.PK
+Title: Katiya Karun - www.Songs.PK
+Album: Rockstar
+Track: 03
+Date: 2011
+Genre: Bollywood Music
+Composer: Music: A.R Rahman
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+mtime: 1357215591
+song_end
+song_begin: [Songs.PK] Rockstar - 13 - Saadda Haq.mp3
+Time: 365
+Artist: Mohit Chauhan, feat. Orianthi, Clinton Cerejo
+AlbumArtist: www.Songs.PK
+Title: Saadda Haq - www.Songs.PK
+Album: Rockstar
+Track: 13
+Date: 2011
+Genre: Bollywood Music
+Composer: Music: A.R Rahman
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+mtime: 1357215590
+song_end
+song_begin: [Songs.PK] Shor In The City - 01 - Saibo.mp3
+Time: 195
+Artist: Shreya Ghoshal, Tochi Raina
+AlbumArtist: www.Songs.PK
+Title: Saibo - www.Songs.PK
+Album: Shor In The City
+Track: 1/8
+Date: 2011
+Genre: Bollywood Music
+Composer: Sachin, Jigar
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+Disc: 1/1
+mtime: 1357215627
+song_end
+song_begin: [Songs.PK] Singham - 02 - Saathiyaa.mp3
+Time: 311
+Artist: Ajay Gogavale, Shreya Ghosal
+AlbumArtist: Singham [Songs.PK]
+Title: Saathiyaa - www.Songs.PK
+Album: Singham
+Track: 02
+Date: 2011
+Genre: Bollywood Music
+Composer: www.Songs.PK
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+Disc: 1/1
+mtime: 1357215625
+song_end
+song_begin: 02 - Ik Junoon (Paint It Red).mp3
+Time: 301
+Artist: Vishal Dadlani, Shankar Mahadevan, Gulraj & Alyssa Mendonsa
+AlbumArtist: Zindagi Na Milegi Dobara
+Title: Ik Junoon (Paint It Red) - www.Songs.PK
+Album: Zindagi Na Milegi Dobara
+Track: 2/9
+Date: 2011
+Genre: Bollywood Music
+Composer: Music: Shankar-Ehsaan-Loy | Lyrics: Javed Akhtar
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+Disc: 1/1
+mtime: 1357215652
+song_end
+end: Hindi/Latest-1
+directory: Latest-2
+mtime: 1358447595
+begin: Hindi/Latest-2
+song_begin: Bahti Hawa Sa Tha Woh.mp3
+Time: 302
+Artist: Shaan & Shantanu Moitra
+AlbumArtist: www.Songs.PK
+Title: Behti Hawa Sa Tha Woh - www.Songs.PK
+Album: 3 Idiots
+Track: 3
+Date: 2009
+Genre: Soundtrack
+Composer: www.Songs.PK
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+mtime: 1357215717
+song_end
+song_begin: [Songs.PK] Aisha - 02 - Gal Mitthi Mitthi.mp3
+Time: 256
+Artist: Tochi Raina
+AlbumArtist: www.Songs.PK
+Title: Gal Mitthi Mitthi -  www.Songs.PK
+Album: Aisha
+Track: 2
+Date: 2010
+Genre: Bollywood Music
+Composer: www.Songs.PK
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+mtime: 1357215692
+song_end
+song_begin: [Songs.PK] Anjaana Anjaani - 05 - Tujhe Bhula Diya.mp3
+Time: 281
+Artist: Mohit Chauhan, Shruti Pathak & Shekhar Ravjiani
+AlbumArtist: Various Artists
+Title: Tujhe Bhula Diya - www.Songs.PK
+Album: Anjaana Anjaani
+Track: 05
+Date: 2010
+Genre: Bollywood Music
+Composer: www.Songs.PK
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+Disc: 1/1
+mtime: 1357215690
+song_end
+song_begin: [Songs.PK] Anjaana Anjaani - 08 - Tujhe Bhula Diya (Remix the Dance to Forget Mix).mp3
+Time: 272
+Artist: Mohit Chauhan, Shruti Pathak & Shekhar Ravjiani
+AlbumArtist: Various Artists
+Title: Tujhe Bhula Diya (Remix the Dance to Forget Mix) - www.Songs.PK
+Album: Anjaana Anjaani
+Track: 08
+Date: 2010
+Genre: Bollywood Music
+Composer: www.Songs.PK
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+Disc: 1/1
+mtime: 1357215688
+song_end
+song_begin: Ayyashi.mp3
+Time: 262
+Artist: K.K.
+AlbumArtist: Pritam
+Title: Ayaashi - www.Songs.PK
+Album: Badmaash Company
+Track: 1
+Date: 2010
+Genre: Bollywood
+Composer: www.Songs.PK
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+mtime: 1357215719
+song_end
+song_begin: Jingle Jingle.mp3
+Time: 268
+Artist: Mohit Chauhan
+AlbumArtist: Pritam
+Title: Jingle Jingle - www.Songs.PK
+Album: Badmaash Company
+Track: 2
+Date: 2010
+Genre: Bollywood
+Composer: www.Songs.PK
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+mtime: 1357215712
+song_end
+song_begin: Chaska.mp3
+Time: 314
+Artist: Krishna
+AlbumArtist: Pritam
+Title: Chaska - www.Songs.PK
+Album: Badmaash Company
+Track: 3
+Date: 2010
+Genre: Bollywood
+Composer: www.Songs.PK
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+mtime: 1357215714
+song_end
+song_begin: Badmash Company.mp3
+Time: 239
+Artist: Benny Dayal
+AlbumArtist: Pritam
+Title: Badmaash Company - www.Songs.PK
+Album: Badmaash Company
+Track: 5
+Date: 2010
+Genre: Bollywood
+Composer: www.Songs.PK
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+mtime: 1357215718
+song_end
+song_begin: [Songs.PK] Band Baaja Baaraat - 01 - Ainvayi Ainvayi.mp3
+Time: 270
+Artist: Salim Merchant & Sunidhi Chauhan
+AlbumArtist: www.Songs.PK
+Title: Ainvayi Ainvayi - www.Songs.PK
+Album: Band Baaja Baaraat
+Track: 1
+Date: 2010
+Genre: Bollywood Music
+Composer: www.Songs.PK
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+mtime: 1357215687
+song_end
+song_begin: [Songs.PK] Dabangg - 01 - Tere Mast Mast Do Nain.mp3
+Time: 360
+Artist: Rahat Fateh Ali Khan
+AlbumArtist: www.Songs.PK
+Title: Tere Mast Mast Do Nain - www.Songs.PK
+Album: Dabangg
+Track: 01
+Date: 2010
+Genre: Bollywood Music
+Composer: www.Songs.PK
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+mtime: 1357215685
+song_end
+song_begin: [Songs.PK] Dabangg - 02 - Munni Badnaam.mp3
+Time: 307
+Artist: Mamta Sharma, Aishwariya
+AlbumArtist: www.Songs.PK
+Title: Munni Badnaam - www.Songs.PK
+Album: Dabangg
+Track: 02
+Date: 2010
+Genre: Bollywood Music
+Composer: www.Songs.PK
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+mtime: 1357215683
+song_end
+song_begin: [Songs.PK] Dabangg - 06 - Tere Mast Mast Do Nain.mp3
+Time: 360
+Artist: Rahat Fateh Ali Khan, Shreya Ghoshal
+AlbumArtist: www.Songs.PK
+Title: Tere Mast Mast Do Nain - www.Songs.PK
+Album: Dabangg
+Track: 06
+Date: 2010
+Genre: Bollywood Music
+Composer: www.Songs.PK
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+mtime: 1357215681
+song_end
+song_begin: [Songs.PK] Dum Maaro Dum - 01 - Mit Jaaye Gham (Dum Maaro Dum) .mp3
+Time: 235
+Artist: Anushka Manchanda
+AlbumArtist: www.Songs.PK
+Title: Mit Jaaye Gham (Dum Maaro Dum) - www.Songs.PK
+Album: Dum Maaro Dum
+Track: 01
+Date: 2011
+Genre: Bollywood Music
+Composer: www.Songs.PK
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+mtime: 1357215679
+song_end
+song_begin: [Songs.PK] F.A.L.T.U - 02 - Char Baj Gayi.mp3
+Time: 213
+Artist: Hard Kaur
+AlbumArtist: www.Songs.PK
+Title: Char Baj Gayi (Party Abhi Baaki Hai) - www.Songs.PK
+Album: F.A.L.T.U
+Track: 02
+Date: 2011
+Genre: Bollywood Music
+Composer: www.Songs.PK
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+mtime: 1357215677
+song_end
+song_begin: [Songs.PK] Haunted 3D - 01 - Tum Ho Mera Pyar.mp3
+Time: 307
+Artist: Suzanne & K.K.
+AlbumArtist: Chirantan Bhatt
+Title: Tum Ho Mera Pyar - www.Songs.PK
+Album: Haunted
+Track: 1/6
+Date: 2011
+Genre: Bollywood Music
+Composer: www.Songs.PK
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+Disc: 1/1
+mtime: 1357215676
+song_end
+song_begin: [Songs.PK] Haunted 3D - 02 - Jaaniya.mp3
+Time: 308
+Artist: Sidharth Basrur
+AlbumArtist: Chirantan Bhatt
+Title: Jaaniya - www.Songs.PK
+Album: Haunted
+Track: 2/6
+Date: 2011
+Genre: Bollywood Music
+Composer: www.Songs.PK
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+Disc: 1/1
+mtime: 1357215675
+song_end
+song_begin: [Songs.PK] Haunted 3D - 03 - Tera Hi Bas Hona Chaahoon.mp3
+Time: 339
+Artist: Jojo & Najam Sheraz
+AlbumArtist: Chirantan Bhatt
+Title: Tera Hi Bas Hona Chaahoon - www.Songs.PK
+Album: Haunted
+Track: 3/6
+Date: 2011
+Genre: Bollywood Music
+Composer: www.Songs.PK
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+Disc: 1/1
+mtime: 1357215673
+song_end
+song_begin: [Songs.PK] Haunted 3D - 04 - Mujhe De De Har Gham Tera.mp3
+Time: 299
+Artist: Sidharth Basrur
+AlbumArtist: Chirantan Bhatt
+Title: Mujhe De De Har Gham Tera - www.Songs.PK
+Album: Haunted
+Track: 4/6
+Date: 2011
+Genre: Bollywood Music
+Composer: www.Songs.PK
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+Disc: 1/1
+mtime: 1357215671
+song_end
+song_begin: [Songs.PK] Haunted 3D - 06 - Sau Baras.mp3
+Time: 306
+Artist: Tia Bajpai
+AlbumArtist: Chirantan Bhatt
+Title: Sau Baras - www.Songs.PK
+Album: Haunted
+Track: 6/6
+Date: 2011
+Genre: Bollywood Music
+Composer: www.Songs.PK
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+Disc: 1/1
+mtime: 1357215669
+song_end
+song_begin: [Songs.PK] Hisss - 01 - Lagi Lagi Milan Dhun Lagi.mp3
+Time: 366
+Artist: Shreya Ghoshal
+AlbumArtist: www.Songs.PK
+Title: Lagi Lagi Milan Dhun Lagi - www.Songs.PK
+Album: Hisss
+Track: 1
+Date: 2010
+Genre: Bollywood Music
+Composer: www.Songs.PK
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+mtime: 1357215667
+song_end
+song_begin: [Songs.PK] Hisss - 05 - Lagi Lagi Milan Dhun Lagi.mp3
+Time: 367
+Artist: Shunidhi Chauhan
+AlbumArtist: www.Songs.PK
+Title: Lagi Lagi Milan Dhun Lagi - www.Songs.PK
+Album: Hisss
+Track: 5
+Date: 2010
+Genre: Bollywood Music
+Composer: www.Songs.PK
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+mtime: 1357215665
+song_end
+song_begin: [Songs.PK] Its A Wonderful Afterlife - 01 - Ghum Suhm Ghum Suhm.mp3
+Time: 342
+Artist: Rahat Fateh Ali Khan;Sukshinder Shinda
+AlbumArtist: www.Songs.PK
+Title: Ghum Suhm Ghum Suhm - www.Songs.PK
+Album: Its A Wonderful Afterlife
+Track: 01
+Date: 2010
+Genre: Bollywood Music
+Composer: Shinda Khan
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+Disc: 1/2
+mtime: 1357215662
+song_end
+song_begin: Tum Chain Ho.mp3
+Time: 265
+Artist: Sonu Nigam & Alka Yagnik
+AlbumArtist: www.Songs.PK
+Title: Tum Chain Ho - www.Songs.PK
+Album: Milenge Milenge
+Track: 03
+Date: 2010
+Genre: Soundtrack
+Composer: Himesh Reshammiya
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+mtime: 1357215703
+song_end
+song_begin: [Songs.PK] Once Upon A Time In Mumbai - 01 - Pee Loon.mp3
+Time: 288
+Artist: Mohit Chauhan
+AlbumArtist: www.Songs.PK
+Title: Pee Loon - www.Songs.PK
+Album: Once Upon A Time In Mumbai
+Track: 1
+Date: 2010
+Genre: Bollywood Music
+Composer: www.Songs.PK
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+mtime: 1357215660
+song_end
+song_begin: [Songs.PK] Once Upon A Time In Mumbai - 02 - Tum Jo Aaye.mp3
+Time: 288
+Artist: Rahat Fateh Ali Khan & Tulsi Kumar
+AlbumArtist: www.Songs.PK
+Title: Tum Jo Aaye - www.Songs.PK
+Album: Once Upon A Time In Mumbai
+Track: 2
+Date: 2010
+Genre: Bollywood Music
+Composer: www.Songs.PK
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+mtime: 1357215658
+song_end
+song_begin: Tere Liye.mp3
+Time: 277
+Artist: Prince
+AlbumArtist: Prince
+Title: Tere Liye - www.Songs.PK
+Album: Prince
+Track: 02/16
+Date: 2010
+Genre: Soundtrack
+Composer: Music: Sachin Gupta | Lyrics: Sameer
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+mtime: 1357215705
+song_end
+song_begin: Aa Bhi Ja Sanam.mp3
+Time: 188
+Artist: Prince
+AlbumArtist: Prince
+Title: Aa Bhi Ja Sanam - www.Songs.PK
+Album: Prince
+Track: 04/16
+Date: 2010
+Genre: Soundtrack
+Composer: Music: Sachin Gupta | Lyrics: Sameer
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+mtime: 1357215720
+song_end
+song_begin: Jiyara.mp3
+Time: 235
+Artist: Prince
+AlbumArtist: Prince
+Title: Jiyara Jiyara - www.Songs.PK
+Album: Prince
+Track: 05/16
+Date: 2010
+Genre: Soundtrack
+Composer: Music: Sachin Gupta | Lyrics: Sameer
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+mtime: 1357215711
+song_end
+song_begin: Tere Liye Dance.mp3
+Time: 241
+Artist: Prince
+AlbumArtist: Prince
+Title: Tere Liye (Dance Mix) - www.Songs.PK
+Album: Prince
+Track: 08/16
+Date: 2010
+Genre: Soundtrack
+Composer: Music: Sachin Gupta | Lyrics: Sameer | Remix: Dj Suketu feat. AKS
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+mtime: 1357215709
+song_end
+song_begin: Tere Liye Hip Hop.mp3
+Time: 232
+Artist: Prince
+AlbumArtist: Prince
+Title: Tere Liye (Hip Hop Mix) - www.Songs.PK
+Album: Prince
+Track: 11/16
+Date: 2010
+Genre: Soundtrack
+Composer: Music: Sachin Gupta | Lyrics: Sameer | Remix: Dj Suketu feat. AKS
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+mtime: 1357215708
+song_end
+song_begin: Tere Liye Unplugged.mp3
+Time: 220
+Artist: Prince
+AlbumArtist: Prince
+Title: Tere Liye (Unplugged) - www.Songs.PK
+Album: Prince
+Track: 15/16
+Date: 2010
+Genre: Soundtrack
+Composer: Music: Sachin Gupta | Lyrics: Sameer | Remix: Dj Suketu feat. AKS
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+mtime: 1357215706
+song_end
+song_begin: Bheegi Si Bhaagi Si.mp3
+Time: 277
+Artist: Mohit Chauhan, Antara Mitra
+AlbumArtist: www.Songs.PK
+Title: Bheegi Si Bhaagi Si - www.Songs.PK
+Album: Raajneeti
+Track: 1
+Date: 2010
+Genre: Soundtrack
+Composer: www.Songs.PK
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+mtime: 1357215716
+song_end
+song_begin: [Songs.PK] Tanu Weds Manu - 01 - Sadi Gali.mp3
+Time: 267
+Artist: Lehmber Husainpuri
+AlbumArtist: www.Songs.PK
+Title: Sadi Gali - www.Songs.PK
+Album: Tanu weds Manu
+Track: 01
+Date: 2011
+Genre: Bollywood Music
+Composer: www.Songs.PK
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+mtime: 1357215657
+song_end
+song_begin: [Songs.PK] Tees Maar Khan - 01 - Tees Maar Khan.mp3
+Time: 257
+Artist: Sonu Nigam
+AlbumArtist: Various Artists
+Title: Tees Maar Khan - Songs.PK
+Album: Tees Maar Khan
+Track: 01
+Date: 2010
+Genre: Bollywood Music
+Composer: www.Songs.PK
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+Disc: 1/1
+mtime: 1357215655
+song_end
+song_begin: [Songs.PK] Tees Maar Khan - 02 - Sheila Ki Jawani.mp3
+Time: 284
+Artist: Vishal Dadlani & Sunidhi Chauhan
+AlbumArtist: Various Artists
+Title: Sheila Ki Jawani - Songs.PK
+Album: Tees Maar Khan
+Track: 02
+Date: 2010
+Genre: Bollywood Music
+Composer: www.Songs.PK
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+Disc: 1/1
+mtime: 1357215654
+song_end
+song_begin: [Songs.PK] 01 - Thankyou - Pyaar Do Pyaar Lo .mp3
+Time: 316
+Artist: Mika Singh
+AlbumArtist: www.Songs.PK
+Title: Pyaar Do Pyaar Lo - www.Songs.PK
+Album: Thank You
+Track: 01/09
+Date: 2011
+Genre: Bollywood Music
+Composer: Music: Pritam | Lyrics: Amitabh Bhattacharya
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+Disc: 1
+mtime: 1357215701
+song_end
+song_begin: [Songs.PK] 02 - Thankyou - Razia.mp3
+Time: 295
+Artist: Master Saleem & Ritu Pathak
+AlbumArtist: www.Songs.PK
+Title: Razia - www.Songs.PK
+Album: Thank You
+Track: 02/09
+Date: 2011
+Genre: Bollywood Music
+Composer: Music: Pritam | Lyrics: Amitabh Bhattacharya
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+Disc: 1
+mtime: 1357215696
+song_end
+song_begin: [Songs.PK] 01 - Yamla Pagla Deewana (RDB Version) - Yamla Pagla Deewana.mp3
+Time: 274
+Artist: Nindy Kaur, Sonu Nigam, RDB
+AlbumArtist: Various Artists
+Title: Yamla Pagla Deewana (RDB Version) - Songs.PK
+Album: Yamla Pagla Deewana
+Track: 01
+Date: 2010
+Genre: Bollywood Music
+Composer: www.Songs.PK
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+Disc: 1/1
+mtime: 1357215699
+song_end
+song_begin: [Songs.PK] 02 - Charha De Rang - Yamla Pagla Deewana.mp3
+Time: 273
+Artist: Ali Pervez Mehdi, Rahul B. Seth, Mahalaxmi Iyer & Shweta Pandit
+AlbumArtist: Various Artists
+Title: Charha De Rang - www.Songs.PK
+Album: Yamla Pagla Deewana
+Track: 02
+Date: 2010
+Genre: Bollywood Music
+Composer: www.Songs.PK
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+Disc: 1/1
+mtime: 1357215697
+song_end
+song_begin: [Songs.PK] 03 -Tinku Jiya - Yamla Pagla Deewana.mp3
+Time: 300
+Artist: Mamta Sharma, Javed Ali
+AlbumArtist: Various Artists
+Title: Tinku Jiya - www.Songs.PK
+Album: Yamla Pagla Deewana
+Track: 03
+Date: 2010
+Genre: Bollywood Music
+Composer: www.Songs.PK
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+Disc: 1/1
+mtime: 1357215694
+song_end
+end: Hindi/Latest-2
+directory: Latest-3
+mtime: 1358447628
+begin: Hindi/Latest-3
+song_begin: Allah Hafiz.mp3
+Time: 267
+Artist: 08 allah hafiz
+Title: 08 allah hafiz
+Genre: Blues
+mtime: 1357215884
+song_end
+song_begin: Bebo.mp3
+Time: 262
+mtime: 1357215883
+song_end
+song_begin: Dhol Remix.mp3
+Time: 269
+mtime: 1357215868
+song_end
+song_begin: Dil Tod.mp3
+Time: 283
+Artist: 02 dil tod ke naa jaa
+Title: 02 dil tod ke naa jaa
+Genre: Blues
+mtime: 1357215865
+song_end
+song_begin: Hey Shona.mp3
+Time: 323
+Artist: 02 HEY SHONA
+Title: 02 HEY SHONA
+Track: 0
+Genre: Blues
+mtime: 1357215846
+song_end
+song_begin: Kiya Kya.mp3
+Time: 304
+Genre: www.Songs.PK
+mtime: 1357215820
+song_end
+song_begin: Labon Ko.mp3
+Time: 310
+mtime: 1357215818
+song_end
+song_begin: Loose Control.mp3
+Time: 220
+Artist: 03 paath shaala
+Title: 03 paath shaala
+Genre: Blues
+mtime: 1357215816
+song_end
+song_begin: Moja Hee Moja.mp3
+Time: 247
+mtime: 1357215801
+song_end
+song_begin: Naughty Naughty.mp3
+Time: 221
+Artist: 05 naughty naughty
+Title: 05 naughty naughty
+Genre: Blues
+mtime: 1357215796
+song_end
+song_begin: Om Magalam.mp3
+Time: 264
+mtime: 1357215788
+song_end
+song_begin: Paathshaala.mp3
+Time: 189
+Artist: 07 paath shaala (be a rebel
+Title: 07 paath shaala (be a rebel)
+Genre: Blues
+mtime: 1357215784
+song_end
+song_begin: Paisa Fek.mp3
+Time: 213
+mtime: 1357215783
+song_end
+song_begin: Roobaroo.mp3
+Time: 283
+Artist: 10 roobaroo
+Title: 10 roobaroo
+Genre: Blues
+mtime: 1357215767
+song_end
+song_begin: Tera Mera Rishta.mp3
+Time: 327
+Artist: 02 tera mera rishta
+Title: 02 tera mera rishta
+Genre: Blues
+mtime: 1357215748
+song_end
+song_begin: Tu Jo Nahi.mp3
+Time: 362
+Artist: 05 Tu Jo Nahin
+Title: 05 Tu Jo Nahin
+Genre: Blues
+mtime: 1357215742
+song_end
+song_begin: Tumse Mil K.mp3
+Time: 360
+mtime: 1357215737
+song_end
+song_begin: Soniye Hiriye.mp3
+Time: 257
+Artist: Shael - Aitbaar
+Title: Hiriye
+Track: 04
+Date: 2006
+mtime: 1357215759
+song_end
+song_begin: Bichhua.mp3
+Time: 317
+Artist: www.Songs.PK
+AlbumArtist: www.Songs.PK
+Title: Bichua - www.Songs.PK
+Album: 1920
+Track: 2
+Date: 2008
+Genre: www.Songs.PK
+Composer: www.Songs.PK
+mtime: 1357215881
+song_end
+song_begin: Tujhe mai pyaar karoon.mp3
+Time: 311
+Artist: www.Songs.PK
+AlbumArtist: www.Songs.PK
+Title: Tujhe Main Pyar Karu - www.Songs.PK
+Album: 1920
+Track: 4
+Date: 2008
+Genre: www.Songs.PK
+Composer: www.Songs.PK
+mtime: 1357215738
+song_end
+song_begin: Vaada tumse hai.mp3
+Time: 386
+Artist: www.Songs.PK
+AlbumArtist: www.Songs.PK
+Title: Vaada Tumse Hain Vaada - www.Songs.PK
+Album: 1920
+Track: 5
+Date: 2008
+Genre: www.Songs.PK
+Composer: www.Songs.PK
+mtime: 1357215731
+song_end
+song_begin: 1920 theme.mp3
+Time: 138
+Artist: www.Songs.PK
+AlbumArtist: www.Songs.PK
+Title: 1920 Theme - www.Songs.PK
+Album: 1920
+Track: 7
+Date: 2008
+Genre: www.Songs.PK
+Composer: www.Songs.PK
+mtime: 1357215890
+song_end
+song_begin: Zoobi.mp3
+Time: 248
+Artist: Sonu Nigam & Shreya Ghoshal
+AlbumArtist: www.Songs.PK
+Title: Zoobi Doobi - www.Songs.PK
+Album: 3 Idiots
+Track: 2
+Date: 2009
+Genre: Soundtrack
+Composer: www.Songs.PK
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+mtime: 1357215725
+song_end
+song_begin: O Re Piya.mp3
+Time: 380
+Artist: RAHAT FATEH ALI KHAN
+Title: O RE PIYA
+Album: AAJA NACHLE
+Track: 4
+Genre: <Unknown>
+mtime: 1357215792
+song_end
+song_begin: Sohniya.mp3
+Time: 274
+Artist: K.K., Sunidhi Chauhan & Hard Kaur
+AlbumArtist: www.Songs.PK
+Title: Main Tera Dhadkan Teri - www.Songs.PK
+Album: Ajab Prem Ki Ghazab Kahani
+Track: 01/14
+Date: 2009
+Genre: Bollywood Music
+Composer: www.Songs.PK
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+mtime: 1357215760
+song_end
+song_begin: Tera Hone Laga.mp3
+Time: 300
+Artist: Atif Aslam & Alisha Chinoy
+AlbumArtist: www.Songs.PK
+Title: Tera Hone Laga Hoon - www.Songs.PK
+Album: Ajab Prem Ki Ghazab Kahani
+Track: 04/14
+Date: 2009
+Genre: Bollywood Music
+Composer: www.Songs.PK
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+mtime: 1357215750
+song_end
+song_begin: Ik banjara tararam.mp3
+Time: 296
+Artist: Artist
+Title: Track 6
+Album: Album
+Track: 6
+Genre: Genre
+mtime: 1357215837
+song_end
+song_begin: Khuda Jaane.mp3
+Time: 336
+Artist: www.Songs.PK
+AlbumArtist: www.Songs.PK
+Title: Khuda Jaane - www.Songs.PK
+Album: Bachna Ae Haseeno
+Track: 1
+Date: 2008
+Genre: www.Songs.PK
+Composer: www.Songs.PK
+mtime: 1357215822
+song_end
+song_begin: Aahista Aahista.mp3
+Time: 352
+Artist: www.Songs.PK
+AlbumArtist: www.Songs.PK
+Title: Aahista Aahista - www.Songs.PK
+Album: Bachna Ae Haseeno
+Track: 3
+Date: 2008
+Genre: www.Songs.PK
+Composer: www.Songs.PK
+mtime: 1357215889
+song_end
+song_begin: Bhool Bhoolaiya.mp3
+Time: 328
+Artist: Neeraj Sridhar
+Title: Bhool Bhoolaiyaa
+Album: Bhool Bhulaiya @ Fmw11.com
+Track: 01
+Date: 2007
+mtime: 1357215882
+song_end
+song_begin: Oomph Soniye.mp3
+Time: 260
+Artist: Shaan & Warisha Dutta
+AlbumArtist: www.Songs.PK
+Title: Oomph Soniye - www.Songs.PK
+Album: Bird Idol
+Track: 1
+Date: 2010
+Genre: Soundtrack
+Composer: www.Songs.PK
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+mtime: 1357215787
+song_end
+song_begin: Chiggy Wiggy.mp3
+Time: 312
+Artist: Kylie Minogue, Sonu Nigam
+AlbumArtist: www.Songs.PK
+Title: Chiggy Wiggy - www.Songs.PK
+Album: Blue
+Track: 01
+Date: 2009
+Composer: www.Songs.PK
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+mtime: 1357215878
+song_end
+song_begin: Mindblowing Mahiya.mp3
+Time: 250
+Artist: DesiWEB.net_(Mind_Blowing_Mahiya)
+Title: www.desiweb.net
+Album: Cash
+mtime: 1357215803
+song_end
+song_begin: Rishte Naate.mp3
+Time: 282
+Artist: De Dana Dan
+AlbumArtist: www.Songs.PK
+Title: Rishte Naate - www.Songs.PK
+Album: De Dana Dan
+Track: 1
+Date: 2009
+Genre: Soundtrack
+Composer: www.Songs.PK
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+mtime: 1357215769
+song_end
+song_begin: Paisa.mp3
+Time: 234
+Artist: De Dana Dan
+AlbumArtist: www.Songs.PK
+Title: Paisa - www.Songs.PK
+Album: De Dana Dan
+Track: 2
+Date: 2009
+Genre: Soundtrack
+Composer: www.Songs.PK
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+mtime: 1357215782
+song_end
+song_begin: Gale Lag Ja.mp3
+Time: 252
+Artist: De Dana Dan
+AlbumArtist: www.Songs.PK
+Title: Gale Lag Ja - www.Songs.PK
+Album: De Dana Dan
+Track: 3
+Date: 2009
+Genre: Soundtrack
+Composer: www.Songs.PK
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+mtime: 1357215853
+song_end
+song_begin: Gale Lag Ja2.mp3
+Time: 261
+Artist: De Dana Dan
+AlbumArtist: www.Songs.PK
+Title: Gale Lag Ja (Version 2) - www.Songs.PK
+Album: De Dana Dan
+Track: 8
+Date: 2009
+Genre: Soundtrack
+Composer: www.Songs.PK
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+mtime: 1357215852
+song_end
+song_begin: De Taali.mp3
+Time: 192
+Artist: www.Songs.PK
+AlbumArtist: www.Songs.PK
+Title: Everybody Put Your Hands Together - www.Songs.PK
+Album: De Taali
+Track: 1
+Date: 2008
+Genre: www.Songs.PK
+Composer: www.Songs.PK
+mtime: 1357215874
+song_end
+song_begin: De Taali2.mp3
+Time: 249
+Artist: www.Songs.PK
+AlbumArtist: www.Songs.PK
+Title: De Taali - www.Songs.PK
+Album: De Taali
+Track: 2
+Date: 2008
+Genre: www.Songs.PK
+Composer: www.Songs.PK
+mtime: 1357215873
+song_end
+song_begin: Masak Kali.mp3
+Time: 291
+Artist: A.R Rahman [Songs.PK]
+AlbumArtist: www.Songs.PK
+Title: Masakali - www.Songs.PK
+Album: Dehli 6
+Track: 01
+Date: 2009
+Genre: www.Songs.PK
+Composer: www.Songs.PK
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+Disc: www.Songs.PK
+mtime: 1357215811
+song_end
+song_begin: Genda Phool.mp3
+Time: 170
+Artist: A.R Rahman [Songs.PK]
+AlbumArtist: www.Songs.PK
+Title: Genda Phool - www.Songs.PK
+Album: Dehli 6
+Track: 05
+Date: 2009
+Genre: www.Songs.PK
+Composer: www.Songs.PK
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+Disc: www.Songs.PK
+mtime: 1357215850
+song_end
+song_begin: Ye Dilli Hai.mp3
+Time: 216
+Artist: A.R Rahman [Songs.PK]
+AlbumArtist: www.Songs.PK
+Title: Delhi 6 - www.Songs.PK
+Album: Dehli 6
+Track: 09
+Date: 2009
+Genre: www.Songs.PK
+Composer: www.Songs.PK
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+Disc: www.Songs.PK
+mtime: 1357215726
+song_end
+song_begin: Emotional Atyachaar.mp3
+Time: 240
+Artist: www.Songs.PK
+AlbumArtist: www.Songs.PK
+Title: Emosanal Attyachaar - Brass Band Version - www.Songs.PK
+Album: Dev D
+Track: 8
+Date: 2008
+Genre: www.Songs.PK
+Composer: www.Songs.PK
+mtime: 1357215857
+song_end
+song_begin: Disco Waale.mp3
+Time: 266
+Artist: www.Songs.PK
+AlbumArtist: www.Songs.PK
+Title: Discowale Khisko - www.Songs.PK
+Album: Dil Bole Hadippa
+Track: 02
+Date: 2009
+Genre: Soundtrack
+Composer: www.Songs.PK
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+mtime: 1357215862
+song_end
+song_begin: Zulfen Khol Khal K.mp3
+Time: 259
+Artist: www.Songs.PK
+AlbumArtist: www.Songs.PK
+Title: Zulfaen Khol Khal Ke - www.Songs.PK
+Album: Do Knot Disturb
+Track: 03
+Date: 2009
+Genre: Bollywood Music
+Composer: www.Songs.PK
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+mtime: 1357215724
+song_end
+song_begin: Don't ever.mp3
+Time: 220
+Artist: www.Songs.PK
+AlbumArtist: www.Songs.PK
+Title: Don't Ever Leave Me - www.Songs.PK
+Album: Do Knot Disturb
+Track: 04
+Date: 2009
+Genre: Bollywood Music
+Composer: www.Songs.PK
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+mtime: 1357215860
+song_end
+song_begin: Guzarish.mp3
+Time: 329
+Artist: www.Songs.PK
+AlbumArtist: www.Songs.PK
+Title: Guzarish - www.Songs.PK
+Album: Ghajini
+Track: 1
+Date: 2008
+Genre: www.Songs.PK
+Composer: www.Songs.PK
+mtime: 1357215849
+song_end
+song_begin: Tu Mujhe Mil Gayi.mp3
+Time: 347
+Artist: www.Songs.PK
+AlbumArtist: www.Songs.PK
+Title: Kaise Mujhe - www.Songs.PK
+Album: Ghajini
+Track: 3
+Date: 2008
+Genre: www.Songs.PK
+Composer: www.Songs.PK
+mtime: 1357215739
+song_end
+song_begin: Tu Mil Gayi Instrumental.mp3
+Time: 242
+Artist: www.Songs.PK
+AlbumArtist: www.Songs.PK
+Title: Kaise Mujhe (Instrumental) - www.Songs.PK
+Album: Ghajini
+Track: 6
+Date: 2008
+Genre: www.Songs.PK
+Composer: www.Songs.PK
+mtime: 1357215740
+song_end
+song_begin: Heyy_Babyy.mp3
+Time: 277
+Artist: DesiWEB.net_(Heyy_Babyy)
+Title: www.desiweb.net
+Album: Heyy_Babyy
+mtime: 1357215843
+song_end
+song_begin: Oh Girl You.mp3
+Time: 238
+Artist: Tarun Sagar, Alyssa Megnonsa & Loy
+AlbumArtist: HouseFull
+Title: Oh Girl You're Mine - www.Songs.PK
+Album: Housefull
+Track: 01
+Date: 2010
+Genre: Bollywood Music
+Composer: www.Songs.PK
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+mtime: 1357215790
+song_end
+song_begin: Papa Jaag Jaayega.mp3
+Time: 200
+Artist: Ritu Pathak, Neeraj Shridhar & Alyssa Mendonsa
+AlbumArtist: HouseFull
+Title: Papa Jag Jayega - www.Songs.PK
+Album: Housefull
+Track: 02
+Date: 2010
+Genre: Bollywood Music
+Composer: www.Songs.PK
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+mtime: 1357215781
+song_end
+song_begin: Aapka Kya Hoga.mp3
+Time: 309
+Artist: Mika, Sunidhi Chauhan & Sajid Khan
+AlbumArtist: HouseFull
+Title: Aapka Kya Hoga (Dhanno) - www.Songs.PK
+Album: Housefull
+Track: 03
+Date: 2010
+Genre: Bollywood Music
+Composer: www.Songs.PK
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+mtime: 1357215887
+song_end
+song_begin: I dont knw.mp3
+Time: 201
+Artist: Shabbir Kumar & Sunidhi Chauhan
+AlbumArtist: HouseFull
+Title: I Don't Know What To Do - www.Songs.PK
+Album: Housefull
+Track: 04
+Date: 2010
+Genre: Bollywood Music
+Composer: www.Songs.PK
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+mtime: 1357215840
+song_end
+song_begin: I hate Luv Storys.mp3
+Time: 285
+Artist: Vishal Dadlani
+AlbumArtist: Vishal & Shekher
+Title: I hate Luv Storys - www.Songs.PK
+Album: I Hate Luv Storys
+Track: 3/8
+Date: 2010
+Genre: Bollywood Music
+Composer: Vishal & Shekher
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+Disc: 1/1
+mtime: 1357215839
+song_end
+song_begin: [Songs.PK] I Hate Luv Storys - 05 - Sadka Hua.mp3
+Time: 344
+Artist: Suraj Jagan;Mahalaxmi Iyer
+AlbumArtist: Vishal & Shekher
+Title: Sadka Hua - www.Songs.PK
+Album: I Hate Luv Storys
+Track: 5/8
+Date: 2010
+Genre: Bollywood Music
+Composer: Vishal & Shekher
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+Disc: 1/1
+mtime: 1357215722
+song_end
+song_begin: Dil Toh Bachha Hai.mp3
+Time: 336
+Artist: Rahat Fateh Ali Khan
+AlbumArtist: www.Songs.PK
+Title: Dil To Bachcha Hai - www.Songs.PK
+Album: Ishqiya
+Track: 01
+Date: 2010
+Genre: Soundtrack
+Composer: www.Songs.PK
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+mtime: 1357215864
+song_end
+song_begin: Kabhi Kabhi.mp3
+Time: 221
+Artist: www.Songs.PK
+AlbumArtist: www.Songs.PK
+Title: Kabhi Kabhi Aditi Zindagi - www.Songs.PK
+Album: Jaane Tu Ya Jaane Na
+Track: 1
+Date: 2008
+Genre: www.Songs.PK
+Composer: www.Songs.PK
+mtime: 1357215825
+song_end
+song_begin: Pappu Can't Dance.mp3
+Time: 267
+Artist: www.Songs.PK
+AlbumArtist: www.Songs.PK
+Title: Pappu Cant Dance - www.Songs.PK
+Album: Jaane Tu Ya Jaane Na
+Track: 2
+Date: 2008
+Genre: www.Songs.PK
+Composer: www.Songs.PK
+mtime: 1357215779
+song_end
+song_begin: Nazrein Karam.mp3
+Time: 331
+Artist: www.Songs.PK
+AlbumArtist: www.Songs.PK
+Title: Nazrein Karam - www.Songs.PK
+Album: Jashnn
+Date: 2009
+Genre: Bollywood Music
+Composer: www.Songs.PK
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+mtime: 1357215795
+song_end
+song_begin: Dhan Te Naan.mp3
+Time: 281
+Artist: www.Songs.PK
+AlbumArtist: www.Songs.PK
+Title: Dhan Te Nan - www.Songs.PK
+Album: Kaminey
+Track: 01
+Date: 2009
+Genre: Bollywood Music
+Composer: www.Songs.PK
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+mtime: 1357215870
+song_end
+song_begin: Hey Ya.mp3
+Time: 257
+Artist: Clinton Cerejo, Shankar Mahadevan & Loy Mendonsa
+AlbumArtist: Karthik Calling Karthik
+Title: Hey Ya! - www.Songs.PK
+Album: Karthik Calling Karthik
+Track: 01
+Date: 2010
+Genre: Soundtrack
+Composer: Music: Shankar-Ehsaan-Loy | Lyrics: Javed Akhtar
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+mtime: 1357215845
+song_end
+song_begin: Lut Jaaun.mp3
+Time: 336
+Artist: www.Songs.PK
+AlbumArtist: www.Songs.PK
+Title: Lut Jaoon Lut Jaoon - www.Songs.PK
+Album: Karzzzz [Songs.PK]
+Track: 1
+Date: 2008
+Genre: www.Songs.PK
+Composer: www.Songs.PK
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+mtime: 1357215813
+song_end
+song_begin: Tandoori Nights.mp3
+Time: 315
+Artist: www.Songs.PK
+AlbumArtist: www.Songs.PK
+Title: Tandoori Nights - www.Songs.PK
+Album: Karzzzz [Songs.PK]
+Track: 3
+Date: 2008
+Genre: www.Songs.PK
+Composer: www.Songs.PK
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+mtime: 1357215755
+song_end
+song_begin: Soniye Je Tere.mp3
+Time: 291
+Artist: www.Songs.PK
+AlbumArtist: www.Songs.PK
+Title: Soniye Je Tere - www.Songs.PK
+Album: Karzzzz [Songs.PK]
+Track: 4
+Date: 2008
+Genre: www.Songs.PK
+Composer: www.Songs.PK
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+mtime: 1357215758
+song_end
+song_begin: Twist.mp3
+Time: 301
+Artist: www.Songs.PK
+AlbumArtist: www.Songs.PK
+Title: Twist - www.Songs.PK
+Album: Love Aaj Kal
+Track: 01
+Date: 2009
+Genre: Bollywood Music
+Composer: www.Songs.PK
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+mtime: 1357215734
+song_end
+song_begin: Thoda Thoda Pyaar.mp3
+Time: 245
+Artist: www.Songs.PK
+AlbumArtist: www.Songs.PK
+Title: Thoda Thoda Pyar - www.Songs.PK
+Album: Love Aaj Kal
+Track: 07
+Date: 2009
+Genre: Bollywood Music
+Composer: www.Songs.PK
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+mtime: 1357215747
+song_end
+song_begin: LSD Title.mp3
+Time: 294
+Artist: Kailash Kher
+AlbumArtist: www.Songs.PK
+Title: LSD Title Track - www.Songs.PK
+Album: Love Sex Aur Dhokha
+Track: 1
+Date: 2010
+Genre: Bollywood Music
+Composer: www.Songs.PK
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+mtime: 1357215815
+song_end
+song_begin: I Cant Hold.mp3
+Time: 170
+Artist: Sneha Khanwalkar
+AlbumArtist: www.Songs.PK
+Title: I Can't Hold It - www.Songs.PK
+Album: Love Sex Aur Dhokha
+Track: 3
+Date: 2010
+Genre: Bollywood Music
+Composer: www.Songs.PK
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+mtime: 1357215842
+song_end
+song_begin: Mohabbat.mp3
+Time: 231
+Artist: Nihira Joshi & Amey Dale
+AlbumArtist: www.Songs.PK
+Title: Mohabbat Bollywood Style - www.Songs.PK
+Album: Love Sex Aur Dhokha
+Track: 4
+Date: 2010
+Genre: Bollywood Music
+Composer: www.Songs.PK
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+mtime: 1357215803
+song_end
+song_begin: Tu Gandi.mp3
+Time: 189
+Artist: Kailash Kher
+AlbumArtist: www.Songs.PK
+Title: Tu Gandi - www.Songs.PK
+Album: Love Sex Aur Dhokha
+Track: 6
+Date: 2010
+Genre: Bollywood Music
+Composer: www.Songs.PK
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+mtime: 1357215745
+song_end
+song_begin: Don't Say Alvida.mp3
+Time: 304
+Artist: Sonu Nigam, Shreya Ghoshal & Suzanne D'Mello
+AlbumArtist: www.Songs.PK
+Title: Don't Say Alvida - www.Songs.PK
+Album: Main Aurr Mrs Khanna
+Track: 1
+Date: 2009
+Genre: Soundtrack
+Composer: www.Songs.PK
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+mtime: 1357215859
+song_end
+song_begin: Milenge Milenge.mp3
+Time: 252
+Artist: Alka Yagnik & Jayesh Gandhi
+AlbumArtist: www.Songs.PK
+Title: Milenge Milenge - www.Songs.PK
+Album: Milenge Milenge
+Track: 02
+Date: 2010
+Genre: Soundtrack
+Composer: Himesh Reshammiya
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+mtime: 1357215805
+song_end
+song_begin: Ishq Ki Gali.mp3
+Time: 362
+Artist: Rahat Fateh Ali Khan & Jayesh Gandhi
+AlbumArtist: www.Songs.PK
+Title: Ishq Ki Gali - www.Songs.PK
+Album: Milenge Milenge
+Track: 04
+Date: 2010
+Genre: Soundtrack
+Composer: Himesh Reshammiya
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+mtime: 1357215835
+song_end
+song_begin: Milenge Milenge 2.mp3
+Time: 383
+Artist: Himesh Reshammiya & Shreya Ghoshal
+AlbumArtist: www.Songs.PK
+Title: Milenge Milenge - www.Songs.PK
+Album: Milenge Milenge
+Track: 06
+Date: 2010
+Genre: Soundtrack
+Composer: Himesh Reshammiya
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+mtime: 1357215808
+song_end
+song_begin: Tum_Mile.mp3
+Time: 290
+Artist: www.Songs.PK
+AlbumArtist: www.Songs.PK
+Title: Tum Mile - [www.Songs.PK]
+Album: My Name Is Anthony Gonsalves
+Date: 2007
+Composer: www.Songs.PK
+mtime: 1357215736
+song_end
+song_begin: Na Ghar Ke Na Ghaat Ke.mp3
+Time: 313
+Artist: Remo Fernandes
+AlbumArtist: www.Songs.PK
+Title: Na Ghar Ke Na Ghaat Ke - www.Songs.PK
+Album: Na Ghar Ke Na Ghaat Ke
+Track: 1
+Date: 2010
+Genre: Bollywood Music
+Composer: www.Songs.PK
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+mtime: 1357215797
+song_end
+song_begin: Agar Ham Tumko.mp3
+Time: 208
+Artist: Shreya Ghoshal & Neeraj Sridhar
+AlbumArtist: www.Songs.PK
+Title: Agar Hum Tum Ko - www.Songs.PK
+Album: Na Ghar Ke Na Ghaat Ke
+Track: 2
+Date: 2010
+Genre: Bollywood Music
+Composer: www.Songs.PK
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+mtime: 1357215885
+song_end
+song_begin: One Two Three.mp3
+Time: 230
+Artist: www.Songs.PK
+AlbumArtist: www.Songs.PK
+Title: One Two Three [www.Songs.PK]
+Album: One Two Three
+Track: 01/09
+Date: 2008
+Genre: www.Songs.PK
+Composer: www.Songs.PK
+mtime: 1357215787
+song_end
+song_begin: Rock Mahi.mp3
+Time: 234
+Artist: www.Songs.PK
+AlbumArtist: www.Songs.PK
+Title: Rock Mahi - [www.Songs.PK]
+Album: One Two Three
+Track: 02/09
+Date: 2008
+Genre: www.Songs.PK
+Composer: www.Songs.PK
+mtime: 1357215768
+song_end
+song_begin: Lakshmi Narayan.mp3
+Time: 148
+Artist: www.Songs.PK
+AlbumArtist: www.Songs.PK
+Title: Lakshmi Narayan [www.Songs.PK]
+Album: One Two Three
+Track: 08/09
+Date: 2008
+Genre: www.Songs.PK
+Composer: www.Songs.PK
+mtime: 1357215817
+song_end
+song_begin: Pyaar Kar Ke.mp3
+Time: 249
+Title: Pyar Karke
+Album: PYAR KE SIDE EFFECTS
+Track: 01/09
+Date: 2006
+Genre: OST - Hindi
+Composer: Labh Janjua (Rap by BOB & Suzy)
+mtime: 1357215778
+song_end
+song_begin: Hichki Hichki.mp3
+Time: 263
+Artist: Sunidhi Chauhan
+AlbumArtist: www.Songs.PK
+Title: Hichki Hichki - www.Songs.PK
+Album: Paa
+Track: 4
+Date: 2009
+Genre: Soundtrack
+Composer: www.Songs.PK
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+mtime: 1357215843
+song_end
+song_begin: Paa Theme.mp3
+Time: 202
+Artist: Remixed By: Vikky Goswami
+AlbumArtist: www.Songs.PK
+Title: Paa Theme (Remix) - www.Songs.PK
+Album: Paa
+Track: 8
+Date: 2009
+Genre: Soundtrack
+Composer: www.Songs.PK
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+mtime: 1357215785
+song_end
+song_begin: O Mere Khuda.mp3
+Time: 200
+Artist: Prince
+AlbumArtist: Prince
+Title: O Mere Khuda - www.Songs.PK
+Album: Prince
+Track: 01/16
+Date: 2010
+Genre: Soundtrack
+Composer: Music: Sachin Gupta | Lyrics: Sameer
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+mtime: 1357215793
+song_end
+song_begin: Kaun Hoon Mai.mp3
+Time: 252
+Artist: Prince
+AlbumArtist: Prince
+Title: Kaun Hoon Main - www.Songs.PK
+Album: Prince
+Track: 03/16
+Date: 2010
+Genre: Soundtrack
+Composer: Music: Sachin Gupta | Lyrics: Sameer
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+mtime: 1357215824
+song_end
+song_begin: Ishq Mey.mp3
+Time: 262
+Artist: Prince
+AlbumArtist: Prince
+Title: Ishq Mein - www.Songs.PK
+Album: Prince
+Track: 06/16
+Date: 2010
+Genre: Soundtrack
+Composer: Music: Sachin Gupta | Lyrics: Sameer
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+mtime: 1357215833
+song_end
+song_begin: Mora Piya.mp3
+Time: 345
+Artist: Aadesh Shrivastava, Shashi, Rosalie Nicholson
+AlbumArtist: www.Songs.PK
+Title: Mora Piya - www.Songs.PK
+Album: Raajneeti
+Track: 2
+Date: 2010
+Genre: Soundtrack
+Composer: www.Songs.PK
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+mtime: 1357215799
+song_end
+song_begin: Ishq Barse.mp3
+Time: 276
+Artist: Pronob Biswas, Hamsika Iyer, Swanand Kirkire
+AlbumArtist: www.Songs.PK
+Title: Ishq Barse - www.Songs.PK
+Album: Raajneeti
+Track: 3
+Date: 2010
+Genre: Soundtrack
+Composer: www.Songs.PK
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+mtime: 1357215836
+song_end
+song_begin: Ranjha Ranjha.mp3
+Time: 354
+Artist: Rekha Bharadwaj, Javed Ali, Anuradha Sriram
+AlbumArtist: A R Rahman
+Title: Ranjha Ranjha - www.Songs.PK
+Album: Raavan
+Track: 04
+Date: 2010
+Genre: Soundtrack
+Composer: www.Songs.PK
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+mtime: 1357215771
+song_end
+song_begin: Tu Hee.mp3
+Time: 284
+Artist: www.Songs.PK
+AlbumArtist: www.Songs.PK
+Title: Tujh Mein Rab Dikhta Hai - www.Songs.PK
+Album: Rab Ne Bana Di Jodi
+Track: 1
+Date: 2008
+Genre: www.Songs.PK
+Composer: www.Songs.PK
+mtime: 1357215743
+song_end
+song_begin: Haule Haule.mp3.mp3
+Time: 266
+Artist: www.Songs.PK
+AlbumArtist: www.Songs.PK
+Title: Haule Haule - www.Songs.PK
+Album: Rab Ne Bana Di Jodi
+Track: 2
+Date: 2008
+Genre: www.Songs.PK
+Composer: www.Songs.PK
+mtime: 1357215847
+song_end
+song_begin: Dance Pe Dance.mp3
+Time: 263
+Artist: www.Songs.PK
+AlbumArtist: www.Songs.PK
+Title: Dance Pe Chance - www.Songs.PK
+Album: Rab Ne Bana Di Jodi
+Track: 3
+Date: 2008
+Genre: www.Songs.PK
+Composer: www.Songs.PK
+mtime: 1357215876
+song_end
+song_begin: Tu Hee Rab Hai (F).mp3
+Time: 104
+Artist: www.Songs.PK
+AlbumArtist: www.Songs.PK
+Title: Tujh Mein Rab Dikhta Hai - www.Songs.PK
+Album: Rab Ne Bana Di Jodi
+Track: 5
+Date: 2008
+Genre: www.Songs.PK
+Composer: www.Songs.PK
+mtime: 1357215744
+song_end
+song_begin: Jadu Nasha.mp3
+Time: 372
+Artist: Shaan
+AlbumArtist: Adnan Sami
+Title: Jadu Nasha Ehsas Kya - www.Songs.PK
+Album: Sadiyaan
+Track: 1/8
+Date: 2010
+Genre: Bollywood Music
+Composer: Adnan Sami
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+Disc: 1/1
+mtime: 1357215829
+song_end
+song_begin: Singh Is Kinng.mp3
+Time: 281
+Artist: www.Songs.PK
+AlbumArtist: www.Songs.PK
+Title: Bas Ek Kinng - www.Songs.PK
+Album: Singh Is Kinng
+Track: 3
+Date: 2008
+Genre: www.Songs.PK
+Composer: www.Songs.PK
+mtime: 1357215762
+song_end
+song_begin: Jay Ho.mp3
+Time: 1594
+Artist: www.Songs.PK
+AlbumArtist: www.Songs.PK
+Title: Jai Ho - www.Songs.PK
+Album: Slumdog Millionaire
+Track: 13
+Date: 2008
+Genre: www.Songs.PK
+Composer: www.Songs.PK
+mtime: 1357215827
+song_end
+song_begin: Cham Cham.mp3
+Time: 432
+Artist: Sonu Nigam
+AlbumArtist: Striker
+Title: Cham Cham - www.Songs.PK
+Album: Striker
+Track: 01
+Date: 2010
+Genre: Soundtrack
+Composer: Music: Shailendra Barve | Lyrics: Jeetendra Joshi
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+mtime: 1357215880
+song_end
+song_begin: Tara.mp3
+Time: 237
+Artist: Shaan, Mahalaxmi Iyer, Sneha Suresh & Shravan Suresh
+Title: Ta Ra Rum Pum
+Album: Ta Ra Rum Pum
+Track: 1
+Genre: <Unknown>
+mtime: 1357215752
+song_end
+song_begin: Tararum.mp3
+Time: 330
+Artist: Shreya Ghoshal
+Title: Ta Ra Ra Ra Rum TaRaRumPum
+Album: Ta Ra Rum Pum
+Track: 4
+Genre: <Unknown>
+mtime: 1357215751
+song_end
+song_begin: Dil Dance Maare.mp3
+Time: 325
+Artist: www.Songs.PK
+AlbumArtist: www.Songs.PK
+Title: Dil Dance Maare - www.Songs.PK
+Album: Tashan
+Date: 2008
+Genre: www.Songs.PK
+Composer: www.Songs.PK
+mtime: 1357215867
+song_end
+song_begin: Falak Tak Chal.mp3
+Time: 356
+Artist: www.Songs.PK
+AlbumArtist: www.Songs.PK
+Title: Falak Tak - www.Songs.PK
+Album: Tashan
+Date: 2008
+Genre: www.Songs.PK
+Composer: www.Songs.PK
+mtime: 1357215856
+song_end
+song_begin: Shor Sharaba.mp3
+Time: 220
+Artist: Jaspreet Singh & Suraj Jagan
+AlbumArtist: www.Songs.PK
+Title: Shor Sharaba - www.Songs.PK
+Album: Tere Bin Laden
+Track: 02
+Date: 2010
+Genre: Bollywood Music
+Composer: Music : Dhruv Dhalla  | Lyrics : Jaspreet Singh & Dhruv Dhalla
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+mtime: 1357215764
+song_end
+song_begin: Talli.mp3
+Time: 373
+Artist: www.Songs.PK
+AlbumArtist: www.Songs.PK
+Title: Talli Main Talli Ho Gai - www.Songs.PK
+Album: Ugly Aur Pagli
+Track: 1
+Date: 2008
+Genre: www.Songs.PK
+Composer: www.Songs.PK
+mtime: 1357215756
+song_end
+song_begin: Rab Na Kare.mp3
+Time: 354
+Artist: Baabu Maan
+AlbumArtist: www.Songs.PK
+Title: Rab Na Kare - www.Songs.PK
+Album: Vaada Raha... I Promise
+Track: 02
+Date: 2009
+Genre: Bollywood Music
+Composer: www.Songs.PK
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+mtime: 1357215775
+song_end
+song_begin: Rab Na Kare Slow.mp3
+Time: 121
+Artist: Babbu Maan
+AlbumArtist: www.Songs.PK
+Title: Rab Na Kare - Slow  - www.Songs.PK
+Album: Vaada Raha... I Promise
+Track: 05
+Date: 2009
+Genre: Bollywood Music
+Composer: www.Songs.PK
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+mtime: 1357215775
+song_end
+song_begin: Salaam Aaya.mp3
+Time: 294
+Artist: Roop Kumar Rathod, Shreya Ghoshal, Suzanne D'mello
+AlbumArtist: www.Songs.PK
+Title: Salaam Aaya - www.Songs.PK
+Album: Veer
+Track: 3
+Date: 2009
+Genre: Bollywood Music
+Composer: www.Songs.PK
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+mtime: 1357215765
+song_end
+song_begin: Uncha Lamba Kad.mp3
+Time: 280
+Artist: www.Songs.PK
+Title: Uncha Lamba Kad - [www.Songs.PK]
+Album: Welcome
+Track: 05
+Genre: www.Songs.PK
+Composer: Music : Sajid Wajid, Himesh Reshammiya & Anand Raj Anand  | Lyrics : Shabbir Ahmed, Sameer, Ibrahim Ashq, Anjaan Sagari & Anand Raj Anand
+mtime: 1357215733
+song_end
+song_begin: Meri Banno Hoshiyar.mp3
+Time: 215
+Artist: Ila Arun, Daniel George
+AlbumArtist: www.Songs.PK
+Title: Meri Banno Hoshiyar - www.Songs.PK
+Album: Well Done Abba
+Track: 01
+Date: 2010
+Genre: Soundtrack
+Composer: www.Songs.PK
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+mtime: 1357215809
+song_end
+song_begin: Rahiman Ishq Ka Dhaga Re.mp3
+Time: 362
+Artist: Raghav, Raja Hasan
+AlbumArtist: www.Songs.PK
+Title: Rahiman Ishq Ka Dhaga Re - www.Songs.PK
+Album: Well Done Abba
+Track: 04
+Date: 2010
+Genre: Soundtrack
+Composer: www.Songs.PK
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+mtime: 1357215773
+song_end
+song_begin: Whats Your Rashee.mp3
+Time: 239
+Artist: www.Songs.PK
+AlbumArtist: www.Songs.PK
+Title: Whats Your Rashee - Pal Pal Dil Jisko Dhoonde - www.Songs.PK
+Album: Whats Your Rashee?
+Track: 1
+Date: 2009
+Genre: Bollywood Music
+Composer: www.Songs.PK
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+mtime: 1357215730
+song_end
+song_begin: Jaao Na.mp3
+Time: 285
+Artist: www.Songs.PK
+AlbumArtist: www.Songs.PK
+Title: Jao Na - www.Songs.PK
+Album: Whats Your Rashee?
+Track: 2
+Date: 2009
+Genre: Bollywood Music
+Composer: www.Songs.PK
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+mtime: 1357215831
+song_end
+song_begin: Dhadkan Dhadkan.mp3
+Time: 304
+Artist: www.Songs.PK
+AlbumArtist: www.Songs.PK
+Title: Dhadkan Dhadkan - www.Songs.PK
+Album: Whats Your Rashee?
+Track: 11
+Date: 2009
+Genre: Bollywood Music
+Composer: www.Songs.PK
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+mtime: 1357215871
+song_end
+song_begin: Whts Your Rashee.mp3
+Time: 334
+Artist: www.Songs.PK
+AlbumArtist: www.Songs.PK
+Title: Whats Your Rashee - Chehra Jo Dekhe Hain - www.Songs.PK
+Album: Whats Your Rashee?
+Track: 13
+Date: 2009
+Genre: Bollywood Music
+Composer: www.Songs.PK
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+mtime: 1357215728
+song_end
+song_begin: Chin Chi Chu.mp3
+Time: 238
+Artist: artist
+Title: Track 03
+Album: title
+Track: 3
+Genre: genre
+mtime: 1357215877
+song_end
+song_begin: Forever.mp3
+Time: 240
+Artist: artist
+Title: Track 05
+Album: title
+Track: 5
+Genre: genre
+mtime: 1357215855
+song_end
+end: Hindi/Latest-3
+directory: More
+mtime: 1353824229
+begin: Hindi/More
+directory: ABA
+mtime: 1341745131
+begin: Hindi/More/ABA
+song_begin: Aap Ki Kashish Remix.mp3
+Time: 281
+Artist: 09 aap ki kashish (remix
+Title: 09 aap ki kashish (remix)
+Genre: Blues
+mtime: 1123109330
+song_end
+song_begin: Aap Ki Kashish.mp3
+Time: 330
+Artist: 039 Aap KI Kashish(aashiq ban
+Title: 039 Aap KI Kashish(aashiq ban
+Genre: Blues
+mtime: 1123262078
+song_end
+song_begin: Aashiq Banaaya Aapne Remix.mp3
+Time: 272
+Artist: 07 aashiq banaya aapne (remix
+Title: 07 aashiq banaya aapne (remix
+Genre: Blues
+mtime: 1123109240
+song_end
+song_begin: Aashiq Banaaya Aapne.mp3
+Time: 364
+Artist: 01 aashiq banaya aapne
+Title: 01 aashiq banaya aapne
+Genre: Blues
+mtime: 1123108940
+song_end
+song_begin: Mar Jaawaan.mp3
+Time: 268
+Artist: 02 mar jawan mit jawan
+Title: 02 mar jawan mit jawan
+Genre: Blues
+mtime: 1123108986
+song_end
+end: Hindi/More/ABA
+directory: Andaaz
+mtime: 1341745135
+begin: Hindi/More/Andaaz
+song_begin: 01Kisise Tum Pyaar Karo.mp3
+Time: 322
+Artist: 01Kisise Tum Pyaar Karo
+Title: 01Kisise Tum Pyaar Karo
+Genre: Blues
+mtime: 1047023026
+song_end
+song_begin: 02Kitna Pagal Dil Hai.mp3
+Time: 333
+Artist: 02Kitna Pagal Dil Hai
+Title: 02Kitna Pagal Dil Hai
+Genre: Blues
+mtime: 1047023204
+song_end
+song_begin: 05Aaj Kehna Zaroori Hai.mp3
+Time: 359
+Artist: 05Aaj Kehna Zaroori Hai
+Title: 05Aaj Kehna Zaroori Hai
+Genre: Blues
+mtime: 1047023742
+song_end
+song_begin: Aayega Maza.MP3
+Time: 313
+Artist: Andaaz ( UM Music )
+Title: 06. Aayega Maza Ab Barsaat.mp
+Album: SOIKOT, 011 - 843616
+mtime: 984603080
+song_end
+song_begin: Allah Kare.MP3
+Time: 351
+Artist: Andaaz ( UM Music )
+Title: 03. Allah Kare Dil Na.mp3
+Album: SOIKOT, 011 - 843616
+mtime: 984603080
+song_end
+song_begin: Rabba Ishq.MP3
+Time: 385
+Artist: Andaaz ( UM Music )
+Title: 04. Rabba Ishq Na Hoye.mp3
+Album: SOIKOT, 011 - 843616
+mtime: 984603080
+song_end
+song_begin: Shala La.MP3
+Time: 376
+Artist: Andaaz ( UM Music )
+Title: 08. Shala La Baby.mp3
+Album: SOIKOT, 011 - 843616
+mtime: 984603080
+song_end
+end: Hindi/More/Andaaz
+directory: DDLJ
+mtime: 1341745078
+begin: Hindi/More/DDLJ
+song_begin: 1(mp3pk.com).mp3
+Time: 450
+Artist: www.Mp3pk.com
+AlbumArtist: www.Mp3pk.com
+Title: ghar aja perdesi
+Album: DIL WALEY DULHANIAN LE JAYEINGE
+Genre: www.Mp3pk.com
+Disc: 1/1
+mtime: 1290558527
+song_end
+song_begin: 2(mp3pk.com).mp3
+Time: 348
+Artist: www.Mp3pk.com
+AlbumArtist: www.Mp3pk.com
+Title: hogaya hai tujko to pyar
+Album: DIL WALEY DULHANIAN LE JAYEINGE
+Genre: www.Mp3pk.com
+Disc: 1/1
+mtime: 1290558521
+song_end
+song_begin: 3(mp3pk.com).mp3
+Time: 291
+Artist: www.Mp3pk.com
+AlbumArtist: www.Mp3pk.com
+Title: mehndi laga ke rakhna
+Album: DIL WALEY DULHANIAN LE JAYEINGE
+Genre: www.Mp3pk.com
+Disc: 1/1
+mtime: 1290558519
+song_end
+song_begin: 4(mp3pk.com).mp3
+Time: 258
+Artist: www.Mp3pk.com
+AlbumArtist: www.Mp3pk.com
+Title: mere khawabon mein jo
+Album: DIL WALEY DULHANIAN LE JAYEINGE
+Genre: www.Mp3pk.com
+Disc: 1/1
+mtime: 1290558517
+song_end
+song_begin: 5(mp3pk.com).mp3
+Time: 314
+Artist: www.Mp3pk.com
+AlbumArtist: www.Mp3pk.com
+Title: ruk ja o dil deewane
+Album: DIL WALEY DULHANIAN LE JAYEINGE
+Genre: www.Mp3pk.com
+Disc: 1/1
+mtime: 1290558517
+song_end
+song_begin: 6(mp3pk.com).mp3
+Time: 302
+Artist: www.Mp3pk.com
+AlbumArtist: www.Mp3pk.com
+Title: tujhay dekha to jana sanam
+Album: DIL WALEY DULHANIAN LE JAYEINGE
+Genre: www.Mp3pk.com
+Disc: 1/1
+mtime: 1290558516
+song_end
+song_begin: 7(mp3pk.com).mp3
+Time: 351
+Artist: www.Mp3pk.com
+AlbumArtist: www.Mp3pk.com
+Title: zara sa jhoom loon mein
+Album: DIL WALEY DULHANIAN LE JAYEINGE
+Genre: www.Mp3pk.com
+Disc: 1/1
+mtime: 1290558517
+song_end
+end: Hindi/More/DDLJ
+directory: DON
+mtime: 1341745083
+begin: Hindi/More/DON
+song_begin: 1 MAIN HOON DON.mp3
+Time: 331
+mtime: 1209538444
+song_end
+song_begin: 2 YE MERA DIL.mp3
+Time: 280
+mtime: 1209538444
+song_end
+song_begin: 3 MORYA RE.mp3
+Time: 351
+mtime: 1209538444
+song_end
+song_begin: 4 KHAIKE PAAN BANARS WALA.mp3
+Time: 322
+mtime: 1209538446
+song_end
+song_begin: 5 AAJ KI RAAT.mp3
+Time: 369
+mtime: 1209538446
+song_end
+song_begin: 6 DON THE THEME.mp3
+Time: 249
+mtime: 1209538448
+song_end
+song_begin: 7 DON REVISITED.mp3
+Time: 286
+mtime: 1209538448
+song_end
+end: Hindi/More/DON
+directory: Fana
+mtime: 1341745161
+begin: Hindi/More/Fana
+song_begin: 06-Chand Sifarish{Shaan Kailash Khaer}.mp3
+Time: 278
+Artist: artist
+Title: Track 01
+Album: title
+Track: 1
+Genre: genre
+mtime: 1018553474
+song_end
+song_begin: 03-Des Rangila{Mahalaxmi Iyer}.mp3
+Time: 320
+Artist: artist
+Title: Track 03
+Album: title
+Track: 3
+Genre: genre
+mtime: 1018553516
+song_end
+end: Hindi/More/Fana
+directory: HDKG
+mtime: 1341745168
+begin: Hindi/More/HDKG
+song_begin: HDKDKG.mp3
+Time: 409
+Artist: HIMESH /  TULSI
+Title: TUM SAANSON   MEIN
+Album: <Unknown>
+Track: 1
+Genre: <Unknown>
+mtime: 1146945500
+song_end
+song_begin: fanaa.mp3
+Time: 321
+Artist: artist
+Title: Track 2
+Album: HUMKO DEEWANA KAR GAYE
+Track: 2
+Genre: genre
+mtime: 1139227646
+song_end
+song_begin: Bhula denge.mp3
+Time: 363
+Artist: artist
+Title: Track 3
+Album: HUMKO DEEWANA KAR GAYE
+Track: 3
+Genre: genre
+mtime: 1139227664
+song_end
+song_begin: For ur eyes only.mp3
+Time: 305
+Artist: artist
+Title: Track 4
+Album: HUMKO DEEWANA KAR GAYE
+Track: 4
+Genre: genre
+mtime: 1139227678
+song_end
+song_begin: Rockstar.mp3
+Time: 336
+Artist: artist
+Title: Track 5
+Album: HUMKO DEEWANA KAR GAYE
+Track: 5
+Genre: genre
+mtime: 1139227694
+song_end
+end: Hindi/More/HDKG
+directory: Jal
+mtime: 1341745179
+begin: Hindi/More/Jal
+song_begin: Lamhay-Atif Aslam-aadat.mp3
+Time: 254
+mtime: 1126220242
+song_end
+song_begin: rangoun mein -aadat.mp3
+Time: 270
+mtime: 1126220246
+song_end
+song_begin: Lamhay-aadat.mp3
+Time: 325
+Artist: Jal
+Title: Lamhay
+Album: Aadat
+Track: 02
+Date: 2004
+Genre: Other
+Genre: Other
+mtime: 1126220244
+song_end
+song_begin: BikhraHoonMain.mp3
+Time: 246
+Artist: Jal
+Title: Bikhra Hoon Main
+Album: Aadat
+Track: 05
+Date: 2004
+Genre: Other
+Genre: Other
+mtime: 1126228860
+song_end
+song_begin: Teri Yaad -aadat.mp3
+Time: 379
+Artist: Jal
+Title: Teri Yaad
+Album: Aadat
+Track: 07
+Date: 2004
+Genre: Other
+Genre: Other
+mtime: 1116652040
+song_end
+song_begin: Har Jaga Hai Jal  -aadat.mp3
+Time: 173
+Artist: Jal
+Title: Har Jaga Hai Jal
+Album: Aadat
+Track: 10
+Date: 2004
+Genre: Other
+Genre: Other
+mtime: 1134438684
+song_end
+song_begin: Ehsaas - jalpari.mp3
+Time: 224
+Artist: Atif Aslam
+Title: Ehsaas
+Album: Jal Pari
+Track: 02
+Date: 2004
+Genre: Other
+Genre: Other
+mtime: 1139268978
+song_end
+song_begin: Zindagi -jalpari.mp3
+Time: 248
+Artist: Atif Aslam
+Title: Zindagi
+Album: Jal Pari
+Track: 03
+Date: 2004
+Genre: Other
+Genre: Other
+mtime: 1116648910
+song_end
+song_begin: Yakeen-jalpari.mp3
+Time: 242
+Artist: Atif Aslam
+Title: Yakeen
+Album: Jal Pari
+Track: 04
+Date: 2004
+Genre: Other
+Genre: Other
+mtime: 1116649148
+song_end
+song_begin: Addat (Deep Blue Version) -jalpari.mp3
+Time: 302
+Artist: Atif Aslam
+Title: Addat (Deep Blue Version)
+Album: Jal Pari
+Track: 06
+Date: 2004
+Genre: Other
+Genre: Other
+mtime: 1139268802
+song_end
+song_begin: Tehzeeb -jalpari.mp3
+Time: 174
+Artist: Atif Aslam
+Title: Tehzeeb
+Album: Jal Pari
+Track: 10
+Date: 2004
+Genre: Other
+Genre: Other
+mtime: 1139268790
+song_end
+song_begin: Aadat -aadat.mp3
+Time: 265
+Artist: atif aslam
+Title: Aadat
+Album: jal
+mtime: 1126220244
+song_end
+song_begin: Jal-Aadat.mp3
+Time: 265
+Artist: atif aslam
+Title: Aadat
+Album: jal
+mtime: 1126228860
+song_end
+end: Hindi/More/Jal
+directory: K3G
+mtime: 1341745185
+begin: Hindi/More/K3G
+song_begin: BOLE CHUDIYAN.mp3
+Time: 412
+Artist: BOLE
+Title: CHUDIYAN
+Genre: Blues
+mtime: 1003300288
+song_end
+song_begin: DEEWANA HAI DEKHO.mp3
+Time: 349
+Artist: DEEWANA HAI DEKHO
+Title: DEEWANA HAI DEKHO
+Genre: Blues
+mtime: 1003300782
+song_end
+song_begin: KABHI KHUSHI KABHI GHUM LATA.mp3
+Time: 115
+Artist: KABHI KHUSHI KABHI GHUM LATA
+Title: KABHI KHUSHI KABHI GHUM LATA
+Genre: Blues
+mtime: 1003303206
+song_end
+song_begin: KABHI KHUSHI KABHI GHUM SONU.mp3
+Time: 114
+Artist: KABHI KHUSHI KABHI GHUM SONU
+Title: KABHI KHUSHI KABHI GHUM SONU
+Genre: Blues
+mtime: 1003303360
+song_end
+song_begin: KABHI KHUSHI KABHI GHUM.mp3
+Time: 472
+Artist: KABHI KHUSHI KABHI GHUM
+Title: KABHI KHUSHI KABHI GHUM
+Genre: Blues
+mtime: 1003299708
+song_end
+song_begin: SAYISHIVA SHIVAI.mp3
+Time: 412
+Artist: SAYISHIVA
+Title: SHIVAI
+Genre: Blues
+mtime: 1003302406
+song_end
+song_begin: SOUL OF K3G.mp3
+Time: 120
+Artist: SOUL OF K3G
+Title: SOUL OF K3G
+Genre: Blues
+mtime: 1003303054
+song_end
+song_begin: SURAJ BHUA MADHAM.mp3
+Time: 430
+Artist: SURAJ BHUA MADHAM
+Title: SURAJ BHUA MADHAM
+Genre: Blues
+mtime: 1003301828
+song_end
+song_begin: Suraj Hua Maddhyam.mp3
+Time: 428
+Artist: suraj hua maddham
+Title: suraj hua maddham
+Genre: Blues
+mtime: 1003174806
+song_end
+song_begin: YEH LADKA HAI ALLAH.mp3
+Time: 328
+Artist: YEH LADKA HAI ALLAH
+Title: YEH LADKA HAI ALLAH
+Genre: Blues
+mtime: 1003301238
+song_end
+song_begin: YOU ARE MY SONIA.mp3
+Time: 346
+Artist: YOU ARE MY SONIA
+Title: YOU ARE MY SONIA
+Genre: Blues
+mtime: 1003302888
+song_end
+end: Hindi/More/K3G
+directory: RDB
+mtime: 1341745226
+begin: Hindi/More/RDB
+song_begin: Khalbali.mp3
+Time: 379
+Artist: 05 khalbali
+Title: 05 khalbali
+Genre: Blues
+mtime: 1134269624
+song_end
+song_begin: Khoon Chala.mp3
+Time: 189
+Artist: 06 khoon chala
+Title: 06 khoon chala
+Genre: Blues
+mtime: 1134269630
+song_end
+song_begin: Loose Control.mp3
+Time: 220
+Artist: 03 paath shaala
+Title: 03 paath shaala
+Genre: Blues
+mtime: 1134269602
+song_end
+song_begin: Paathshaala.mp3
+Time: 189
+Artist: 07 paath shaala (be a rebel
+Title: 07 paath shaala (be a rebel)
+Genre: Blues
+mtime: 1175172640
+song_end
+song_begin: Roobaroo.mp3
+Time: 283
+Artist: 10 roobaroo
+Title: 10 roobaroo
+Genre: Blues
+mtime: 1134269660
+song_end
+end: Hindi/More/RDB
+directory: Red
+mtime: 1341745229
+begin: Hindi/More/Red
+song_begin: 01.AAFREEN TERA CHEHRA.mp3
+Time: 310
+Artist: 01
+Title: AAFREEN TERA CHEHRA
+Genre: Blues
+mtime: 1169130098
+song_end
+song_begin: 02.AAMIN.mp3
+Time: 298
+Artist: 02
+Title: AAMIN
+Genre: Blues
+mtime: 1169130058
+song_end
+song_begin: 03.EK TUM HI.mp3
+Time: 368
+Artist: 03
+Title: EK TUM HI
+Genre: Blues
+mtime: 1169130030
+song_end
+song_begin: 04.DIL NE YE NA JANA.mp3
+Time: 263
+Artist: 04
+Title: DIL NE YE NA JANA
+Genre: Blues
+mtime: 1169130002
+song_end
+song_begin: 05.loneliness is killing.mp3
+Time: 291
+Artist: 05
+Title: loneliness is killing
+Genre: Blues
+mtime: 1169129968
+song_end
+song_begin: 06.EK TUM HI REM.mp3
+Time: 345
+Artist: 06
+Title: EK TUM HI REM
+Genre: Blues
+mtime: 1169132160
+song_end
+song_begin: 07.DIL NE YE NA JANA.mp3
+Time: 262
+Artist: 07
+Title: DIL NE YE NA JANA
+Genre: Blues
+mtime: 1169132130
+song_end
+song_begin: 08.loneliness is killing.mp3
+Time: 234
+Artist: 08
+Title: loneliness is killing
+Genre: Blues
+mtime: 1169132108
+song_end
+song_begin: 09.AAMIN REM.mp3
+Time: 340
+Artist: 09.AAMIN
+Title: REM
+Genre: Blues
+mtime: 1169132088
+song_end
+song_begin: 10..AAFREEN TERA CHEHRA(REM).mp3
+Time: 311
+Artist: 10..AAFREEN TERA CHEHRA(REM
+Title: 10..AAFREEN TERA CHEHRA(REM)
+Genre: Blues
+mtime: 1169132062
+song_end
+end: Hindi/More/Red
+directory: Sur
+mtime: 1343367928
+begin: Hindi/More/Sur
+song_begin: sur1(songs.pk).mp3
+Time: 364
+Artist: www.songs.pk
+Title: AA BHI JA AA
+Album: SUR
+Track: 01
+Genre: www.songs.pk
+mtime: 1343309003
+song_end
+song_begin: sur2(songs.pk).mp3
+Time: 289
+Artist: www.songs.pk
+Title: AAO TUMHE EK
+Album: SUR
+Track: 02
+Genre: www.songs.pk
+mtime: 1343309012
+song_end
+song_begin: sur3(songs.pk).mp3
+Time: 165
+Artist: www.songs.pk
+Title: AVE MARIYA
+Album: SUR
+Track: 03
+Genre: www.songs.pk
+mtime: 1343309016
+song_end
+song_begin: sur4(songs.pk).mp3
+Time: 314
+Artist: www.songs.pk
+Title: DIL MEIN JAGI
+Album: SUR
+Track: 04
+Genre: www.songs.pk
+mtime: 1343309025
+song_end
+song_begin: sur5(songs.pk).mp3
+Time: 433
+Artist: www.songs.pk
+Title: JAANE KYA DHOONDTA
+Album: SUR
+Track: 05
+Genre: www.songs.pk
+mtime: 1343309053
+song_end
+song_begin: sur6(songs.pk).mp3
+Time: 494
+Artist: www.songs.pk
+Title: KABHI SHAAM DHALE
+Album: SUR
+Track: 06
+Genre: www.songs.pk
+mtime: 1343308968
+song_end
+song_begin: sur7(songs.pk).mp3
+Time: 280
+Artist: www.songs.pk
+Title: KHOYA HAY TUNE
+Album: SUR
+Track: 07
+Genre: www.songs.pk
+mtime: 1343309030
+song_end
+song_begin: sur8(songs.pk).mp3
+Time: 162
+Artist: www.songs.pk
+Title: SUR THEME
+Album: SUR
+Track: 08
+Genre: www.songs.pk
+mtime: 1343309025
+song_end
+song_begin: sur9(songs.pk).mp3
+Time: 402
+Artist: www.songs.pk
+Title: TU DIL KI KUSHI
+Album: SUR
+Track: 09
+Genre: www.songs.pk
+mtime: 1343309052
+song_end
+end: Hindi/More/Sur
+song_begin: Dilber Jaania.mp3
+Time: 269
+Title: Dilber Jaania
+mtime: 1187017012
+song_end
+song_begin: Haan Re.mp3
+Time: 310
+mtime: 1174035432
+song_end
+song_begin: Mujhe Tumse.mp3
+Time: 317
+mtime: 1191767364
+song_end
+song_begin: Soniye.mp3
+Time: 368
+Artist: 02 soniye sun zara (sonunigam
+Title: 02 soniye sun zara (sonunigam
+Genre: Blues
+mtime: 1186556516
+song_end
+song_begin: Mindblowing Mahiya.mp3
+Time: 250
+Artist: DesiWEB.net_(Mind_Blowing_Mahiya)
+Title: www.desiweb.net
+Album: Cash
+mtime: 1185577802
+song_end
+end: Hindi/More
+directory: Newest-0
+mtime: 1360503995
+begin: Hindi/Newest-0
+song_begin: 01 - Cocktail - Tumhi Ho Bandhu [DM].mp3
+Time: 282
+Artist: Neeraj Shridhar & Kavita Seth
+AlbumArtist: Pritam
+Title: Tum Hi Ho Bandhu - www.DJMaza.Com
+Album: Cocktail (2012)
+Track: 1/10
+Date: 2012
+Genre: Bollywood
+Composer: Music: Pritam | Lyricist:    Irshad Kamil
+Performer: www.DJMaza.Com
+Performer: www.DJMaza.Com
+Disc: 1/1
+mtime: 1360503952
+song_end
+song_begin: [Songs.PK] 03 - Fevicol Se - Dabangg 2.mp3
+Time: 290
+Artist: Mamta Sharma, Wajid, Keerthi Sagathia, Uvie & Shadab Faridi
+AlbumArtist: www.Songs.PK
+Title: Fevicol Se - www.Songs.PK
+Album: Dabangg 2
+Track: 3/8
+Date: 2012
+Genre: Bollywood Music
+Composer: Music: Sajid & Wajid  |  Lyrics: Sameer, Jalees Sherwani & Sajid
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+Disc: 1/1
+mtime: 1360503977
+song_end
+song_begin: [Songs.PK] 05 - Dabangg Reloaded - Dabangg 2.mp3
+Time: 248
+Artist: Sukhwinder Singh
+AlbumArtist: www.Songs.PK
+Title: Dabangg Reloaded - www.Songs.PK
+Album: Dabangg 2
+Track: 5/8
+Date: 2012
+Genre: Bollywood Music
+Composer: Music: Sajid & Wajid  |  Lyrics: Sameer, Jalees Sherwani & Sajid
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+Disc: 1/1
+mtime: 1360503975
+song_end
+song_begin: [Songs.PK] Jab Tak Hai Jaan - 01 - Challa.mp3
+Time: 323
+Artist: Rabbi
+AlbumArtist: Jab Tak Hai Jaan
+Title: Challa - www.Songs.PK
+Album: Jab Tak Hai Jaan
+Track: 1/9
+Date: 2012
+Genre: Bollywood Music
+Composer: Music: A.R. Rahman | Lyrics: Gulzar
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+Disc: 1/1
+mtime: 1360503963
+song_end
+song_begin: [Songs.PK] Jab Tak Hai Jaan - 02 - Saans.mp3
+Time: 328
+Artist: Shreya Ghoshal & Mohit Chauhan
+AlbumArtist: Jab Tak Hai Jaan
+Title: Saans - www.Songs.PK
+Album: Jab Tak Hai Jaan
+Track: 2/9
+Date: 2012
+Genre: Bollywood Music
+Composer: Music: A.R. Rahman | Lyrics: Gulzar
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+Disc: 1/1
+mtime: 1360503961
+song_end
+song_begin: [Songs.PK] Khiladi 786 - 05 - Hookah Bar.mp3
+Time: 255
+Artist: Himesh Reshammiya, Vineet & Aman
+AlbumArtist: Himesh Reshammiya
+Title: Hookah Bar - www.Songs.PK
+Album: Khiladi 786
+Track: 5
+Date: 2012
+Genre: Bollywood Music
+Composer: Music: Himesh Reshammiya
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+mtime: 1360503958
+song_end
+song_begin: [Songs.PK] 01 - KikliKalerdi.mp3
+Time: 245
+Artist: Amit Trivedi, Pinky Maidasani & Yo Yo Honey Singh
+AlbumArtist: Amit Trivedi
+Title: KikliKalerdi - www.Songs.PK
+Album: Luv Shuv Tey Chicken Khurana
+Track: 1
+Date: 2012
+Genre: Bollywood Music
+Composer: Music: Amit Trivedi
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+mtime: 1360503973
+song_end
+song_begin: Po-Po.mp3
+Time: 243
+Artist: Vikas Bhalla, Aman Trikha & Hi
+Title: Po Po
+Album: Son Of Sardaar
+Date: 2012
+mtime: 1360503972
+song_end
+song_begin: Rani-Tu-Mein-Raja.mp3
+Time: 226
+Artist: Mika Singh, Bhavya Pandit & Yo
+Title: Rani Tu Mein Raja
+Album: Son Of Sardaar
+Date: 2012
+mtime: 1360503955
+song_end
+song_begin: Student Of The Year - 02 - Radha [Funmaza.com].mp3
+Time: 342
+Artist: Shreya Ghoshal, Udit Narayan, Vishal Shekhar
+AlbumArtist: Vishal-Shekhar
+Title: Radha - Funmaza.com
+Album: Student of the Year
+Track: 2
+Date: 2012
+Genre: Bollywood Music
+Composer: Music: Vishal-Shekhar | Lyrics: Anvita Dutt Guptan & Vishal Dadlani
+Performer: Funmaza.com
+Performer: Funmaza.com
+mtime: 1360503971
+song_end
+song_begin: Student Of The Year - 04 - The Disco Song [Funmaza.com].mp3
+Time: 342
+Artist: Benny Dayal, Sunidhi Chauhan, Nazia Hassan
+AlbumArtist: Vishal-Shekhar
+Title: The Disco Song - Funmaza.com
+Album: Student of the Year
+Track: 4
+Date: 2012
+Genre: Bollywood Music
+Composer: Music: Vishal-Shekhar | Lyrics: Anvita Dutt Guptan & Vishal Dadlani
+Performer: Funmaza.com
+Performer: Funmaza.com
+mtime: 1360503965
+song_end
+song_begin: [Songs.PK] Talaash - 02 - Jee Le Zaraa.mp3
+Time: 217
+Artist: Vishal Dadlani
+AlbumArtist: Ram Sampath
+Title: Jee Le Zaraa - www.Songs.PK
+Album: Talaash
+Track: 2
+Date: 2012
+Genre: Bollywood Music
+Composer: Music: Ram Sampath
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+mtime: 1360503957
+song_end
+song_begin: [Songs.PK] Vicky Donor - 04 - Pani Da Rang (Male).mp3
+Time: 241
+Artist: Ayushmann Khurrana
+AlbumArtist: www.Songs.PK
+Title: Pani Da Rang (Male) - www.Songs.PK
+Album: Vicky Donor
+Track: 04/8
+Date: 2012
+Genre: Bollywood Music
+Composer: Music: Abhishek - Akshay
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+Disc: 1/1
+mtime: 1360503969
+song_end
+song_begin: [Songs.PK] Vicky Donor - 05 - Mar Jayian (Romantic).mp3
+Time: 289
+Artist: Vishal Dadlani & Sunidhi Chauhan
+AlbumArtist: www.Songs.PK
+Title: Mar Jayian (Romantic) - www.Songs.PK
+Album: Vicky Donor
+Track: 05/8
+Date: 2012
+Genre: Bollywood Music
+Composer: Music: Abhishek - Akshay
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+Disc: 1/1
+mtime: 1360503954
+song_end
+song_begin: [Songs.PK] Vicky Donor - 07 - Pani Da Rang (Female).mp3
+Time: 290
+Artist: Sukanya Purkayastha
+AlbumArtist: www.Songs.PK
+Title: Pani Da Rang (Female) - www.Songs.PK
+Album: Vicky Donor
+Track: 07/8
+Date: 2012
+Genre: Bollywood Music
+Composer: Music: Abhishek - Akshay
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+Disc: 1/1
+mtime: 1360503967
+song_end
+end: Hindi/Newest-0
+directory: Old
+mtime: 1358447668
+begin: Hindi/Old
+song_begin: 01 bindaas .mp3
+Time: 364
+mtime: 1357216077
+song_end
+song_begin: 06 laila laila .mp3
+Time: 268
+mtime: 1357216072
+song_end
+song_begin: 08 waada raha (udit narayan  shriya gausaal ) .mp3
+Time: 282
+mtime: 1357216071
+song_end
+song_begin: 10 aisa jaadoo .mp3
+Time: 320
+mtime: 1357216069
+song_end
+song_begin: Aaaja Maahiya.MP3
+Time: 402
+Artist: AAJA
+Title: MAHIYA
+Genre: Blues
+mtime: 1357216068
+song_end
+song_begin: Aap Ki Kashish.mp3
+Time: 330
+Artist: 039 Aap KI Kashish(aashiq ban
+Title: 039 Aap KI Kashish(aashiq ban
+Genre: Blues
+mtime: 1357216063
+song_end
+song_begin: Aapko Samjha Hai.MP3
+Time: 332
+mtime: 1357216061
+song_end
+song_begin: Aashiq Banaaya Aapne.mp3
+Time: 364
+Artist: 01 aashiq banaya aapne
+Title: 01 aashiq banaya aapne
+Genre: Blues
+mtime: 1357216060
+song_end
+song_begin: Agar Tum Mil Jaao.mp3
+Time: 361
+Artist: 01 agar tum mil jao
+Title: 01 agar tum mil jao
+Genre: Blues
+mtime: 1357216055
+song_end
+song_begin: Akele Tanha.mp3
+Time: 268
+mtime: 1357216054
+song_end
+song_begin: Allah Bachaaye.mp3
+Time: 227
+Artist: 04 allah bachaye
+Title: 04 allah bachaye
+Genre: Blues
+mtime: 1357216053
+song_end
+song_begin: Allah Hafiz.mp3
+Time: 267
+Artist: 08 allah hafiz
+Title: 08 allah hafiz
+Genre: Blues
+mtime: 1357215914
+song_end
+song_begin: Aye Ajnabi.mp3
+Time: 339
+mtime: 1357216048
+song_end
+song_begin: Ban Jaaiye.mp3
+Time: 311
+Artist: 01
+Title: Ban Jaayiye
+Genre: Blues
+mtime: 1357216043
+song_end
+song_begin: Bank k saare paise.mp3
+Time: 479
+Artist: TRACK
+Title: 04
+Genre: Blues
+mtime: 1357216042
+song_end
+song_begin: Bore Bore.mp3
+Time: 187
+Artist: 034 BURE BORE(bluff master
+Title: 034 BURE BORE(bluff master)
+mtime: 1357216034
+song_end
+song_begin: Chaaha Hai.MP3
+Time: 280
+Artist: CAHA
+Title: HAI_TUJKO__S
+Genre: Blues
+mtime: 1357216033
+song_end
+song_begin: Chand Si.mp3
+Time: 261
+Artist: 19 CHAND SI MEHBOOBA {HIMALAY
+Title: 19 CHAND SI MEHBOOBA {HIMALAY
+Genre: Blues
+mtime: 1357216028
+song_end
+song_begin: Chithi aai hai.mp3
+Time: 432
+Title: Chithi aai hai
+mtime: 1357216027
+song_end
+song_begin: Dhoom English.mp3
+Time: 261
+Artist: Track  7
+Title: Track  7
+Genre: Blues
+mtime: 1357216021
+song_end
+song_begin: Dhoom Hindi.mp3
+Time: 375
+Artist: Track  1
+Title: Track  1
+Genre: Blues
+mtime: 1357216019
+song_end
+song_begin: Dhoop Nikalti.mp3
+Time: 374
+Artist: 02
+Title: Track
+mtime: 1357216018
+song_end
+song_begin: Dilber Jaania.mp3
+Time: 269
+Title: Dilber Jaania
+mtime: 1357216013
+song_end
+song_begin: Dilruba.mp3
+Time: 238
+Artist: 03 dilruba
+Title: 03 dilruba
+mtime: 1357216011
+song_end
+song_begin: Do Pal Ruka.mp3
+Time: 268
+Artist: 05 do pal
+Title: 05 do pal
+Genre: Blues
+mtime: 1357216010
+song_end
+song_begin: Dus Bahaane.mp3
+Time: 209
+Artist: 01 dus bahane karke
+Title: 01 dus bahane karke
+Genre: Blues
+mtime: 1357216009
+song_end
+song_begin: Ek Look Ek Look.mp3
+Time: 276
+Artist: Ek Look Ek Look
+Title: Ek Look Ek Look
+mtime: 1357216007
+song_end
+song_begin: Ek Pardesi Mera Dil.mp3
+Time: 225
+mtime: 1357216005
+song_end
+song_begin: Gupt Title.MP3
+Time: 175
+mtime: 1357216003
+song_end
+song_begin: Haan Re.mp3
+Time: 310
+mtime: 1357216002
+song_end
+song_begin: Har Ek Muskurahat.mp3
+Time: 339
+Artist: Alka Yagnik
+Title: Har Ek Muskurahat
+Genre: Filmi
+mtime: 1357215997
+song_end
+song_begin: ISQH_BINA.MP3
+Time: 456
+Artist: ISQH
+Title: BINA
+Genre: Blues
+mtime: 1357215989
+song_end
+song_begin: Jaanam Dekh Lo.mp3
+Time: 298
+Artist: 085 main yahan hoon(veer zaar
+Title: 085 main yahan hoon(veer zaar
+Genre: Blues
+mtime: 1357215983
+song_end
+song_begin: Jaane Kya.mp3
+Time: 374
+mtime: 1357215981
+song_end
+song_begin: Jaane Kyun.mp3
+Time: 317
+Artist: 11 jane kyon
+Title: 11 jane kyon
+Genre: Blues
+mtime: 1357215980
+song_end
+song_begin: Jara Jhoom Jhoom.MP3
+Time: 243
+Artist: 7
+Title: ZARA ZHOOM ZHOOM
+Genre: Blues
+mtime: 1357215978
+song_end
+song_begin: Kahta Hai Joker.mp3
+Time: 325
+Artist: 06 KAHETA HAI JOKER SARA JAMA
+Title: 06 KAHETA HAI JOKER SARA JAMA
+Genre: Blues
+mtime: 1357215969
+song_end
+song_begin: Khallaas.mp3
+Time: 304
+Artist: Shymoon
+Title: Track  8
+Genre: Blues
+mtime: 1357215966
+song_end
+song_begin: Kitni Bechain Ho K.MP3
+Time: 442
+Artist: KITNI BECHAIN HOKE
+Title: KITNI BECHAIN HOKE
+Genre: Blues
+mtime: 1357215964
+song_end
+song_begin: Kya Yahee Pyaar Hai.mp3
+Time: 447
+Artist: 02
+Title: Track
+mtime: 1357215962
+song_end
+song_begin: Kyun Aage Peechhe.mp3
+Time: 222
+Artist: JAD
+Title: 20060706-184852
+Genre: Blues
+mtime: 1357215960
+song_end
+song_begin: Labon Ko.mp3
+Time: 310
+mtime: 1357215911
+song_end
+song_begin: Lets Rock Soniye.mp3
+Time: 265
+Artist: 05 lets rock soniye
+Title: 05 lets rock soniye
+Genre: Blues
+mtime: 1357215910
+song_end
+song_begin: Mai Hoon Na.mp3
+Time: 362
+mtime: 1357215953
+song_end
+song_begin: Maine Kya Jaadoo Kiya.MP3
+Time: 367
+Artist: MAINE KAJI JAADOO
+Title: MAINE KAJI JAADOO
+Genre: Blues
+mtime: 1357215951
+song_end
+song_begin: Man Kyu Bahka Re.mp3
+Time: 280
+mtime: 1357215949
+song_end
+song_begin: Mar Jaawaan.mp3
+Time: 268
+Artist: 02 mar jawan mit jawan
+Title: 02 mar jawan mit jawan
+Genre: Blues
+mtime: 1357215948
+song_end
+song_begin: Mehfil.MP3
+Time: 345
+mtime: 1357215945
+song_end
+song_begin: Mera Dil.mp3
+Time: 414
+Artist: 02 MERA DIL
+Title: 02 MERA DIL
+Genre: Blues
+mtime: 1357215943
+song_end
+song_begin: Mera Jeewan.mp3
+Time: 305
+mtime: 1357215941
+song_end
+song_begin: Mera Mann .mp3
+Time: 269
+mtime: 1357215940
+song_end
+song_begin: Mere Khaabon.MP3
+Time: 334
+mtime: 1357215938
+song_end
+song_begin: Milo Na Tum To.mp3
+Time: 270
+Title: Milo Na Tum To
+mtime: 1357215934
+song_end
+song_begin: Mujhe Tumse.mp3
+Time: 317
+mtime: 1357215931
+song_end
+song_begin: Mushkil Bada.MP3
+Time: 352
+mtime: 1357215928
+song_end
+song_begin: Na Kajre Ki Dhaar.mp3
+Time: 326
+Artist: 026  NA KAJRE KI DHAAR
+Title: 026  NA KAJRE KI DHAAR
+Genre: Blues
+mtime: 1357215927
+song_end
+song_begin: Naam Hai Tera.mp3
+Time: 292
+Artist: 02Naam Hai Tera
+Title: 02Naam Hai Tera
+Genre: Blues
+mtime: 1357215925
+song_end
+song_begin: No Entry.mp3
+Time: 369
+Artist: 01 no entry (ishq ki gali mai
+Title: 01 no entry (ishq ki gali mai
+Genre: Blues
+mtime: 1357215923
+song_end
+song_begin: Pahli Baar Dil Ye.mp3
+Time: 336
+mtime: 1357215919
+song_end
+song_begin: Pairon Mey Bandhan.mp3
+Time: 412
+Artist: 03
+Title: Track
+mtime: 1357215918
+song_end
+song_begin: Phir Bhi Dil Hai Hindustani.mp3
+Time: 241
+Artist: 01 phir bhi dil hai hindustan
+Title: 01 phir bhi dil hai hindustan
+Genre: Blues
+mtime: 1357215915
+song_end
+song_begin: Tera Surroor.mp3
+Time: 359
+Artist: 01Tera
+Title: Surroor
+Genre: Blues
+mtime: 1357215907
+song_end
+song_begin: Ya Ali.mp3
+Time: 273
+mtime: 1357215906
+song_end
+song_begin: ham hain naye.mp3
+Time: 339
+Artist: Track  5
+Title: Track  5
+Genre: Blues
+mtime: 1357215998
+song_end
+song_begin: hothon pe geetwa.mp3
+Time: 367
+Title: Track 1
+mtime: 1357215993
+song_end
+song_begin: maahi ve.mp3
+Time: 368
+Artist: TRACK
+Title: 11
+Genre: Blues
+mtime: 1357215956
+song_end
+song_begin: Hai Ishq Ye Kya.wma
+Time: 262
+Track: 1
+AlbumArtist: Unknown Artist
+mtime: 1357216001
+song_end
+song_begin: Lekar Yaad Teri.wma
+Time: 275
+Track: 2
+AlbumArtist: Unknown Artist
+mtime: 1357215959
+song_end
+song_begin: Aankhein Teri.mp3
+Time: 364
+Artist: <Unknown>
+Title: Track 01
+Album: <Unknown>
+Track: 1
+Genre: <Unknown>
+mtime: 1357216064
+song_end
+song_begin: Dil Na Diya.mp3
+Time: 356
+Artist: KUNAL GANJAWALA
+Title: DIL NA DIYA
+Album: <Unknown>
+Track: 4
+Genre: <Unknown>
+mtime: 1357216016
+song_end
+song_begin: Maula Mere.mp3
+Time: 364
+Artist: Artist
+Title: maula mere
+Album: Album
+Track: 1
+Genre: Genre
+mtime: 1357215946
+song_end
+song_begin: Mahiya-Punjabi-Mobile.Com.mp3
+Time: 264
+Artist: wap.punjabi-mobile.com
+Title: Mahiya-Punjabi-Mobile.Com
+Album: Awarapun
+mtime: 1357215954
+song_end
+song_begin: Oye Makhna.mp3
+Time: 297
+Artist: www.songs.pk
+Title: Mere Pyar Ka Ras Zara Chakhna Makhna - www.s
+Album: Bade Miyan Chote Miyan
+Track: 02
+Date: 1998
+Genre: www.songs.pk
+mtime: 1357215896
+song_end
+song_begin: Kisi Disco Mey Jaayen.mp3
+Time: 325
+Artist: Udit Narayan & Alka Yagnik www.songs.pk
+Title: Kisi Disco Mein Jaayen - www.songs.pk
+Album: Bade Miyan Chote Miyan
+Track: 05
+Date: 1998
+Genre: www.songs.pk
+mtime: 1357215897
+song_end
+song_begin: Assi Chutki Nabbe Taal.mp3
+Time: 326
+Artist: www.songs.pk
+Title: Assi Chutki Nabbe Taal - I
+Album: Bade Miyan Chote Miyan -www.songs.pk
+Track: 04
+Date: 1998
+Genre: www.songs.pk
+mtime: 1357215898
+song_end
+song_begin: Bhool Bhoolaiya.mp3
+Time: 328
+Artist: Neeraj Sridhar
+Title: Bhool Bhoolaiyaa
+Album: Bhool Bhulaiya @ Fmw11.com
+Track: 01
+Date: 2007
+mtime: 1357215912
+song_end
+song_begin: Border - To Chalun.mp3
+Time: 462
+Artist: Soundtrack
+AlbumArtist: Soundtrack
+Title: To Chalun
+Album: Border
+Track: 4
+Date: 2006
+Genre: 148
+mtime: 1357216036
+song_end
+song_begin: Aaja Sanam.mp3
+Time: 264
+Artist: Lata & Manna Dey
+Title: Aaja Sanam Madhur Chandni Mein
+Album: Chori Chori (1956)
+Track: 01/08
+Date: 1956
+Genre: Hindi
+Composer: Music: Shankar Jaikishan/Lyrics: Hasrat Jaipuri
+mtime: 1357216066
+song_end
+song_begin: Dhoom Again.mp3
+Time: 302
+Artist: VISHAL DADLANI, DOMINIQUE CEREJO & RAP: EARL
+Title: DHOOM AGAIN
+Album: DHOOM 2
+Genre: Blues/R&B
+Composer: PRITAM
+mtime: 1357216025
+song_end
+song_begin: Arey Re.mp3
+Time: 337
+Artist: www.Mp3pk.com
+Title: are re are yeh kya hua
+Album: DIL TO PAGAL HAI
+Genre: www.Mp3pk.com
+mtime: 1357215894
+song_end
+song_begin: Bholi Si Soorat_full.mp3
+Time: 257
+Artist: www.Mp3pk.com
+Title: bholi si sorat
+Album: DIL TO PAGAL HAI
+Genre: www.Mp3pk.com
+mtime: 1357216040
+song_end
+song_begin: Chak Dhum Dhum.mp3
+Time: 332
+Artist: www.Mp3pk.com
+Title: chak dum dum
+Album: DIL TO PAGAL HAI
+Genre: www.Mp3pk.com
+mtime: 1357215892
+song_end
+song_begin: Chand Ne Kuchh Kaha.mp3
+Time: 407
+Artist: www.Mp3pk.com
+Title: chand ne kuch kaha
+Album: DIL TO PAGAL HAI
+Genre: www.Mp3pk.com
+mtime: 1357216030
+song_end
+song_begin: Dil To Paagal Hai.mp3
+Time: 337
+Artist: www.Mp3pk.com
+Title: dil to pagal hai
+Album: DIL TO PAGAL HAI
+Genre: www.Mp3pk.com
+mtime: 1357216014
+song_end
+song_begin: Arey Re 2.mp3
+Time: 125
+Artist: www.songs.pk
+Title: Are Re Are - Part - II
+Album: Dil To Pagal Hai
+Date: 1997
+Genre: www.songs.pk
+mtime: 1357215893
+song_end
+song_begin: Le Gayi.mp3
+Time: 346
+Artist: www.songs.pk
+Title: Le Gayi
+Album: Dil To Pagal Hai
+Date: 1997
+Genre: www.songs.pk
+mtime: 1357215891
+song_end
+song_begin: Bhula denge.mp3
+Time: 363
+Artist: artist
+Title: Track 3
+Album: HUMKO DEEWANA KAR GAYE
+Track: 3
+Genre: genre
+mtime: 1357216039
+song_end
+song_begin: For ur eyes only.mp3
+Time: 305
+Artist: artist
+Title: Track 4
+Album: HUMKO DEEWANA KAR GAYE
+Track: 4
+Genre: genre
+mtime: 1357216004
+song_end
+song_begin: Bole Mera Kangna.mp3
+Time: 348
+Artist: www.songs.pk
+Album: Hello Brother
+Track: 6
+Genre: www.songs.pk
+mtime: 1357216037
+song_end
+song_begin: Pardes - Meri Mehbooba.mp3
+Time: 412
+Artist: JGS2000
+Title: Pardes - Meri Mehbooba.mp3
+Album: JGS2000  VOL 4
+mtime: 1357215916
+song_end
+song_begin: 02. Idhar Chala Mein.mp3
+Time: 373
+Artist: Koi Milgaya ( UM Music)
+Title: 02. Idhar Chala Mein.mp3
+Album: JHANKER ( M: 0171-528041 )
+mtime: 1357216075
+song_end
+song_begin: 03. Jadoo Jadoo (Adnan & Alka).mp3
+Time: 360
+Artist: Koi Milgaya ( UM Music)
+Title: 03. Jadoo Jadoo (Adnan & Alka
+Album: JHANKER ( M: 0171-528041 )
+mtime: 1357216073
+song_end
+song_begin: Aye meri Zindgi.mp3
+Time: 388
+Artist: Saaya ( UM Music )
+Title: 03. Aye Meri Zindigi (Udit).m
+Album: JHANKER ( M: 0171-528041 )
+mtime: 1357216045
+song_end
+song_begin: O Saathiya.mp3
+Time: 303
+Artist: Saaya ( UM Music )
+Title: 01. O Saathiya.mp3
+Album: JHANKER ( M: 0171-528041 )
+mtime: 1357215921
+song_end
+song_begin: Jhoom.mp3
+Time: 324
+Artist: SHANKAR MAHADEVAN
+Title: JHOOM
+Album: JHOOM BARABAR JHOOM
+Genre: World
+Composer: SHANKAR, EHSAAN & LOY
+mtime: 1357215972
+song_end
+song_begin: Duniya Mey Aaye Ho Toh.mp3
+Time: 362
+Artist: www.Mp3pk.com
+Title: duniya mein aayi ho to
+Album: JUDWAA
+Genre: www.Mp3pk.com
+mtime: 1357215905
+song_end
+song_begin: Oonchi Hai Building.mp3
+Time: 307
+Artist: www.Mp3pk.com
+Title: dulhe raja tu aaja
+Album: JUDWAA
+Genre: www.Mp3pk.com
+mtime: 1357215903
+song_end
+song_begin: Tan Tana Tan.mp3
+Time: 398
+Artist: www.Mp3pk.com
+Title: tan tanatan tan tan tara
+Album: JUDWAA
+Genre: www.Mp3pk.com
+mtime: 1357215901
+song_end
+song_begin: Tera Aana Tera Jana.mp3
+Time: 289
+Artist: www.Mp3pk.com
+Title: tera aana tera jana
+Album: JUDWAA
+Genre: www.Mp3pk.com
+mtime: 1357215900
+song_end
+song_begin: Chal Jhoothi.mp3
+Time: 350
+Artist: www.songs.pk
+Title: chal jhooti
+Album: Jis Desh Mein Ganga Rehta Hai
+Track: 01
+Genre: www.songs.pk
+mtime: 1357216032
+song_end
+song_begin: jdmgrh2(www.songs.pk).mp3.mp3
+Time: 333
+Artist: www.songs.pk
+Title: jis desh main ganga
+Album: Jis Desh Mein Ganga Rehta Hai
+Track: 02
+Genre: www.songs.pk
+mtime: 1357215975
+song_end
+song_begin: jdmgrh3(www.songs.pk).mp3.mp3
+Time: 295
+Artist: www.songs.pk
+Title: kem chhe
+Album: Jis Desh Mein Ganga Rehta Hai
+Track: 03
+Genre: www.songs.pk
+mtime: 1357215974
+song_end
+song_begin: Lift Kardey.mp3
+Time: 248
+Artist: Adnan Sami
+Title: Lift Kardey
+Album: Kabhi To Nazar Milao
+Track: 00
+mtime: 1357215958
+song_end
+song_begin: AA_ JANE _JAAN.mp3
+Time: 386
+Artist: Lata Mangeshkar
+Album: Lata's Golden Collection
+Genre: Other
+mtime: 1357216057
+song_end
+song_begin: Andekhi Anjaani Se.mp3
+Time: 381
+Artist: www.Mp3pk.com
+Title: andekhi anjani si
+Album: MUJH SE DOSTI KAROGE
+Genre: www.Mp3pk.com
+mtime: 1357216052
+song_end
+song_begin: Halla.mp3
+Time: 310
+Artist: SALIM SULAIMAN
+Title: 02 HALLA RE (SHWETA & PANDIT)
+Album: NEAL 'N' NIKKI
+Track: 2
+mtime: 1357216000
+song_end
+song_begin: Jaa Sanam.mp3
+Time: 419
+Title: Jaa Sanam
+Album: Na Tum Jaano Na Hum
+Genre: Other
+mtime: 1357215985
+song_end
+song_begin: Ek Din Teri.mp3
+Time: 292
+Artist: www.Songs.PK
+Title: Ek Din Teri Rahon - [Songs.pk]
+Album: Naqaab
+Date: 2007
+Genre: [Songs.pk]
+Composer: www.Songs.PK
+mtime: 1357216008
+song_end
+song_begin: Neal N Niki.mp3
+Time: 319
+Artist: Unknown
+Title: Neal N Niki
+Album: Neal N Niki
+Genre: Blues
+mtime: 1357215924
+song_end
+song_begin: Aayega Maza.MP3
+Time: 313
+Artist: Andaaz ( UM Music )
+Title: 06. Aayega Maza Ab Barsaat.mp
+Album: SOIKOT, 011 - 843616
+mtime: 1357216058
+song_end
+song_begin: Iss chand k aage.mp3
+Time: 337
+Artist: www.Mp3pk.com
+Album: TERE NAAM
+Genre: www.Mp3pk.com
+mtime: 1357215986
+song_end
+song_begin: Tera Mera Milna.mp3
+Time: 350
+Artist: Unknown Artist
+Title: 05-Tera Mera Milna (Himesh Res
+Album: Unknown Album
+Date: 2007
+Genre: Blues
+mtime: 1357215909
+song_end
+song_begin: hindi - sandese aate hain.mp3
+Time: 626
+Artist: Border
+Title: Sandese aate hain
+Album: border
+mtime: 1357215995
+song_end
+song_begin: Hum Yaar Hain Tumhare.mp3
+Time: 433
+Artist: artist
+Title: Track 01
+Album: title
+Track: 1
+Genre: genre
+mtime: 1357215991
+song_end
+song_begin: Mohabbat Se Jyaada.mp3
+Time: 309
+Artist: artist
+Title: 01
+Album: title
+Track: 1
+Genre: default
+mtime: 1357215933
+song_end
+song_begin: meri tarah tum bhee.mp3
+Time: 302
+Artist: artist
+Title: Track 01
+Album: title
+Track: 1
+Genre: genre
+mtime: 1357215936
+song_end
+song_begin: Awarapan 1.mp3
+Time: 427
+Artist: artist
+Title: Track 02
+Album: title
+Track: 2
+Genre: genre
+mtime: 1357216050
+song_end
+song_begin: Mai Ishq Uska.mp3
+Time: 262
+Artist: artist
+Title: Track 02
+Album: title
+Track: 2
+Genre: genre
+mtime: 1357215952
+song_end
+song_begin: Jub Dil Mile.mp3
+Time: 412
+Artist: artist
+Title: jub dil
+Album: title
+Track: 3
+Genre: genre
+mtime: 1357215970
+song_end
+song_begin: Meri Jindgi.mp3
+Time: 417
+Artist: artist
+Title: meri zindagi mein ajnabee
+Album: title
+Track: 3
+Genre: genre
+mtime: 1357215937
+song_end
+song_begin: Jadu Hai  F.mp3
+Time: 332
+Artist: artist
+Title: Track 06
+Album: title
+Track: 6
+Genre: genre
+mtime: 1357215979
+song_end
+song_begin: Kasam Se Teri Aankhen.mp3
+Time: 355
+Artist: artist
+Title: kasam se teri aankhen aaiya re aaiya
+Album: title
+Track: 7
+Genre: genre
+mtime: 1357215967
+song_end
+song_begin: aye dil dil ki.mp3
+Time: 395
+Artist: artist
+Title: aye dil dil ki
+Album: title
+Track: 7
+Genre: genre
+mtime: 1357216047
+song_end
+song_begin: Lut Gaye.mp3
+Time: 396
+Artist: www.Mp3pk.com
+Title: Lut Gaye
+Album: www.Mp3pk.com
+Genre: www.Mp3pk.com
+mtime: 1357215957
+song_end
+song_begin: Oye Raju.mp3
+Time: 355
+Artist: www.Songs.PK
+Title: Oye Raju
+Album: www.Songs.PK
+Track: 4
+Date: 2000
+Genre: www.Songs.PK
+mtime: 1357215920
+song_end
+end: Hindi/Old
+song_begin: Gangnam Style.mp3
+Time: 219
+Artist: PSY
+Title: Gangnam Style
+Track: 6
+Disc: 1/1
+mtime: 1357879052
+song_end
+song_begin: 10(mp3pk.com).mp3
+Time: 483
+Artist: www.Mp3pk.com
+Title: Teri Yaad Yaad Yaad
+Album: BEWAFAA
+Genre: www.Mp3pk.com
+mtime: 1345477535
+song_end
+song_begin: [Songs.PK] Matru Ki Bijlee Ka Mandola - 128Kbps - Single.mp3
+Time: 233
+Artist: Sukhwinder Singh & Ranjit Barot
+AlbumArtist: Vishal Bhardwaj feat. Sukhwinder Singh & Ranjit Barot
+Title: Matru Ki Bijlee Ka Mandola - www.Songs.PK
+Album: Matru Ki Bijlee Ka Mandola
+Track: 1
+Date: 2012
+Genre: Bollywood
+Composer: Music: Vishal Bhardwaj
+Performer: www.Songs.PK
+Performer: www.Songs.PK
+mtime: 1354867926
+song_end
+end: Hindi

@@ -1,0 +1,120 @@
+# Conky, a system monitor, based on torsmo
+#
+# Any original torsmo code is licensed under the BSD license
+#
+# All code written since the fork of torsmo is licensed under the GPL
+#
+# Please see COPYING for details
+#
+# Copyright (c) 2004, Hannu Saransaari and Lauri Hakkarainen
+# Copyright (c) 2005-2010 Brenden Matthews, Philip Kovacs, et. al. (see AUTHORS)
+# All rights reserved.
+#
+# This program is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation, either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+#
+
+double_buffer yes
+alignment top_right
+background no
+border_width 1
+cpu_avg_samples 2
+default_color white
+default_outline_color white
+default_shade_color white
+draw_borders no
+draw_graph_borders yes
+draw_outline no
+draw_shades no
+use_xft yes
+xftfont Clean:size=12
+gap_x 10
+gap_y 10 
+minimum_size 5 5
+net_avg_samples 2
+no_buffers yes
+out_to_console no
+out_to_stderr no
+extra_newline no
+own_window yes
+own_window_transparent yes
+own_window_argb_visual yes
+own_window_class Conky
+own_window_type normal
+own_window_hints undecorated,below,sticky,skip_taskbar,skip_pager
+stippled_borders 0
+update_interval 1
+uppercase no
+use_spacer none
+show_graph_scale no
+show_graph_range no
+
+TEXT
+${color grey}SYSTEM ${hr 2}$color
+Arch $sysname with Kernel $kernel $machine
+$hr
+${color grey}Uptime:$color $uptime_short
+${color grey}Processes:$color $processes ${color grey}Running:$color $running_processes
+${color grey}Load avg:$color $loadavg
+
+${color grey}PROCESSOR ${hr 2}$color
+Intel Core 2 Duo P8400 @ 2.26Hz
+#${color grey}Temp:$color $acpitemp deg C
+${cpu cpu0}% ${cpubar 6}
+${cpugraph}
+${color grey}Core 1:$color ${freq_g 1}GHz
+${cpu cpu1}% ${cpubar cpu1}
+${color grey}Core 2:$color ${freq_g 2}GHz
+${cpu cpu2}% ${cpubar cpu2}
+
+${color grey}MEMORY ${hr 2}$color
+${color grey}RAM Free:$color $memeasyfree 
+${color grey}Used/Total:$color $mem/$memmax
+$memperc% ${membar 6}
+#TOP CPU ${hr 2}
+#${color grey}Name              PID   CPU%   MEM%
+#${color lightgrey} ${top name 1} ${top pid 1} ${top cpu 1} ${top mem 1}
+#${color lightgrey} ${top name 2} ${top pid 2} ${top cpu 2} ${top mem 2}
+#${color lightgrey} ${top name 3} ${top pid 3} ${top cpu 3} ${top mem 3}$color
+#TOP MEM ${hr 2}
+#${color grey}Name              PID   CPU%   MEM%
+#${color lightgrey} ${top_mem name 1} ${top_mem pid 1} ${top_mem cpu 1} ${top_mem mem 1}
+#${color lightgrey} ${top_mem name 2} ${top_mem pid 2} ${top_mem cpu 2} ${top_mem mem 2}
+#${color lightgrey} ${top_mem name 3} ${top_mem pid 3} ${top_mem cpu 3} ${top_mem mem 3}$color
+
+${color grey}FILESYSTEM ${hr 2}$color
+Root ${fs_type /} ${fs_used /}/${fs_size /} 
+${fs_bar 6 /}
+home ${fs_type /home} ${fs_used /home}/${fs_size /home} 
+${fs_bar 6 /home}
+Disk-1 ${fs_type /media/Disk-1} ${fs_used /media/Disk-1}/${fs_size /media/Disk-1} 
+${fs_bar 6 /media/Disk-1}
+Disk-2 ${fs_type /media/Disk-2} ${fs_used /media/Disk-2}/${fs_size /media/Disk-2} 
+${fs_bar 6 /media/Disk-2}
+Windows ${fs_type /media/Windows} ${fs_used /media/Windows}/${fs_size /media/Windows} 
+${fs_bar 6 /media/Windows}
+${if_match "$gw_iface"=="enp0s25"}${color grey}NETWORK ${hr 2}
+Ethernet$color
+ ${addr enp0s25}
+${color grey}DownSpeed:$color ${downspeed enp0s25} ${color grey}Downloaded:$color ${totaldown enp0s25}
+${downspeedgraph enp0s25}
+${color grey}UpSpeed:$color ${upspeed enp0s25} ${color grey}Uploaded:$color ${totalup enp0s25}
+${upspeedgraph enp0s25}
+$else
+WiFi$color
+ ${addr wlp4s0}
+${color grey}DownSpeed:$color ${downspeed wlp4s0} ${color grey}Downloaded:$color ${totaldown wlp4s0}
+${downspeedgraph wlp4s0}
+${color grey}UpSpeed:$color ${upspeed wlp4s0} ${color grey}Uploaded:$color ${totalup wlp4s0}
+${upspeedgraph wlp4s0}
+$endif
+
