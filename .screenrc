@@ -7,9 +7,11 @@ backtick 3 60 60 $HOME/.bin/get_freemem
 backtick 4 60 60 $HOME/.bin/getvol
 hardstatus alwayslastline
 hardstatus string '%{= kG}%-Lw%{= kW}%50> %n*%f %t%{= kG}%+Lw%< %{= kG}%-= Uptime: %1`min Temp: %2` MemFree: %3` Vol: %4` | %D %d/%m/%y %C:%s %A'
-screen -t Bash bash
+screen -t Terminal1 bash
 screen -t Web elinks google.com
 screen -t Music ncmpcpp
 screen -t DCPP ncdc
-screen -t FileManager vifm
-select Bash
+screen -t Torrents deluge-console
+screen -t Terminal2 bash
+screen -t Terminal3 bash
+select Terminal1
