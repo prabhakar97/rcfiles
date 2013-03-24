@@ -1,0 +1,30 @@
+#!/usr/bin/perl
+use warnings;
+use strict;
+
+# Get the main class file's name
+my $fileName = $ARGV[0];
+my $className = substr($fileName,0,-5);
+
+#Include the library jars. Edit it according to your needs
+my $classPath = "/home/prabhakar/Documents/Hadoopz/hopnew/hadoop-hop-0.2-core.jar";
+
+# Create a temporary directory for classes and compile
+my $tempDir = "temp".$$;
+mkdir($tempDir, 0755);
+my $compileCommand = "javac -cp $classPath -d $tempDir $fileName";
+system($compileCommand);
+
+# Create a manifest file
+my $manifestFile = "manifest.txt".$$;
+open(MANIFEST, ">".$manifestFile);
+print MANIFEST "Main-Class: ".$className;
+close(MANIFEST);
+
+# Package into the jar
+my $jarCommand = "jar -cvmf $manifestFile $className.jar -C $tempDir/ .";
+system($jarCommand);
+
+# Clean up
+system("rm -rf ".$tempDir);
+unlink $manifestFile;
