@@ -18,7 +18,7 @@ system($compileCommand);
 # Create a manifest file
 my $manifestFile = "manifest.txt".$$;
 open(MANIFEST, ">".$manifestFile);
-print MANIFEST "Main-Class: ".$className;
+print MANIFEST "Main-Class: $className\n";
 close(MANIFEST);
 
 # Package into the jar
