@@ -21,12 +21,15 @@ set secure			" To avoid potential security
 				" problems
 set undolevels=1000
 set wrapscan                    " Continue searching on top when hitting bottom
+set tabstop=4
 
 " Don't make swap files
 set nobackup
 set nowb
 set noswapfile
 set wildmenu
+
+colorscheme elflord
 
 " In visual selection mode pressing * or # searches for selected text
 vnoremap <silent> * :call VisualSelection('f')<CR>
@@ -65,8 +68,8 @@ nmap <C-l> :tabn<CR>
 nmap <C-h> :tabp<CR>
 
 " Map F12 and Shift+F12 for buffer switching
-:nnoremap <silent> <F12> :bn<CR>
-:nnoremap <silent> <S-F12> :bp<CR>
+:nmap <C-k> :bn<CR>
+:nmap <C-k> :bp<CR>
 " Press enter to remove search highlights
 nmap <silent> <CR> :nohlsearch<CR>
 
@@ -79,3 +82,6 @@ let g:clang_user_options='|| exit 0'
 
 " Remap TaglistToggle command to TT
 :command TT TlistToggle
+set cul
+hi CursorLine term=none cterm=none ctermbg=4
+set autochdir
