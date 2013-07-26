@@ -1,3 +1,0 @@
-#!/bin/bash
-sensors | grep Core | awk '{print $3}' | tr -d + | tail -1 | cut -b 1-4
-
