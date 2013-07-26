@@ -1,8 +1,12 @@
-autoload -U compinit promptinit
+# AMZN specific
+source /apollo/env/envImprovement/var/zshrc
+
+# Include the necessary stuff
+autoload -U compinit promptinit colors
 compinit
 promptinit
-autoload -U colors && colors 
-# This will set the default prompt to the walters theme
+colors
+
 prompt walters
 export PS1="%# "
 zstyle ':completion:*' menu select
@@ -13,23 +17,34 @@ zstyle ':completion:*' matcher-list '' 'm:{a-z}={A-Z}' 'r:|[._-]=** r:|=**' 'l:|
 zstyle ':completion:*' menu select=long 
 zstyle ':completion:*' select-prompt '%SScrolling active: current selection at %p%s' 
 zstyle ':completion:*' use-compctl true 
-
 setopt completealiases
-[ -r /etc/profile.d/cnf.sh ] && . /etc/profile.d/cnf.sh
-bindkey -e
 
+#allow tab completion in the middle of a word
 setopt COMPLETE_IN_WORD
-u ()  {
-	set -A ud
-	ud[1+${1-1}]=
-	cd ${(j:../:)ud}
-}
+
+# I am a vimmer
+bindkey -v
+
+# Don't need to type cd to get inside a dir
 setopt auto_cd
+
+# Push the entered dir onto stack
 setopt autopushd
 
-#AWESOME...
-# pushes current command on command stack and gives blank line, after that line runs, command stack is popped
+# Push current command on stack and give blank line, after that line runs, pop command stack
 bindkey "^T" push-line-or-edit
 
-alias mysql=/usr/local/mysql/bin/mysql
-alias mysqladmin=/usr/local/mysql/bin/mysqladmin
+# Climb n directories up
+u () {
+    set -A ud
+    ud[1+${1-1}]=
+    cd ${(j:../:)ud}
+}
+
+alias ll='ls -l'
+alias lh='ls -lh'
+alias la='ls -A'
+alias l='ls -CF'
+
+# Source AMZN specific stuff
+source ~/.amznzshrc
