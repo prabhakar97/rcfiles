@@ -1,5 +1,5 @@
 " Amazon specific vimrc
-source /apollo/env/envImprovement/var/vimrc
+" source /apollo/env/envImprovement/var/vimrc
 
 set nocompatible            " Disable vi compatibility mode
 set t_Co=256                " 256 colors terminal
@@ -43,7 +43,7 @@ filetype indent plugin on
 execute pathogen#infect()
 
 " Ruby specific
-autocmd FileType ruby set makeprg brazil-build\ apollo-pkg
+" autocmd FileType ruby set makeprg brazil-build\ apollo-pkg
 
 " Set colorscheme
 colo Tomorrow-Night-Eighties
@@ -66,12 +66,13 @@ nmap <silent> <CR> :nohlsearch<CR>
 command -nargs=1 Run ConqueTerm <args>
 
 " Remap plugin launch commands
-nmap <Leader>TT :TlistToggle<CR>
-nmap <Leader>NT :NERDTree<CR>
-nmap <Leader>FB :FufBuffer<CR>
-nmap <Leader>FF :FufFile<CR>
-nmap <Leader>FT :FufTag<CR>
-nmap <Leader>RCL :source ~/.vimrc<CR>
+nmap <Leader>tt :TlistToggle<CR>
+nmap <Leader>nt :NERDTree<CR>
+nmap <Leader>fb :FufBuffer<CR>
+nmap <Leader>ff :FufFileWithFullCwd<CR>
+nmap <Leader>ft :FufTag<CR>
+nmap <Leader>rrc :source ~/.vimrc<CR>
+nmap <Leader>mbe :MBEToggle<CR>
 
 let Tlist_Use_Right_Window = 1
 
@@ -108,3 +109,4 @@ function! VisualSelection(direction) range
     let @/ = l:pattern
     let @" = l:saved_reg
 endfunction
+
