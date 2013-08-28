@@ -1,5 +1,5 @@
 # AMZN specific
-source /apollo/env/envImprovement/var/zshrc
+#source /apollo/env/envImprovement/var/zshrc
 
 # Include the necessary stuff
 autoload -U compinit promptinit colors
@@ -22,8 +22,8 @@ setopt completealiases
 #allow tab completion in the middle of a word
 setopt COMPLETE_IN_WORD
 
-# I am a vimmer
-bindkey -v
+# For command editing emacs bindings are better
+bindkey -e
 
 # Don't need to type cd to get inside a dir
 setopt auto_cd
@@ -46,5 +46,8 @@ alias lh='ls -lh'
 alias la='ls -A'
 alias l='ls -CF'
 
+findbelow () {
+    find ./ -regex ".*/$1.*"
+}
 # Source AMZN specific stuff
-source ~/.amznzshrc
+#source ~/.amznzshrc
