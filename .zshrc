@@ -41,6 +41,7 @@ u () {
     cd ${(j:../:)ud}
 }
 
+alias ls='ls --color=auto'
 alias ll='ls -l'
 alias lh='ls -lh'
 alias la='ls -A'
@@ -51,3 +52,6 @@ findbelow () {
 }
 # Source AMZN specific stuff
 #source ~/.amznzshrc
+alias mtpmount='simple-mtpfs /media/MTP'
+alias mtpunmount='fusermount -u /media/MTP'
+eval "$(rbenv init -)"

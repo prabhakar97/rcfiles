@@ -16,8 +16,10 @@ set wrapscan                " Wrap searches from top if hit bottom
 set tabstop=4               " Tab is 4 spaces
 set cul                     " Highlight cursor line
 set shiftround              " Set indentation in multiples of shiftwidth
-set foldmethod=indent       " Folding based on indentation
+"set foldmethod=indent       " Folding based on indentation
 set expandtab               " Use spaces in place of tabs
+set hidden                  " Allow switching buffers without saving
+set shiftwidth=4
 
 " Perform completions in a more appropriate way
 set wildmode=list:longest,full
