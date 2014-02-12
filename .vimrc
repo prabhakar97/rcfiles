@@ -19,7 +19,7 @@ set shiftround              " Set indentation in multiples of shiftwidth
 "set foldmethod=indent       " Folding based on indentation
 set expandtab               " Use spaces in place of tabs
 set hidden                  " Allow switching buffers without saving
-set shiftwidth=4
+set shiftwidth=4            " Indentation will use 4 spaces
 
 " Perform completions in a more appropriate way
 set wildmode=list:longest,full
@@ -49,7 +49,7 @@ execute pathogen#infect()
 " autocmd FileType ruby set makeprg brazil-build\ apollo-pk" g
 
 " Set colorscheme
-colo Tomorrow-Night-Eighties
+colo jellybeans
 
 " Because a \ sucks as a leader
 let mapleader = ","
@@ -69,7 +69,14 @@ nmap <silent> <CR> :nohlsearch<CR>
 command -nargs=1 Run ConqueTerm <args>
 
 " Remap plugin launch commands
-nmap <Leader>nt :NERDTree<CR>
+nmap <Leader>nt :NERDTreeToggle<CR>
+" Close vim if only window left is NERDTree
+autocmd bufenter * if (winnr("$") == 1 && exists("b:NERDTreeType") && b:NERDTreeType == "primary") | q | endif
+
+nmap <Leader>tb :TagbarToggle<CR>
+let g:tagbar_left = 1   " Put tagbar on the left
+let g:tagbar_width = 30 " Decrease from default width
+
 nmap <Leader>fb :FufBuffer<CR>
 nmap <Leader>ff :FufFile<CR>
 nmap <Leader>ft :FufTag<CR>
@@ -111,3 +118,19 @@ function! VisualSelection(direction) range
     let @/ = l:pattern
     let @" = l:saved_reg
 endfunction
+
+" GVim specific options
+if has("gui_running")
+    set go-=m   " Hide menubar
+    set go-=T   " Hide toolbar
+    set go-=r   " Hide right scrollbar
+    set go-=l   " Hide left scrollbar
+    set go-=L   " Hide left scrollbar
+    set go-=b   " Hide bottom scrollbar
+    set go+=P   " Put visually selected text to clipboard
+    set guifont=Monaco
+    set mouse=c
+    inoremap <c-space> <c-x><c-u>
+    cd Documents/Projects
+endif
+
