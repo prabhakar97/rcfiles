@@ -134,3 +134,15 @@ if has("gui_running")
     cd Documents/Projects
 endif
 
+" Matching rules
+match ErrorMsg /\%>80v.\+/  "Don't like any lines greater than 80 chars 
+match ErrorMsg /\s+$/   " Don't lile whitespaces at end of line
+
+autocmd BufRead,BufNewFile *.md set filetype=markdown
+noremap <c-s> :update<CR><CR>
+vnoremap <c-s> <c-c>:update<CR><CR>
+inoremap <c-s> <c-c>:update<CR><CR>
+map <A-DOWN> gj
+map <A-UP> gk
+imap <A-UP> <ESC>gki
+imap <A-DOWN> <ESC>gji
