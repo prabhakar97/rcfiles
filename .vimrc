@@ -1,6 +1,3 @@
-" Amazon specific vimrc
-"source /apollo/env/envImprovement/var/vimrc
-
 set nocompatible            " Disable vi compatibility mode
 set t_Co=256                " 256 colors terminal
 set nu                      " Show line numbes
@@ -11,15 +8,18 @@ set incsearch               " Incremental search
 set autoread                " Automatically reload file if changed by external program
 set showmatch               " Show matching brackets 
 set undolevels=1000         " 1000 levels of undoing
-set laststatus=0            " Always show the status line at the bottom
+set laststatus=2            " Always show the status line at the bottom
 set wrapscan                " Wrap searches from top if hit bottom
-set tabstop=4               " Tab is 4 spaces
 set cul                     " Highlight cursor line
 set shiftround              " Set indentation in multiples of shiftwidth
-"set foldmethod=indent       " Folding based on indentation
 set expandtab               " Use spaces in place of tabs
 set hidden                  " Allow switching buffers without saving
-set shiftwidth=4            " Indentation will use 4 spaces
+set shiftwidth=2            " Indentation will use 2 spaces by default
+set tabstop=2               " Tab is 2 spaces by default
+set ttimeoutlen=50
+set cc=120                  " Reminder for longer lines of code
+set backupdir=$HOME/.vim/backups
+set directory=$HOME/.vim/swap
 
 " Perform completions in a more appropriate way
 set wildmode=list:longest,full
@@ -45,53 +45,27 @@ filetype indent plugin on
 " Pathogenic infection
 execute pathogen#infect()
 
-" Ruby specific
-" autocmd FileType ruby set makeprg brazil-build\ apollo-pk" g
-
 " Set colorscheme
 colo jellybeans
 
 " Because a \ sucks as a leader
 let mapleader = ","
 
-" Map F12 and Shift+F12 for buffer switching
-nnoremap <silent> <F12> :bn<CR>
-nnoremap <silent> <S-F12> :bp<CR>
+" Map F12 and Shift+F12 for tab switching
+nnoremap <silent> <F12> :tabn<CR>
+nnoremap <silent> <S-F12> :tabp<CR>
 
-" Map Control+l and h for tab switching
-nmap <C-l> :tabn<CR>
-nmap <C-h> :tabp<CR>
+" Map Control+l and h for buffer switching
+nmap <C-l> :bn<CR>
+nmap <C-h> :bp<CR>
 
 " Press enter to remove search highlights
 nmap <silent> <CR> :nohlsearch<CR>
 
-" :Run bash will open a terminal
-command -nargs=1 Run ConqueTerm <args>
-
-" Remap plugin launch commands
-nmap <Leader>nt :NERDTreeToggle<CR>
-" Close vim if only window left is NERDTree
-autocmd bufenter * if (winnr("$") == 1 && exists("b:NERDTreeType") && b:NERDTreeType == "primary") | q | endif
-
-nmap <Leader>tb :TagbarToggle<CR>
-let g:tagbar_left = 1   " Put tagbar on the left
-let g:tagbar_width = 30 " Decrease from default width
-
+" Leading shortcuts
 nmap <Leader>fb :FufBuffer<CR>
 nmap <Leader>ff :FufFile<CR>
-nmap <Leader>ft :FufTag<CR>
 nmap <Leader>rr :source ~/.vimrc<CR>
-nmap <Leader>mbe :MBEToggle<CR>
-
-let Tlist_Use_Right_Window = 1
-
-" MiniBufExpl Colors
-hi MBENormal               guifg=#808080 guibg=fg
-hi MBEChanged              guifg=#CD5907 guibg=fg
-hi MBEVisibleNormal        guifg=#5DC2D6 guibg=fg
-hi MBEVisibleChanged       guifg=#F1266F guibg=fg
-hi MBEVisibleActiveNormal  guifg=#A6DB29 guibg=fg
-hi MBEVisibleActiveChanged guifg=#F1266F guibg=fg
 
 " Search for selected text using * and #
 vnoremap <silent> * :call VisualSearch('f')<CR>
@@ -136,7 +110,7 @@ endif
 
 " Matching rules
 match ErrorMsg /\%>80v.\+/  "Don't like any lines greater than 80 chars 
-match ErrorMsg /\s+$/   " Don't lile whitespaces at end of line
+match ErrorMsg /\s+$/   " Don't like whitespaces at end of line
 
 autocmd BufRead,BufNewFile *.md set filetype=markdown
 noremap <c-s> :update<CR><CR>
@@ -146,3 +120,115 @@ map <A-DOWN> gj
 map <A-UP> gk
 imap <A-UP> <ESC>gki
 imap <A-DOWN> <ESC>gji
+
+"" Plugin configurations
+" Airline
+let g:airline#extensions#tabline#enabled = 1
+let g:airline#extensions#tabline#left_sep = ' '
+let g:airline#extensions#tabline#left_alt_sep = '|'
+if !exists('g:airline_symbols')
+  let g:airline_symbols = {}
+endif
+let g:airline_theme = 'powerlineish'
+let g:airline_enable_branch = 1
+let g:airline_left_sep = '»'
+let g:airline_left_sep = '▶'
+let g:airline_right_sep = '«'
+let g:airline_right_sep = '◀'
+let g:airline_symbols.linenr = '␊'
+let g:airline_symbols.linenr = '␤'
+let g:airline_symbols.linenr = '¶'
+let g:airline_symbols.branch = '⎇'
+let g:airline_symbols.paste = 'ρ'
+let g:airline_symbols.paste = 'Þ'
+let g:airline_symbols.paste = '∥'
+let g:airline_symbols.whitespace = 'Ξ'
+" Snipmate
+let g:snipMate = {}
+let g:snipMate.scope_aliases = {}
+let g:snipMate.scope_aliases['ruby'] = 'ruby,rails'
+" Neocomplete
+" Use neocomplete.
+let g:neocomplete#enable_at_startup = 1
+" Use smartcase.
+let g:neocomplete#enable_smart_case = 1
+" Set minimum syntax keyword length.
+let g:neocomplete#sources#syntax#min_keyword_length = 3
+let g:neocomplete#lock_buffer_name_pattern = '\*ku\*'
+
+" Define dictionary.
+let g:neocomplete#sources#dictionary#dictionaries = {
+    \ 'default' : '',
+    \ 'vimshell' : $HOME.'/.vimshell_hist',
+    \ 'scheme' : $HOME.'/.gosh_completions'
+        \ }
+
+" Define keyword.
+if !exists('g:neocomplete#keyword_patterns')
+    let g:neocomplete#keyword_patterns = {}
+endif
+let g:neocomplete#keyword_patterns['default'] = '\h\w*'
+
+" Plugin key-mappings.
+inoremap <expr><C-g>     neocomplete#undo_completion()
+inoremap <expr><C-l>     neocomplete#complete_common_string()
+
+" Recommended key-mappings.
+" <CR>: close popup and save indent.
+inoremap <silent> <CR> <C-r>=<SID>my_cr_function()<CR>
+function! s:my_cr_function()
+  " return neocomplete#close_popup() . "\<CR>"
+  " For no inserting <CR> key.
+  return pumvisible() ? neocomplete#close_popup() : "\<CR>"
+endfunction
+" <TAB>: completion.
+"inoremap <expr><TAB>  pumvisible() ? "\<C-n>" : "\<TAB>"
+" <C-h>, <BS>: close popup and delete backword char.
+inoremap <expr><C-h> neocomplete#smart_close_popup()."\<C-h>"
+inoremap <expr><BS> neocomplete#smart_close_popup()."\<C-h>"
+inoremap <expr><C-y>  neocomplete#close_popup()
+inoremap <expr><C-e>  neocomplete#cancel_popup()
+" Close popup by <Space>.
+"inoremap <expr><Space> pumvisible() ? neocomplete#close_popup() : "\<Space>"
+
+" For cursor moving in insert mode(Not recommended)
+"inoremap <expr><Left>  neocomplete#close_popup() . "\<Left>"
+"inoremap <expr><Right> neocomplete#close_popup() . "\<Right>"
+"inoremap <expr><Up>    neocomplete#close_popup() . "\<Up>"
+"inoremap <expr><Down>  neocomplete#close_popup() . "\<Down>"
+" Or set this.
+let g:neocomplete#enable_cursor_hold_i = 1
+" Or set this.
+"let g:neocomplete#enable_insert_char_pre = 1
+
+" AutoComplPop like behavior.
+let g:neocomplete#enable_auto_select = 1
+
+" Shell like behavior(not recommended).
+"set completeopt+=longest
+"let g:neocomplete#enable_auto_select = 1
+"let g:neocomplete#disable_auto_complete = 1
+"inoremap <expr><TAB>  pumvisible() ? "\<Down>" : "\<C-x>\<C-u>"
+
+" Enable omni completion.
+autocmd FileType css setlocal omnifunc=csscomplete#CompleteCSS
+autocmd FileType html,markdown setlocal omnifunc=htmlcomplete#CompleteTags
+autocmd FileType javascript setlocal omnifunc=javascriptcomplete#CompleteJS
+autocmd FileType python setlocal omnifunc=pythoncomplete#Complete
+autocmd FileType xml setlocal omnifunc=xmlcomplete#CompleteTags
+autocmd FileType ruby setlocal cul!
+
+" Enable heavy omni completion.
+if !exists('g:neocomplete#sources#omni#input_patterns')
+  let g:neocomplete#sources#omni#input_patterns = {}
+endif
+"let g:neocomplete#sources#omni#input_patterns.php = '[^. \t]->\h\w*\|\h\w*::'
+"let g:neocomplete#sources#omni#input_patterns.c = '[^.[:digit:] *\t]\%(\.\|->\)'
+"let g:neocomplete#sources#omni#input_patterns.cpp = '[^.[:digit:] *\t]\%(\.\|->\)\|\h\w*::'
+
+" For perlomni.vim setting.
+" https://github.com/c9s/perlomni.vim
+let g:neocomplete#sources#omni#input_patterns.perl = '\h\w*->\h\w*\|\h\w*::'
+
+" Replace word under cursor
+:nnoremap <Leader>s :%s/\<<C-r><C-w>\>/

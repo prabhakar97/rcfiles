@@ -1,0 +1,73 @@
+# Regular
+BLACK='\033[0;30m'
+RED='\033[0;31m'
+GREEN='\033[0;32m'
+BROWN='\033[0;33m'
+BLUE='\033[0;34m'
+PURPLE='\033[0;35m'
+CYAN='\033[0;36m'
+WHITE='\033[0;37m'
+
+# Bold
+B_BLACK='\033[1;30m'
+B_RED='\033[1;31m'
+B_GREEN='\033[1;32m'
+B_BROWN='\033[1;33m'
+B_BLUE='\033[1;34m'
+B_PURPLE='\033[1;35m'
+B_CYAN='\033[1;36m'
+B_WHITE='\033[1;37m'
+
+# Underlined
+U_BLACK='\033[4;30m'
+U_RED='\033[4;31m'
+U_GREEN='\033[4;32m'
+U_BROWN='\033[4;33m'
+U_BLUE='\033[4;34m'
+U_PURPLE='\033[4;35m'
+U_CYAN='\033[4;36m'
+U_WHITE='\033[4;37m'
+
+# Background
+BG_BLACK='\033[40m'       # Black
+BG_RED='\033[41m'         # Red
+BG_GREEN='\033[42m'       # Green
+BG_YELLOW='\033[43m'      # Yellow
+
+NC='\033[0m'
+
+# Aliases
+alias bb=brazil-build
+alias bba='brazil-build apollo-pkg'
+alias bre='brazil-runtime-exec'
+alias bbr='brazil-recursive-cmd brazil-build'
+alias badd='brazil ws use -p'
+alias brm='brazil ws remove -p'
+alias bbc='brazil-build clean && brazil-build'
+
+# Clean and build list of packages
+clean_build () {
+  while [[ $#  > 0 ]]
+  do
+    cd $1
+    echo "${B_PURPLE}Now building $1${NC}"
+    sleep 2
+    bb clean && bb
+    cd ..
+    shift
+  done
+}
+
+# Tunnels
+alias odin_daemon="ssh -L2009:localhost:2009 prabhakk.aka.amazon.com -f -N"
+alias dbs="ssh security-bastions-prod-iad.amazon.com -L 56049:acat1na-orasvr.db.amazon.com:56049"
+
+export ENV_IMPROVEMENT_ROOT=/apollo/env/envImprovement
+[[ `uname -s` = "Linux" ]] && source $ENV_IMPROVEMENT_ROOT/dotfiles/zshrc
+
+# Paths
+for f in AmazonAwsCli OdinTools; do
+  if [[ -d /apollo/env/$f ]]; then
+    export PATH=/apollo/env/$f/bin:$PATH
+  fi
+done

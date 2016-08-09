@@ -78,7 +78,7 @@ ssh_setup () {
   directories=".vim"
   items="$files $directories"
   for file in $files; do
-    test -e ~/$file && echo "Copying $file to $1" && scp -r ~/$file $1:~/
+    [[ -f $HOME/$file ]] && echo "Copying $file to $1" && scp -r ~/$file $1:~/
   done
 }
 
@@ -91,5 +91,5 @@ eval "$(rbenv init -)"
 [ `uname -s` = "Darwin" ] && export JAVA_HOME=$(/usr/libexec/java_home)   # Fix JAVA_HOME
 
 # AMZN specific
-test -e ~/.amznzshrc && source ~/.amznzshrc
+[[ -f $HOME/.amznzshrc ]] && . ~/.amznzshrc
 
