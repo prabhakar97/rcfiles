@@ -1,3 +1,6 @@
+# AMZN specific
+test -e ~/.amznzshrc && source ~/.amznzshrc
+
 # Include the necessary stuff
 autoload -U compinit promptinit colors
 compinit
@@ -72,13 +75,19 @@ findbelow () {
 
 # This function copies all necessary stuff from my local system to a remote host
 ssh_setup () {
-  test -z $1 && echo "Hostname not passed" && exit 1
+  if [[ -z $1 ]]; then
+    echo "Hostname not passed"
+    return
+  fi
   # Files
-  files=".amznzshrc .gemrc .gitconfig .gitignore .tmux.conf .vimrc .zshrc"
-  directories=".vim"
-  items="$files $directories"
-  for file in $files; do
-    [[ -f $HOME/$file ]] && echo "Copying $file to $1" && scp -r ~/$file $1:~/
+  files=".amznzshrc .gemrc .gitconfig .gitignore .tmux.conf .vim .vimrc .zshrc"
+  items=(${=files})
+  for file in $items; do
+    if [[ -e "$HOME/$file" ]]; then
+      scp -r "$HOME/$file" "$1:~/"
+    else
+      echo "$HOME/$file doesn't exist"
+    fi
   done
 }
 
@@ -87,9 +96,8 @@ export PATH="$HOME/.rbenv/bin:$PATH"
 eval "$(rbenv init -)"
 
 # Mac specific
-[ `uname -s` = "Darwin" ] && export PATH=/usr/local/bin:$PATH     # Prefer brew apps over native apple
-[ `uname -s` = "Darwin" ] && export JAVA_HOME=$(/usr/libexec/java_home)   # Fix JAVA_HOME
-
-# AMZN specific
-[[ -f $HOME/.amznzshrc ]] && . ~/.amznzshrc
-
+if [ `uname -s` = "Darwin" ]; then
+  export PATH=/usr/local/bin:$PATH     # Prefer brew apps over native apple
+  export JAVA_HOME=$(/usr/libexec/java_home)   # Fix JAVA_HOME
+  alias ls='ls -G'
+fi
