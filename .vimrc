@@ -20,6 +20,7 @@ set ttimeoutlen=50
 set cc=120                  " Reminder for longer lines of code
 set backupdir=$HOME/.vim/backups
 set directory=$HOME/.vim/swap
+set updatetime=250          " Set the update time to a quarter of second
 
 " Perform completions in a more appropriate way
 set wildmode=list:longest,full
