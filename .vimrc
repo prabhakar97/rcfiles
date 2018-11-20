@@ -34,11 +34,12 @@ call vundle#begin()
 
 " Load plugins
 Plugin 'VundleVim/Vundle.vim'
+Plugin 'tomtom/tlib_vim'
 Plugin 'vim-scripts/L9'
 Plugin 'tpope/vim-obsession'
+Plugin 'atom/fuzzy-finder'
 Plugin 'Raimondi/delimitMate'
 Plugin 'vim-syntastic/syntastic'
-Plugin 'tomtom/tlib_vim'
 Plugin 'MarcWeber/vim-addon-mw-utils'
 Plugin 'vim-airline/vim-airline'
 Plugin 'vim-airline/vim-airline-themes'
