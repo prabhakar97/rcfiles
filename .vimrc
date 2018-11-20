@@ -1,3 +1,6 @@
+" Amazon specific vimrc
+"source /apollo/env/envImprovement/var/vimrc
+
 set nocompatible            " Disable vi compatibility mode
 set t_Co=256                " 256 colors terminal
 set nu                      " Show line numbes
@@ -10,41 +13,76 @@ set showmatch               " Show matching brackets
 set undolevels=1000         " 1000 levels of undoing
 set laststatus=2            " Always show the status line at the bottom
 set wrapscan                " Wrap searches from top if hit bottom
-set cul                     " Highlight cursor line
+set tabstop=4               " Tab is 4 spaces
 set shiftround              " Set indentation in multiples of shiftwidth
 set expandtab               " Use spaces in place of tabs
 set hidden                  " Allow switching buffers without saving
-set shiftwidth=2            " Indentation will use 2 spaces by default
-set tabstop=2               " Tab is 2 spaces by default
-set ttimeoutlen=50
-set cc=120                  " Reminder for longer lines of code
-set backupdir=$HOME/.vim/backups
-set directory=$HOME/.vim/swap
-set updatetime=250          " Set the update time to a quarter of second
+set shiftwidth=4            " Indentation will use 4 spaces
+set tabstop=4
+set softtabstop=4
+set autoindent
+set backupdir=$HOME/.vim/swaps
+set dir=$HOME/.vim/swaps
+set synmaxcol=220           " Because vim syntax highlighting sucks with long lines
+set wildmode=list:longest,full " Perform completions in a more appropriate way"
+set backspace=eol,indent,start " Backspace over everything
+set omnifunc=syntaxcomplete#Complete " Enable omni completion"
 
-" Perform completions in a more appropriate way
-set wildmode=list:longest,full
+" Initialize vundle
+set rtp+=~/.vim/bundle/Vundle.vim
+call vundle#begin()
 
-" Backspace over everything
-set backspace=eol,indent,start
+" Load plugins
+Plugin 'VundleVim/Vundle.vim'
+Plugin 'vim-scripts/L9'
+Plugin 'tpope/vim-obsession'
+Plugin 'Raimondi/delimitMate'
+Plugin 'vim-syntastic/syntastic'
+Plugin 'tomtom/tlib_vim'
+Plugin 'MarcWeber/vim-addon-mw-utils'
+Plugin 'vim-airline/vim-airline'
+Plugin 'vim-airline/vim-airline-themes'
+Plugin 'garbas/vim-snipmate'
+Plugin 'honza/vim-snippets'
+Plugin 'tpope/vim-fugitive'
+Plugin 'airblade/vim-gitgutter'
+Plugin 'tpope/vim-endwise'
+Plugin 'moll/vim-node'
+Plugin 'isRuslan/vim-es6'
+Plugin 'posva/vim-vue'
+Plugin 'tpope/vim-rails'
+call vundle#end()
 
-" Improve cursor line colors
-hi CursorLine term=none cterm=none ctermbg=4
+" Enable language based stuff
+syntax on
+" filetype on
+filetype plugin on
+filetype plugin indent on
+
+if has("multi_byte")
+  if &termencoding == ""
+    let &termencoding = &encoding
+  endif
+  set encoding=utf-8
+  setglobal fileencoding=utf-8
+  "setglobal bomb
+  set fileencodings=ucs-bom,utf-8,latin1
+endif
 
 " Improve autocomplete menu color
 hi Pmenu guibg=brown gui=bold
 
-" Enable omni completion
-set omnifunc=syntaxcomplete#Complete
+" Fix for markdown highlighting
+autocmd BufRead,BufNewFile *.md set filetype=markdown
 
-" Enable language based stuff
-syntax on
-filetype on
-filetype plugin on
-filetype indent plugin on
+" Ruby specific
+autocmd FileType ruby set tabstop=2 shiftwidth=2 softtabstop=2
+autocmd FileType eruby set tabstop=2 shiftwidth=2 softtabstop=2
 
-" Pathogenic infection
-execute pathogen#infect()
+" Javascript and HTML
+autocmd FileType javascript set tabstop=2 shiftwidth=2 softtabstop=2
+autocmd FileType html set tabstop=2 shiftwidth=2 softtabstop=2
+autocmd FileType vue set tabstop=2 shiftwidth=2 softtabstop=2
 
 " Set colorscheme
 colo jellybeans
@@ -52,20 +90,28 @@ colo jellybeans
 " Because a \ sucks as a leader
 let mapleader = ","
 
-" Map F12 and Shift+F12 for tab switching
+" Map F12 and Shift+F12 for buffer switching
 nnoremap <silent> <F12> :tabn<CR>
 nnoremap <silent> <S-F12> :tabp<CR>
 
-" Map Control+l and h for buffer switching
+" Map Control+l and h for tab switching
 nmap <C-l> :bn<CR>
 nmap <C-h> :bp<CR>
 
 " Press enter to remove search highlights
 nmap <silent> <CR> :nohlsearch<CR>
 
-" Leading shortcuts
+" :Run bash will open a terminal
+command -nargs=1 Run ConqueTerm <args>
+
+let g:airline#extensions#tabline#enabled = 1
+let g:airline#extensions#tabline#left_sep = ' '
+let g:airline#extensions#tabline#left_alt_sep = '|'
+let g:airline_section_y = 'Obsession: %{ObsessionStatus("ON", "OFF")}'
+
 nmap <Leader>fb :FufBuffer<CR>
 nmap <Leader>ff :FufFile<CR>
+nmap <Leader>ft :FufTag<CR>
 nmap <Leader>rr :source ~/.vimrc<CR>
 
 " Search for selected text using * and #
@@ -106,57 +152,18 @@ if has("gui_running")
     set guifont=Monaco
     set mouse=c
     inoremap <c-space> <c-x><c-u>
-    cd Documents/Projects
 endif
 
 " Matching rules
 match ErrorMsg /\%>80v.\+/  "Don't like any lines greater than 80 chars 
 match ErrorMsg /\s+$/   " Don't like whitespaces at end of line
 
-autocmd BufRead,BufNewFile *.md set filetype=markdown
 noremap <c-s> :update<CR><CR>
 vnoremap <c-s> <c-c>:update<CR><CR>
 inoremap <c-s> <c-c>:update<CR><CR>
+
+" Alt-up/down should behave in a WYSWIG manner(for looong lines)
 map <A-DOWN> gj
 map <A-UP> gk
 imap <A-UP> <ESC>gki
 imap <A-DOWN> <ESC>gji
-
-"" Plugin configurations
-" Airline
-let g:airline#extensions#tabline#enabled = 1
-let g:airline#extensions#tabline#left_sep = ' '
-let g:airline#extensions#tabline#left_alt_sep = '|'
-if !exists('g:airline_symbols')
-  let g:airline_symbols = {}
-endif
-let g:airline_theme = 'powerlineish'
-let g:airline_enable_branch = 1
-let g:airline_left_sep = '»'
-let g:airline_left_sep = '▶'
-let g:airline_right_sep = '«'
-let g:airline_right_sep = '◀'
-let g:airline_symbols.linenr = '␊'
-let g:airline_symbols.linenr = '␤'
-let g:airline_symbols.linenr = '¶'
-let g:airline_symbols.branch = '⎇'
-let g:airline_symbols.paste = 'ρ'
-let g:airline_symbols.paste = 'Þ'
-let g:airline_symbols.paste = '∥'
-let g:airline_symbols.whitespace = 'Ξ'
-" Snipmate
-let g:snipMate = {}
-let g:snipMate.scope_aliases = {}
-let g:snipMate.scope_aliases['ruby'] = 'ruby,rails'
-
-" Enable omni completion.
-autocmd FileType css setlocal omnifunc=csscomplete#CompleteCSS
-autocmd FileType html,markdown setlocal omnifunc=htmlcomplete#CompleteTags
-autocmd FileType javascript setlocal omnifunc=javascriptcomplete#CompleteJS
-autocmd FileType python setlocal omnifunc=pythoncomplete#Complete
-autocmd FileType xml setlocal omnifunc=xmlcomplete#CompleteTags
-autocmd FileType ruby setlocal cul!
-autocmd FileType xml setlocal equalprg=xmllint\ --format\ --recover\ -\ 2>/dev/null
-
-" Replace word under cursor
-:nnoremap <Leader>s :%s/\<<C-r><C-w>\>/
