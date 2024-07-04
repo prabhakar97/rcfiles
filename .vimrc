@@ -1,6 +1,3 @@
-" Amazon specific vimrc
-"source /apollo/env/envImprovement/var/vimrc
-
 set nocompatible            " Disable vi compatibility mode
 set t_Co=256                " 256 colors terminal
 set nu                      " Show line numbes
@@ -27,32 +24,35 @@ set synmaxcol=220           " Because vim syntax highlighting sucks with long li
 set wildmode=list:longest,full " Perform completions in a more appropriate way"
 set backspace=eol,indent,start " Backspace over everything
 set omnifunc=syntaxcomplete#Complete " Enable omni completion"
+set completeopt=menu,menuone,noselect
+set autowrite   " Save file when :make is run
 
-" Initialize vundle
-set rtp+=~/.vim/bundle/Vundle.vim
-call vundle#begin()
+" Initialize plug
+call plug#begin()
+Plug 'tpope/vim-obsession'
+Plug 'junegunn/fzf', { 'do': { -> fzf#install() } }
+Plug 'junegunn/fzf.vim'
+"Plug 'Raimondi/delimitMate'
+Plug 'vim-airline/vim-airline'
+Plug 'vim-airline/vim-airline-themes'
+Plug 'SirVer/ultisnips'
+Plug 'tpope/vim-fugitive'
+Plug 'airblade/vim-gitgutter'
+Plug 'tpope/vim-endwise'
+Plug 'moll/vim-node'
+Plug 'isRuslan/vim-es6'
+Plug 'posva/vim-vue'
+Plug 'tpope/vim-rails'
+Plug 'fatih/vim-go', { 'do': ':GoUpdateBinaries' }
+Plug 'preservim/nerdtree'
+Plug 'dense-analysis/ale'
+Plug 'prabirshrestha/asyncomplete.vim'
+Plug 'andreypopp/asyncomplete-ale.vim'
+call plug#end()
 
-" Load plugins
-Plugin 'VundleVim/Vundle.vim'
-Plugin 'tomtom/tlib_vim'
-Plugin 'vim-scripts/L9'
-Plugin 'tpope/vim-obsession'
-Plugin 'atom/fuzzy-finder'
-Plugin 'Raimondi/delimitMate'
-Plugin 'vim-syntastic/syntastic'
-Plugin 'MarcWeber/vim-addon-mw-utils'
-Plugin 'vim-airline/vim-airline'
-Plugin 'vim-airline/vim-airline-themes'
-Plugin 'garbas/vim-snipmate'
-Plugin 'honza/vim-snippets'
-Plugin 'tpope/vim-fugitive'
-Plugin 'airblade/vim-gitgutter'
-Plugin 'tpope/vim-endwise'
-Plugin 'moll/vim-node'
-Plugin 'isRuslan/vim-es6'
-Plugin 'posva/vim-vue'
-Plugin 'tpope/vim-rails'
-call vundle#end()
+let g:ale_linters = {
+  \ 'go': ['gopls'],
+  \}
 
 " Enable language based stuff
 syntax on
@@ -66,7 +66,7 @@ if has("multi_byte")
   endif
   set encoding=utf-8
   setglobal fileencoding=utf-8
-  "setglobal bomb
+  "setglobal bom
   set fileencodings=ucs-bom,utf-8,latin1
 endif
 
@@ -91,29 +91,22 @@ colo jellybeans
 " Because a \ sucks as a leader
 let mapleader = ","
 
-" Map F12 and Shift+F12 for buffer switching
-nnoremap <silent> <F12> :tabn<CR>
-nnoremap <silent> <S-F12> :tabp<CR>
+nmap <Leader>rr :source ~/.vimrc<CR>
 
-" Map Control+l and h for tab switching
+" Map Control+l and h for buffer switching
 nmap <C-l> :bn<CR>
 nmap <C-h> :bp<CR>
+
+" Navigate quick fixes efficiently
+map <C-n> :cnext<CR>
+map <C-p> :cprevious<CR>
+nnoremap <leader>a :cclose<CR>
 
 " Press enter to remove search highlights
 nmap <silent> <CR> :nohlsearch<CR>
 
-" :Run bash will open a terminal
-command -nargs=1 Run ConqueTerm <args>
-
-let g:airline#extensions#tabline#enabled = 1
-let g:airline#extensions#tabline#left_sep = ' '
-let g:airline#extensions#tabline#left_alt_sep = '|'
-let g:airline_section_y = 'Obsession: %{ObsessionStatus("ON", "OFF")}'
-
-nmap <Leader>fb :FufBuffer<CR>
-nmap <Leader>ff :FufFile<CR>
-nmap <Leader>ft :FufTag<CR>
-nmap <Leader>rr :source ~/.vimrc<CR>
+" Launch nerdree
+nnoremap <leader>n :NERDTreeFocus<CR>
 
 " Search for selected text using * and #
 vnoremap <silent> * :call VisualSearch('f')<CR>
@@ -141,6 +134,11 @@ function! VisualSelection(direction) range
     let @" = l:saved_reg
 endfunction
 
+let g:airline#extensions#tabline#enabled = 1
+let g:airline#extensions#tabline#left_sep = ' '
+let g:airline#extensions#tabline#left_alt_sep = '|'
+let g:airline_section_y = 'Obsession: %{ObsessionStatus("ON", "OFF")}'
+
 " GVim specific options
 if has("gui_running")
     set go-=m   " Hide menubar
@@ -156,15 +154,57 @@ if has("gui_running")
 endif
 
 " Matching rules
-match ErrorMsg /\%>80v.\+/  "Don't like any lines greater than 80 chars 
+match ErrorMsg /\%>120v.\+/  "Don't like any lines greater than 120 chars 
 match ErrorMsg /\s+$/   " Don't like whitespaces at end of line
-
-noremap <c-s> :update<CR><CR>
-vnoremap <c-s> <c-c>:update<CR><CR>
-inoremap <c-s> <c-c>:update<CR><CR>
 
 " Alt-up/down should behave in a WYSWIG manner(for looong lines)
 map <A-DOWN> gj
 map <A-UP> gk
 imap <A-UP> <ESC>gki
 imap <A-DOWN> <ESC>gji
+
+" Golang specific configuration
+let g:go_highlight_fields = 1
+let g:go_highlight_types = 1
+let g:go_highlight_functions = 1
+let g:go_highlight_function_calls = 1
+let g:go_highlight_operators = 1
+let g:go_highlight_extra_types = 1
+let g:go_list_type = "quickfix"
+let g:go_fmt_command = "goimports"
+let g:go_def_mode='gopls'
+let g:go_info_mode='gopls'
+let g:go_auto_type_info = 1
+let g:go_auto_sameids = 1
+autocmd FileType go nmap <leader>r  <Plug>(go-run)
+autocmd FileType go nmap <leader>t  <Plug>(go-test)
+" run :GoBuild or :GoTestCompile based on the go file
+function! s:build_go_files()
+  let l:file = expand('%')
+  if l:file =~# '^\f\+_test\.go$'
+    call go#test#Test(0, 1)
+  elseif l:file =~# '^\f\+\.go$'
+    call go#cmd#Build(0)
+  endif
+endfunction
+autocmd FileType go nmap <leader>b :<C-u>call <SID>build_go_files()<CR>
+autocmd FileType go nmap <Leader>i <Plug>(go-info)
+
+au User asyncomplete_setup call asyncomplete#ale#register_source({
+    \ 'name': 'reason',
+    \ 'linter': 'flow',
+    \ })
+let g:asyncomplete_auto_completeopt = 0
+set completeopt=menuone,noinsert,preview,popup
+
+" Setup fzf
+let g:fzf_vim = {}
+let g:fzf_vim.listproc = { list -> fzf#vim#listproc#quickfix(list) }
+function! s:fzf_statusline()
+  " Override statusline as you like
+  highlight fzf1 ctermfg=161 ctermbg=251
+  highlight fzf2 ctermfg=23 ctermbg=251
+  highlight fzf3 ctermfg=237 ctermbg=251
+  setlocal statusline=%#fzf1#\ >\ %#fzf2#fz%#fzf3#f
+endfunction
+autocmd! User FzfStatusLine call <SID>fzf_statusline()

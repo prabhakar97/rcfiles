@@ -1,4 +1,5 @@
 # Include the necessary stuff
+FPATH=~/.rbenv/completions:"$FPATH"
 autoload -U compinit promptinit colors
 compinit
 promptinit
@@ -66,9 +67,27 @@ alias android_fs='aft-mtp-mount ~/LG'
 findbelow () {
     find ./ -regex ".*/$1.*"
 }
-# Source AMZN specific stuff
-export PATH=~/.rbenv/bin:~/.bin:$PATH
-eval "$(rbenv init -)"
 export VIMHOME=$HOME/.vim
 export TERM="screen-256color"
-export PATH=/home/prabhakar/Android/platform-tools:$PATH
+export PATH="$HOME/.rbenv/bin:$PATH"                                                                                                                                    
+eval "$(rbenv init -)"
+export PATH=$PATH:/usr/local/go/bin
+
+fzf-open-file-or-dir() {
+  local cmd="command find -L . \
+    \\( -path '*/\\.*' -o -fstype 'dev' -o -fstype 'proc' \\) -prune \
+    -o -type f -print \
+    -o -type d -print \
+    -o -type l -print 2> /dev/null | sed 1d | cut -b3-"
+  local out=$(eval $cmd | fzf-tmux --exit-0)
+
+  if [ -f "$out" ]; then
+    $EDITOR "$out" < /dev/tty
+  elif [ -d "$out" ]; then
+    cd "$out"
+    zle reset-prompt
+  fi
+}
+zle     -N   fzf-open-file-or-dir
+# Ctrl+P starts fzf
+bindkey '^P' fzf-open-file-or-dir
