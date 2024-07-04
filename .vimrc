@@ -32,7 +32,7 @@ call plug#begin()
 Plug 'tpope/vim-obsession'
 Plug 'junegunn/fzf', { 'do': { -> fzf#install() } }
 Plug 'junegunn/fzf.vim'
-"Plug 'Raimondi/delimitMate'
+Plug 'Raimondi/delimitMate'
 Plug 'vim-airline/vim-airline'
 Plug 'vim-airline/vim-airline-themes'
 Plug 'SirVer/ultisnips'
@@ -45,14 +45,11 @@ Plug 'posva/vim-vue'
 Plug 'tpope/vim-rails'
 Plug 'fatih/vim-go', { 'do': ':GoUpdateBinaries' }
 Plug 'preservim/nerdtree'
-Plug 'dense-analysis/ale'
 Plug 'prabirshrestha/asyncomplete.vim'
-Plug 'andreypopp/asyncomplete-ale.vim'
+Plug 'prabirshrestha/asyncomplete-lsp.vim'
+Plug 'prabirshrestha/vim-lsp'
+Plug 'mattn/vim-lsp-settings'
 call plug#end()
-
-let g:ale_linters = {
-  \ 'go': ['gopls'],
-  \}
 
 " Enable language based stuff
 syntax on
@@ -190,12 +187,19 @@ endfunction
 autocmd FileType go nmap <leader>b :<C-u>call <SID>build_go_files()<CR>
 autocmd FileType go nmap <Leader>i <Plug>(go-info)
 
-au User asyncomplete_setup call asyncomplete#ale#register_source({
-    \ 'name': 'reason',
-    \ 'linter': 'flow',
-    \ })
+if executable('gopls')
+  au User lsp_setup call lsp#register_server({
+        \ 'name': 'gopls',
+        \ 'cmd': {server_info->['gopls']},
+        \ 'whitelist': ['go'],
+        \ })
+endif
+
 let g:asyncomplete_auto_completeopt = 0
-set completeopt=menuone,noinsert,preview,popup
+set completeopt=menuone,noinsert,noselect,preview
+inoremap <expr> <Tab>   pumvisible() ? "\<C-n>" : "\<Tab>"
+inoremap <expr> <S-Tab> pumvisible() ? "\<C-p>" : "\<S-Tab>"
+inoremap <expr> <cr>    pumvisible() ? asyncomplete#close_popup() : "\<cr>"
 
 " Setup fzf
 let g:fzf_vim = {}
